@@ -165,6 +165,24 @@ tbody tr.clickable{cursor:pointer}
 .scope-card.rules{border-left:4px solid var(--purple)}
 .scope-card.holds{border-left:4px solid var(--warn)}
 .aria-live{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+
+/* === READABLE FEATURE/MARKER PANELS === */
+.drawer-hero{margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--border)}
+.drawer-hero-title{font-size:1.2rem;font-weight:700;color:var(--accent)}
+.drawer-hero-id{font-size:0.8rem;margin-top:2px}
+.drawer-hero-domain{font-size:0.85rem;color:var(--muted);margin-top:4px}
+.drawer-status-line{display:flex;align-items:center;gap:8px;margin-top:8px;flex-wrap:wrap}
+.drawer-status-note{font-size:0.82rem;color:var(--muted)}
+.tech-details{margin-top:16px;border-top:1px solid var(--border);padding-top:8px}
+.tech-details summary{cursor:pointer;font-size:0.85rem;color:var(--primary);font-weight:600;padding:6px 0}
+.tech-details-body{padding-top:8px}
+.feat-title-cell .feat-title{font-weight:600}
+.feat-title-cell .feat-id{font-size:0.75rem;margin-top:2px}
+.feat-gm-cell .feat-gm-line{font-size:0.82rem;margin-bottom:2px}
+.feat-gm-cell .feat-gm-k{color:var(--muted);font-weight:600}
+.marker-id-cell{font-weight:600}
+.marker-count-cell{font-size:0.85rem;color:var(--muted)}
+.highlight-target{outline:2px solid var(--primary);outline-offset:2px;transition:outline-color .3s}
 </style>
 </head>
 <body>
@@ -378,6 +396,41 @@ function renderHome() {
 }
 
 // === FEATURES ===
+var STATUS_DICT = {
+  primary_state: {
+    interim: {label:'In progress', tone:'warn', note:'Still being researched or reviewed.'},
+    terminal: {label:'Finalized', tone:'success', note:'Review is complete for this feature.'}
+  },
+  scientific_disposition: {
+    'Evidence unresolved': {label:'Evidence still unclear', tone:'warn'},
+    'Decision completed': {label:'Reviewed and decided', tone:'success'},
+    'Promising evidence': {label:'Promising early evidence', tone:'info'},
+    'Related or incomplete evidence': {label:'Some related evidence found', tone:'neutral'}
+  },
+  evidence_status: {
+    EXPLANATORY_CONTENT_ONLY: {label:'Not available yet', note:'No qualifying scientific evidence has been confirmed for this yet — background info only.', tone:'warn'},
+    MODEL_RECONSTRUCTION_REQUIRED: {label:'Needs rework', note:'The underlying model needs to be rebuilt before this can be evaluated.', tone:'warn'},
+    READY_DIRECT_RULE: {label:'Available', note:'This has a confirmed, ready-to-use result.', tone:'success'},
+    DRAFT_PENDING_EVIDENCE: {label:'Drafted, awaiting evidence', note:'A first version exists but is waiting on stronger evidence.', tone:'info'},
+    MARKER_REPAIR_REQUIRED: {label:'Blocked — data issue', note:'A data problem with the underlying marker needs fixing first.', tone:'error'},
+    READY_EXPLORATORY_RULE: {label:'Available (exploratory)', note:'Available, but based on early/exploratory evidence rather than a confirmed rule.', tone:'info'}
+  },
+  retrieval_status: {
+    RETRIEVAL_REQUIRED: {label:'Research not started', tone:'neutral'},
+    UNTRIAGED: {label:'Not yet reviewed', tone:'neutral'},
+    RETRIEVED: {label:'Source material collected', tone:'info'},
+    TECHNICAL_ACCESS_BLOCKER: {label:'Blocked — source not accessible', tone:'error'}
+  },
+  reliability_grade: {
+    U: {label:'Unrated', note:'Not yet graded for reliability.', tone:'neutral'},
+    C: {label:'Moderate confidence', tone:'info'},
+    D: {label:'Preliminary', note:'Early-stage, lower confidence.', tone:'warn'}
+  }
+};
+function statusInfo(dictKey, rawValue) {
+  var d = (STATUS_DICT[dictKey] || {})[rawValue];
+  return d || {label: rawValue || 'Unknown', tone: 'neutral'};
+}
 var featState = {page:1, pageSize:25, sortCol:'feature_id', sortDir:1, filterDomain:'', filterStatus:'', filterSearch:''};
 function renderFeatures() {
   var f = D.features;
@@ -391,23 +444,40 @@ function renderFeatures() {
   var totalPages = Math.ceil(f.length / featState.pageSize);
   if (featState.page > totalPages) featState.page = 1;
   if (featState.pageSize === 99999) { var pageData = f; } else { var start = (featState.page-1)*featState.pageSize; pageData = f.slice(start, start+featState.pageSize); }
-  // Render table
+  // Render toolbar
   var html = '<div class="toolbar"><label>Domain</label><select data-action="feat-domain"><option value="">All</option>';
   var domains = []; D.features.forEach(function(x){if(x.biological_domain && domains.indexOf(x.biological_domain)<0)domains.push(x.biological_domain)});
   domains.sort().forEach(function(d){html += '<option value="'+esc(d)+'"'+(d===featState.filterDomain?' selected':'')+'>'+esc(d)+'</option>'});
   html += '</select><label>Status</label><select data-action="feat-status"><option value="">All</option>';
   var statuses = []; D.features.forEach(function(x){if(x.primary_state && statuses.indexOf(x.primary_state)<0)statuses.push(x.primary_state)});
-  statuses.forEach(function(s){html += '<option value="'+esc(s)+'"'+(s===featState.filterStatus?' selected':'')+'>'+esc(s)+'</option>'});
+  statuses.forEach(function(s){
+    var si = statusInfo('primary_state', s);
+    html += '<option value="'+esc(s)+'"'+(s===featState.filterStatus?' selected':'')+'>'+esc(si.label)+'</option>';
+  });
   html += '</select><input type="text" placeholder="Search features..." data-action="feat-search" value="'+esc(featState.filterSearch)+'"><button type="button" class="btn" data-action="feat-export">Export CSV</button><div class="spacer"></div><label>Per page</label><select data-action="page-size"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="99999">All</option></select></div>';
   // Filter chips
   var chips = '';
   if (featState.filterDomain) chips += '<span class="filter-chip">Domain: '+esc(featState.filterDomain)+' <button type="button" data-action="clear-feature-filter" data-filter-key="filterDomain">&times;</button></span>';
-  if (featState.filterStatus) chips += '<span class="filter-chip">Status: '+esc(featState.filterStatus)+' <button type="button" data-action="clear-feature-filter" data-filter-key="filterStatus">&times;</button></span>';
+  if (featState.filterStatus) { var ssChip = statusInfo('primary_state', featState.filterStatus); chips += '<span class="filter-chip">Status: '+esc(ssChip.label)+' <button type="button" data-action="clear-feature-filter" data-filter-key="filterStatus">&times;</button></span>'; }
   if (featState.filterSearch) chips += '<span class="filter-chip">Search: '+esc(featState.filterSearch)+' <button type="button" data-action="clear-feature-filter" data-filter-key="filterSearch">&times;</button></span>';
   if (chips) html += '<div class="filter-chips" id="featChips">' + chips + '</div>';
-  html += '<div class="table-wrap"><table id="featTable"><thead><tr><th data-sort="feature_id">ID</th><th data-sort="title">Title</th><th data-sort="biological_domain">Domain</th><th data-sort="primary_state">Status</th><th data-sort="scientific_disposition">Disposition</th><th data-sort="evidence_status">Evidence</th><th>Markers</th></tr></thead><tbody>';
+  // Render readable card list (table kept for data-sort wiring + ids that other code depends on)
+  html += '<div class="table-wrap"><table id="featTable"><thead><tr>';
+  html += '<th data-sort="feature_id">Feature</th>';
+  html += '<th data-sort="biological_domain">Domain</th>';
+  html += '<th data-sort="evidence_status">Availability</th>';
+  html += '<th>Genes &amp; Markers</th>';
+  html += '</tr></thead><tbody>';
   pageData.forEach(function(r){
-    html += '<tr class="clickable" data-id="'+esc(r.feature_id)+'" data-type="feature"><td>'+esc(r.feature_id)+'</td><td>'+esc(r.title)+'</td><td>'+esc(r.biological_domain||'')+'</td><td><span class="badge '+(r.primary_state==='terminal'?'b-success':'b-neutral')+'">'+esc(r.primary_state||'')+'</span></td><td>'+esc(r.scientific_disposition||'')+'</td><td>'+esc(r.evidence_status||'')+'</td><td>'+esc(r.markers||'')+'</td></tr>';
+    var ev = statusInfo('evidence_status', r.evidence_status);
+    var geneTxt = r.genes ? esc(r.genes) : '<span class="muted">—</span>';
+    var markTxt = r.markers ? esc(r.markers) : '<span class="muted">—</span>';
+    html += '<tr class="clickable feat-card-row" data-id="'+esc(r.feature_id)+'" data-type="feature">';
+    html += '<td class="feat-title-cell"><div class="feat-title">'+esc(r.title||r.feature_id)+'</div><div class="feat-id muted">'+esc(r.feature_id)+'</div></td>';
+    html += '<td>'+esc(r.biological_domain||'<span class="muted">—</span>')+'</td>';
+    html += '<td><span class="badge b-'+ev.tone+'">'+esc(ev.label)+'</span></td>';
+    html += '<td class="feat-gm-cell"><div class="feat-gm-line"><span class="feat-gm-k">Genes:</span> '+geneTxt+'</div><div class="feat-gm-line"><span class="feat-gm-k">Markers:</span> '+markTxt+'</div></td>';
+    html += '</tr>';
   });
   html += '</tbody></table></div>';
   // Pager
@@ -434,17 +504,33 @@ function renderPager(total, totalPages) {
 function openFeatureDrawer(fid) {
   var f = D.features.find(function(x){return x.feature_id === fid});
   if (!f) return;
-  var html = '<div class="field-row"><div class="field-label">Feature ID</div><div class="field-value">'+esc(f.feature_id)+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Title</div><div class="field-value">'+esc(f.title)+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Biological Domain</div><div class="field-value">'+esc(f.biological_domain||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Source Module</div><div class="field-value">'+esc(f.source_module||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Primary State</div><div class="field-value">'+esc(f.primary_state||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Scientific Disposition</div><div class="field-value">'+esc(f.scientific_disposition||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Evidence Status</div><div class="field-value">'+esc(f.evidence_status||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Retrieval Status</div><div class="field-value">'+esc(f.retrieval_status||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Reliability Grade</div><div class="field-value">'+esc(f.reliability_grade||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Genes</div><div class="field-value">'+esc(f.genes||'')+'</div></div>';
-  // Markers as clickable links
+  // ---- Readable header ----
+  var html = '<div class="drawer-hero">';
+  html += '<div class="drawer-hero-title">'+esc(f.title||f.feature_id)+'</div>';
+  html += '<div class="drawer-hero-id muted">'+esc(f.feature_id)+'</div>';
+  if (f.biological_domain) html += '<div class="drawer-hero-domain">'+esc(f.biological_domain)+'</div>';
+  // Primary evidence-status badge + plain note
+  var ev = statusInfo('evidence_status', f.evidence_status);
+  html += '<div class="drawer-status-line"><span class="badge b-'+ev.tone+'">'+esc(ev.label)+'</span>';
+  if (ev.note) html += '<span class="drawer-status-note">'+esc(ev.note)+'</span>';
+  html += '</div>';
+  // Scientific disposition badge (plain) if present
+  if (f.scientific_disposition) {
+    var sd = statusInfo('scientific_disposition', f.scientific_disposition);
+    html += '<div class="drawer-status-line"><span class="badge b-'+sd.tone+'">'+esc(sd.label)+'</span>';
+    if (sd.note) html += '<span class="drawer-status-note">'+esc(sd.note)+'</span>';
+    html += '</div>';
+  }
+  // Primary state badge (plain) if present
+  if (f.primary_state) {
+    var ps = statusInfo('primary_state', f.primary_state);
+    html += '<div class="drawer-status-line"><span class="badge b-'+ps.tone+'">'+esc(ps.label)+'</span>';
+    if (ps.note) html += '<span class="drawer-status-note">'+esc(ps.note)+'</span>';
+    html += '</div>';
+  }
+  html += '</div>';
+  // ---- Genes / Markers as clickable chips ----
+  html += '<div class="field-row"><div class="field-label">Genes</div><div class="field-value">'+(f.genes?esc(f.genes):'<span class="muted">—</span>')+'</div></div>';
   var markerLinks = '';
   if (f.markers) {
     f.markers.split(';').forEach(function(m){
@@ -452,12 +538,8 @@ function openFeatureDrawer(fid) {
       if (mk) markerLinks += safeLink(mk, '#marker/'+mk, 'marker') + ' ';
     });
   }
-  html += '<div class="field-row"><div class="field-label">Markers</div><div class="field-value">'+(markerLinks||esc(f.markers||''))+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Source Product</div><div class="field-value">'+esc(f.source_product||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Category Origin</div><div class="field-value">'+esc(f.category_origin||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Technical Model Status</div><div class="field-value">'+esc(f.technical_model_status||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Proprietary Model</div><div class="field-value">'+esc(f.proprietary_model_flag||'')+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Applicability</div><div class="field-value">NOT_EVALUATED_PRIVACY_BOUNDARY</div></div>';
+  html += '<div class="field-row"><div class="field-label">Markers</div><div class="field-value">'+(markerLinks||'<span class="muted">—</span>')+'</div></div>';
+  // ---- Related sections (kept as-is) ----
   // Related rules
   var relatedRules = D.rules.filter(function(r){return r.markers && r.markers.some(function(m){return f.markers && f.markers.indexOf(m)>=0})});
   if (relatedRules.length > 0) {
@@ -485,11 +567,42 @@ function openFeatureDrawer(fid) {
     relatedEvid.forEach(function(re){html += '<li>'+safeLink(re.e.marker+' | '+re.e.field, '#evidence/EVID-'+re.idx, 'evidence')+' — '+esc(re.e.value)+'</li>'});
     html += '</ul>';
   }
+  // ---- Collapsible Technical details (all raw fields preserved) ----
+  html += '<details class="tech-details"><summary>Technical details</summary><div class="tech-details-body">';
+  html += '<div class="field-row"><div class="field-label">Feature ID</div><div class="field-value">'+esc(f.feature_id)+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Title</div><div class="field-value">'+esc(f.title)+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Biological Domain</div><div class="field-value">'+esc(f.biological_domain||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Source Module</div><div class="field-value">'+esc(f.source_module||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Primary State</div><div class="field-value">'+esc(f.primary_state||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Scientific Disposition</div><div class="field-value">'+esc(f.scientific_disposition||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Evidence Status</div><div class="field-value">'+esc(f.evidence_status||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Retrieval Status</div><div class="field-value">'+esc(f.retrieval_status||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Reliability Grade</div><div class="field-value">'+esc(f.reliability_grade||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Genes</div><div class="field-value">'+esc(f.genes||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Markers</div><div class="field-value">'+(markerLinks||esc(f.markers||''))+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Source Product</div><div class="field-value">'+esc(f.source_product||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Category Origin</div><div class="field-value">'+esc(f.category_origin||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Technical Model Status</div><div class="field-value">'+esc(f.technical_model_status||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Proprietary Model</div><div class="field-value">'+esc(f.proprietary_model_flag||'')+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Applicability</div><div class="field-value">NOT_EVALUATED_PRIVACY_BOUNDARY</div></div>';
+  html += '</div></details>';
   openDrawer(f.feature_id + ': ' + f.title, html);
 }
 
 // === MARKERS ===
 var markState = {page:1, pageSize:25, sortCol:'marker', sortDir:1};
+function renderMarkerPager(total, totalPages) {
+  if (totalPages <= 1) return '<span class="muted">'+total+' records</span>';
+  var html = '<div style="display:flex;gap:4px;align-items:center">';
+  html += '<button type="button" class="btn" data-action="mark-page" data-page="1" aria-label="First page">&laquo;</button>';
+  for (var p = 1; p <= Math.min(totalPages, 10); p++) {
+    html += '<button type="button" class="btn '+(p===markState.page?'btn-primary':'')+'" data-action="mark-page" data-page="'+p+'">'+p+'</button>';
+  }
+  if (totalPages > 10) html += '<span>...</span><button type="button" class="btn" data-action="mark-page" data-page="'+totalPages+'" aria-label="Last page">'+totalPages+'</button>';
+  html += '<button type="button" class="btn" data-action="mark-page" data-page="'+totalPages+'" aria-label="Last page">&raquo;</button>';
+  html += '<span class="muted" style="margin-left:8px">'+total+' records</span></div>';
+  return html;
+}
 function renderMarkers() {
   var m = D.markers.slice().sort(function(a,b){var va=a[markState.sortCol]||'', vb=b[markState.sortCol]||''; if(va<vb)return -markState.sortDir; if(va>vb)return markState.sortDir; return 0});
   var totalPages = Math.ceil(m.length / markState.pageSize);
@@ -500,9 +613,18 @@ function renderMarkers() {
   html += '<div class="table-wrap"><table id="markerTable"><thead><tr><th data-sort="marker">Marker</th><th>Genes</th><th>Linked Features</th><th>Rules</th><th>Holds</th></tr></thead><tbody>';
   pageData.forEach(function(r){
     var featCount = (r.features||[]).length;
-    html += '<tr class="clickable" data-id="'+esc(r.marker)+'" data-type="marker"><td class="mono">'+esc(r.marker)+'</td><td>'+esc((r.genes||[]).join('; '))+'</td><td>'+featCount+'</td><td>'+(r.rules||[]).length+'</td><td>'+(r.holds||[]).length+'</td></tr>';
+    var ruleCount = (r.rules||[]).length;
+    var holdCount = (r.holds||[]).length;
+    html += '<tr class="clickable" data-id="'+esc(r.marker)+'" data-type="marker">';
+    html += '<td class="mono marker-id-cell">'+esc(r.marker)+'</td>';
+    html += '<td class="marker-genes-cell">'+((r.genes&&r.genes.length)?esc(r.genes.join('; ')):'<span class="muted">—</span>')+'</td>';
+    html += '<td class="marker-count-cell">'+featCount+' linked feature'+(featCount===1?'':'s')+'</td>';
+    html += '<td class="marker-count-cell">'+ruleCount+' rule'+(ruleCount===1?'':'s')+'</td>';
+    html += '<td class="marker-count-cell">'+holdCount+' hold'+(holdCount===1?'':'s')+'</td>';
+    html += '</tr>';
   });
   html += '</tbody></table></div>';
+  html += '<div class="toolbar" id="markerPager">'+renderMarkerPager(m.length, totalPages)+'</div>';
   document.getElementById('markerContent').innerHTML = html;
   var psSel = document.querySelector('#markerContent select[data-action="mark-page-size"]');
   if (psSel) { psSel.value = String(markState.pageSize); }
@@ -511,32 +633,41 @@ function renderMarkers() {
 function openMarkerDrawer(markerId) {
   var m = D.markers.find(function(x){return x.marker === markerId});
   if (!m) return;
-  var html = '<div class="field-row"><div class="field-label">Marker</div><div class="field-value mono">'+esc(m.marker)+'</div></div>';
-  html += '<div class="field-row"><div class="field-label">Genes</div><div class="field-value">'+esc((m.genes||[]).join('; '))+'</div></div>';
-  // Linked features as clickable links
+  // Readable header
+  var html = '<div class="drawer-hero">';
+  html += '<div class="drawer-hero-title mono">'+esc(m.marker)+'</div>';
+  if (m.genes && m.genes.length) html += '<div class="drawer-hero-domain">Genes: '+esc(m.genes.join('; '))+'</div>';
+  html += '</div>';
+  // Linked features as readable list
   var featLinks = (m.features||[]).map(function(fid){return safeLink(fid, '#feature/'+fid, 'feature')}).join(' ');
-  html += '<div class="field-row"><div class="field-label">Linked Features ('+(m.features||[]).length+')</div><div class="field-value">'+featLinks+'</div></div>';
+  html += '<div class="field-row"><div class="field-label">Linked Features ('+(m.features||[]).length+')</div><div class="field-value">'+(featLinks||'<span class="muted">None</span>')+'</div></div>';
   // Related rules
   var relatedRules = D.rules.filter(function(r){return r.markers && r.markers.indexOf(m.marker)>=0});
   if (relatedRules.length > 0) {
-    html += '<h3>Related Rules</h3><ul>';
+    html += '<h3>Related Rules ('+relatedRules.length+')</h3><ul>';
     relatedRules.forEach(function(r){html += '<li>'+safeLink(r.rule_id, '#rule/'+r.rule_id, 'rule')+' — '+esc(r.endpoint||'')+'</li>'});
     html += '</ul>';
+  } else {
+    html += '<h3>Related Rules</h3><p class="muted">No linked rules.</p>';
   }
   // Related holds
   var relatedHolds = D.holds.filter(function(h){return h.marker === m.marker});
   if (relatedHolds.length > 0) {
-    html += '<h3>Related Holds</h3><ul>';
+    html += '<h3>Related Holds ('+relatedHolds.length+')</h3><ul>';
     relatedHolds.forEach(function(h){html += '<li>'+safeLink(h.unit_id, '#hold/'+h.unit_id, 'hold')+'</li>'});
     html += '</ul>';
+  } else {
+    html += '<h3>Related Holds</h3><p class="muted">No linked holds.</p>';
   }
   // Related evidence
   var relatedEvid = [];
   D.evidence.forEach(function(e,i){if(e.marker === m.marker) relatedEvid.push({idx:i, e:e})});
   if (relatedEvid.length > 0) {
-    html += '<h3>Related Evidence</h3><ul>';
+    html += '<h3>Related Evidence ('+relatedEvid.length+')</h3><ul>';
     relatedEvid.forEach(function(re){html += '<li>'+safeLink(re.e.field+': '+re.e.value, '#evidence/EVID-'+re.idx, 'evidence')+' — '+esc(re.e.source)+'</li>'});
     html += '</ul>';
+  } else {
+    html += '<h3>Related Evidence</h3><p class="muted">No linked evidence.</p>';
   }
   openDrawer(m.marker, html);
 }
@@ -553,7 +684,7 @@ function renderRuleCards() {
   var html = '';
   D.rules.forEach(function(r){
     var schema = D.ruleSchemaDisplay.find(function(d){return d.rule_id === r.rule_id}) || {};
-    var evaluator = dispatcherEvalMap[r.rule_id] || schema.evaluator || '';
+    var evaluator = schema.evaluator || '';
     var testCount = D.ruleTestCounts[r.rule_id] || 0;
     var schemaClass = 'schema-' + r.schema_family;
     html += '<div class="rule-card" id="rule-'+esc(r.rule_id)+'">';
@@ -630,7 +761,7 @@ function rulePurpose(r) {
 function renderHolds() {
   var html = '<div class="view-toggle"><button type="button" id="holdViewSimple" class="active">Simple</button><button type="button" id="holdViewTechnical">Technical</button></div>';
   D.holds.forEach(function(h){
-    html += '<div class="hold-card">';
+    html += '<div class="hold-card" id="hold-'+esc(h.unit_id)+'">';
     html += '<h3>'+esc(h.unit_id)+'</h3>';
     html += '<p><strong>Marker:</strong> '+esc(h.marker)+'</p>';
     html += '<p><strong>Gene:</strong> '+esc(h.gene||'')+'</p>';
@@ -650,13 +781,10 @@ function renderHolds() {
 }
 
 // === TESTS ===
-function renderTests() {
-  var html = '<div class="toolbar"><label>Suite</label><select data-action="test-suite"><option value="">All</option>';
-  var suites = {}; D.tests.forEach(function(t){suites[t.suite]=1});
-  Object.keys(suites).sort().forEach(function(s){html += '<option value="'+esc(s)+'">'+esc(s)+'</option>'});
-  html += '</select></div>';
-  html += '<div class="table-wrap"><table id="testTable"><thead><tr><th>Test ID</th><th>Suite</th><th>Rule/Unit</th><th>Input</th><th>Expected</th><th>Result</th><th>Evaluator Route</th></tr></thead><tbody>';
-  D.tests.forEach(function(t){
+var testState = {suite: ''};
+function renderTestRows(tests) {
+  var html = '';
+  tests.forEach(function(t){
     var rid = t.rule_id;
     // For P25AG1 tests, map to production rule
     var displayRule = rid;
@@ -667,8 +795,22 @@ function renderTests() {
     }
     html += '<tr class="clickable" data-id="'+esc(t.test_id)+'" data-type="test"><td class="mono">'+esc(t.test_id)+'</td><td>'+esc(t.suite)+'</td><td>'+esc(displayRule)+'</td><td class="mono">'+esc(t.input||'')+'</td><td>'+esc(t.expected_category||'')+'</td><td><span class="badge '+(t.result==='PASS'?'b-success':'b-error')+'">'+esc(t.result)+'</span></td><td class="mono">'+esc(t.evaluator_route||'')+'</td></tr>';
   });
+  return html;
+}
+function renderTests() {
+  var html = '<div class="toolbar"><label>Suite</label><select data-action="test-suite"><option value="">All</option>';
+  var suites = {}; D.tests.forEach(function(t){suites[t.suite]=1});
+  Object.keys(suites).sort().forEach(function(s){html += '<option value="'+esc(s)+'"'+(s===testState.suite?' selected':'')+'>'+esc(s)+'</option>'});
+  html += '</select></div>';
+  html += '<div class="table-wrap"><table id="testTable"><thead><tr><th>Test ID</th><th>Suite</th><th>Rule/Unit</th><th>Input</th><th>Expected</th><th>Result</th><th>Evaluator Route</th></tr></thead><tbody>';
+  var tests = testState.suite ? D.tests.filter(function(t){return t.suite === testState.suite}) : D.tests;
+  html += renderTestRows(tests);
   html += '</tbody></table></div>';
   document.getElementById('testContent').innerHTML = html;
+}
+function renderTestsWithFilter(suite) {
+  testState.suite = suite || '';
+  renderTests();
 }
 
 function openTestDrawer(testId) {
@@ -689,7 +831,7 @@ function openTestDrawer(testId) {
 
 // === EVIDENCE ===
 function renderEvidence() {
-  var html = '<div class="view-toggle"><button type="button" id="evidViewGrouped" class="active">Grouped</button><button type="button" id="evidViewRaw">Raw</button></button></div><div id="evidContent"></div>';
+  var html = '<div class="view-toggle"><button type="button" id="evidViewGrouped" class="active">Grouped</button><button type="button" id="evidViewRaw">Raw</button></div><div id="evidContent"></div>';
   document.getElementById('evidenceContent').innerHTML = html;
   renderEvidenceGrouped();
 }
@@ -834,8 +976,8 @@ function handleSearchNav(hash, type, id) {
   // Navigate to the section and open the record
   if (type === 'feature') { navigateTo('features'); setTimeout(function(){openFeatureDrawer(id)},100); }
   else if (type === 'marker') { navigateTo('markers'); setTimeout(function(){openMarkerDrawer(id)},100); }
-  else if (type === 'rule') { navigateTo('rules'); }
-  else if (type === 'hold') { navigateTo('holds'); }
+  else if (type === 'rule') { navigateTo('rules'); setTimeout(function(){var el = document.getElementById('rule-'+id); if (el) { el.scrollIntoView({behavior:'smooth', block:'start'}); el.classList.add('highlight-target'); setTimeout(function(){el.classList.remove('highlight-target')}, 1500); }},100); }
+  else if (type === 'hold') { navigateTo('holds'); setTimeout(function(){var el = document.getElementById('hold-'+id); if (el) { el.scrollIntoView({behavior:'smooth', block:'start'}); el.classList.add('highlight-target'); setTimeout(function(){el.classList.remove('highlight-target')}, 1500); }},100); }
   else if (type === 'evidence') { navigateTo('evidence'); setTimeout(function(){openEvidenceDrawer(id)},100); }
   else if (type === 'test') { navigateTo('tests'); setTimeout(function(){openTestDrawer(id)},100); }
   else if (type === 'stage') { navigateTo('stages'); setTimeout(function(){openStageDrawer(id)},100); }
@@ -882,7 +1024,7 @@ document.addEventListener('click', function(e) {
       var targetId = btn.getAttribute('data-target');
       var targetEl = document.getElementById(targetId);
       var resultEl = document.getElementById('copy-result-' + targetId.replace('sha-',''));
-      if (!resultEl) { var ruleId = targetId.replace('sha-',''); resultEl = document.getElementById('copy-result-' + ruleId); }
+      if (!resultEl) { resultEl = document.getElementById(targetId + '-copy-result') || btn.parentElement.querySelector('.copy-result'); }
       if (targetEl && resultEl) copyText(targetEl.textContent, resultEl);
       break;
     case 'feat-domain': featState.filterDomain = btn.value; featState.page = 1; renderFeatures(); break;
@@ -891,6 +1033,7 @@ document.addEventListener('click', function(e) {
     case 'feat-export': exportFeaturesCSV(); break;
     case 'page-size': featState.pageSize = parseInt(btn.value); featState.page = 1; renderFeatures(); break;
     case 'mark-page-size': markState.pageSize = parseInt(btn.value); markState.page = 1; renderMarkers(); break;
+    case 'mark-page': markState.page = parseInt(btn.getAttribute('data-page')); renderMarkers(); break;
     case 'page': featState.page = parseInt(btn.getAttribute('data-page')); renderFeatures(); break;
     case 'clear-feature-filter':
       var fk = btn.getAttribute('data-filter-key');
@@ -965,10 +1108,11 @@ document.addEventListener('click', function(e) {
 
 // Keyboard navigation
 document.addEventListener('keydown', function(e) {
-  if (e.key === 'Enter' || e.key === ' ') {
-    var focused = document.activeElement;
+  var focused = document.activeElement;
+  var isTextEntry = focused && (focused.tagName === 'INPUT' || focused.tagName === 'TEXTAREA' || focused.tagName === 'SELECT');
+  if (e.key === 'Enter' || (e.key === ' ' && !isTextEntry)) {
     if (focused && focused.classList.contains('nav-item')) { e.preventDefault(); navigateTo(focused.getAttribute('data-nav-id')); }
-    if (focused && focused.hasAttribute('data-action')) { e.preventDefault(); focused.click(); }
+    if (focused && focused.hasAttribute('data-action') && !isTextEntry) { e.preventDefault(); focused.click(); }
   }
   if (e.key === 'Escape') closeDrawer();
 });
