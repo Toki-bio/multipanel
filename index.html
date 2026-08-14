@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Multipanel — Array Design Project</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #0f1115;
+    --panel: #1a1d24;
+    --text: #e8e9ec;
+    --muted: #9aa0ab;
+    --accent: #6ea8fe;
+    --border: #2a2e37;
+    --error: #ff6b6b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+  .gate {
+    max-width: 420px;
+    width: 100%;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 32px;
+  }
+  .gate h1 {
+    font-size: 1.25rem;
+    margin: 0 0 6px;
+  }
+  .gate p.sub {
+    color: var(--muted);
+    margin: 0 0 24px;
+    font-size: 0.9rem;
+  }
+  label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: #11141a;
+    color: var(--text);
+    font-size: 1rem;
+    margin-bottom: 12px;
+  }
+  input[type="text"]:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  button {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: none;
+    background: var(--accent);
+    color: #0f1115;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  button:hover { filter: brightness(1.05); }
+  .error {
+    color: var(--error);
+    font-size: 0.85rem;
+    min-height: 1.2em;
+    margin-top: 10px;
+  }
+  #content { display: none; }
+  #content .wrap {
+    max-width: 720px;
+    width: 100%;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 32px;
+  }
+  #content h1 { margin-top: 0; }
+  #content .sub { color: var(--muted); margin-bottom: 24px; }
+  #content ul { list-style: none; padding: 0; margin: 0; }
+  #content li {
+    border-bottom: 1px solid var(--border);
+  }
+  #content li:last-child { border-bottom: none; }
+  #content a {
+    display: block;
+    padding: 12px 4px;
+    color: var(--text);
+    text-decoration: none;
+  }
+  #content a:hover { color: var(--accent); }
+  #content .section-title {
+    color: var(--muted);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 20px 0 4px;
+  }
+</style>
+</head>
+<body>
+
+<div class="gate" id="gate">
+  <h1>Multipanel</h1>
+  <p class="sub">Restricted content. Answer the security question to continue.</p>
+  <form id="gate-form">
+    <label for="answer">Our sysadmin's name</label>
+    <input type="text" id="answer" autocomplete="off" autofocus>
+    <button type="submit">Enter</button>
+    <div class="error" id="gate-error"></div>
+  </form>
+</div>
+
+<div id="content">
+  <div class="wrap">
+    <h1>Multipanel — Array Design Project</h1>
+    <p class="sub">WeGene-derived panel work and related array design materials.</p>
+
+    <div class="section-title">Interface</div>
+    <ul>
+      <li><a href="wegene-interface/P25AJ3_COMPLETE_USER_FRIENDLY_DATA_INTERFACE.html">P25AJ3 — Data interface (sample viewer)</a></li>
+    </ul>
+
+    <div class="section-title">Project documentation</div>
+    <ul>
+      <li><a href="wegene/wegene_project_full_documentation.md">Full project documentation</a></li>
+      <li><a href="wegene/wegene_external_annotation_plan.md">External annotation plan</a></li>
+      <li><a href="wegene/wegene_pdf_feasibility_report.md">PDF extraction feasibility report</a></li>
+      <li><a href="wegene/wegene_snp_crosscheck_report.md">SNP crosscheck report</a></li>
+      <li><a href="wegene/wegene_structured_files_schema_report.md">Structured files schema report</a></li>
+      <li><a href="wegene/trait_track_reconciliation_report.md">Trait track reconciliation report</a></li>
+    </ul>
+
+    <div class="section-title">Trait catalog (source)</div>
+    <ul>
+      <li><a href="wegene/trait-catalog.md">Trait catalog — summary</a></li>
+      <li><a href="wegene/trait-catalog.csv">Trait catalog (CSV)</a></li>
+      <li><a href="wegene/trait-catalog.json">Trait catalog (JSON)</a></li>
+      <li><a href="wegene/snp-panel.csv">SNP panel (CSV)</a></li>
+      <li><a href="wegene/snp-panel.txt">SNP panel (TXT)</a></li>
+      <li><a href="wegene/trait_track_reconciliation.tsv">Trait track reconciliation (TSV)</a></li>
+    </ul>
+
+    <div class="section-title">Commercial trait catalog</div>
+    <ul>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_summary_report.md">Summary report</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_by_module.md">By module</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_TierA_QC.md">Tier A QC</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_mvp_candidates.md">MVP candidates</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_excluded_or_sensitive.md">Excluded / sensitive</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_CANDIDATE.tsv">Candidate list (TSV)</a></li>
+      <li><a href="wegene/commercial_trait_catalog/commercial_trait_catalog_TierA_review.tsv">Tier A review (TSV)</a></li>
+    </ul>
+
+    <div class="section-title">Medical trait catalog</div>
+    <ul>
+      <li><a href="wegene/medical_trait_catalog/medical_trait_catalog_summary_report.md">Summary report</a></li>
+      <li><a href="wegene/medical_trait_catalog/medical_trait_catalog_by_module.md">By module</a></li>
+      <li><a href="wegene/medical_trait_catalog/medical_trait_catalog_not_customer_ready.md">Not customer-ready</a></li>
+      <li><a href="wegene/medical_trait_catalog/medical_trait_catalog_validation_requirements.md">Validation requirements</a></li>
+      <li><a href="wegene/medical_trait_catalog/medical_trait_catalog_CANDIDATE.tsv">Candidate list (TSV)</a></li>
+    </ul>
+  </div>
+</div>
+
+<script>
+(function () {
+  var ANSWER = "bahrom";
+  var SESSION_KEY = "multipanel_unlocked";
+
+  function normalize(s) {
+    return (s || "").trim().toLowerCase();
+  }
+
+  function unlock() {
+    document.getElementById("gate").style.display = "none";
+    document.getElementById("content").style.display = "block";
+  }
+
+  if (sessionStorage.getItem(SESSION_KEY) === "1") {
+    unlock();
+  }
+
+  document.getElementById("gate-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var val = normalize(document.getElementById("answer").value);
+    if (val === ANSWER) {
+      sessionStorage.setItem(SESSION_KEY, "1");
+      unlock();
+    } else {
+      document.getElementById("gate-error").textContent = "Incorrect answer.";
+    }
+  });
+})();
+</script>
+
+</body>
+</html>

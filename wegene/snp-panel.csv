@@ -1,0 +1,2192 @@
+rsid,genes,trait_count,trait_ids,trait_names
+rs10004,,1,wg-1971,H. pylori Infection
+rs1000597,,1,wg-75,UPDATE Renal Calculi
+rs10012946,,1,wg-66,Type 2 Diabetes (T2D)
+rs10033464,,1,wg-39,Atrial Fibrillation
+rs1004787,,1,wg-2335,Wasabi Preference
+rs10048146,,1,wg-1552,Dental Caries
+rs1004819,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs10050860,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs10062,,1,wg-1713,Nonconformity
+rs1006923,TEX41,1,wg-2274,Arterial Stiffness
+rs10097555,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs10097870,,1,wg-1559,Emotional Stability
+rs101203333,,1,wg-1555,UPDATE Diverticulosis
+rs1012053,,1,wg-96,UPDATE Bipolar Disorder
+rs10125362,,1,wg-2389,Coffee with Sugar Preference
+rs1014290,,1,wg-88,UPDATE Gout
+rs10144552,,1,wg-1716,Anti-Social Anxiety Disorder Ability
+rs1014959895,,1,wg-1993,Brachydactyly
+rs1014971,,1,wg-1956,Bladder Cancer
+rs10153,,1,wg-1522,Anti-Tanning Reaction Ability
+rs10166942,,1,wg-107,Migraines
+rs10173528,,1,wg-1555,UPDATE Diverticulosis
+rs10177833,,1,wg-1954,Physical Activity x Hypertension Slightly strong protective role
+rs10195287,,1,wg-2405,Blue Cheese Preference
+rs10208088,,1,wg-2292,Leisure Computer Use Preference​
+rs10218452,,1,wg-107,Migraines
+rs10230959,,1,wg-2343,Crisps Preference
+rs10239794,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs1024161,,2,wg-99;wg-133,Alopecia Areata;UPDATE Hashimoto's Thyroiditis
+rs10243750,,1,wg-2354,Coriander Preference
+rs10246665,,1,wg-2387,Black Pepper Preference
+rs102469,TAS2R38,1,wg-2402,Red Wine Preference
+rs1024905,,1,wg-107,Migraines
+rs10258862,,1,wg-1587,Autism
+rs10260404,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs10274474,,1,wg-2362,Capers Preference
+rs1033962,,1,wg-1770,UPDATE Post-Traumatic Stress Disorder (PTSD)
+rs1038582488,,1,wg-2239,Wilson Disease
+rs10401969,,1,wg-1646,UPDATE Liver Cancer
+rs10411210,,1,wg-44,Colorectal Cancer
+rs10414065,,1,wg-1521,Allergic Diseases
+rs10419397,,1,wg-1649,UPDATE Laryngocarcinoma
+rs1041981,,1,wg-48,Esophageal Cancer
+rs10420,ADH1B,1,wg-1938,Drinking x Esophagus Cancer
+rs1042028,,2,wg-1937;wg-1946,Smoking x Colorectal Cancer;Smoking x Esophagus Cancer
+rs10423928,,1,wg-2318,Oranges Preference
+rs1042522,,1,wg-1952,Smoking x Lung Cancer
+rs1042602,,1,wg-1525,Anti-Freckle Ability
+rs10426201,,1,wg-92,UPDATE Gallstones
+rs1042636,,1,wg-247,Calcium Nutritional Requirement
+rs1042713,,1,wg-1955,Physical Activity x CHD Moderate protective role
+rs10427255,,1,wg-34,Autosomal Dominant Compelling Helio-Ophthalmic Outburst (ACHOO) Syndrome
+rs10443,CHRNA,1,wg-1715,Anti-Loneliness
+rs1044396,,1,wg-77,Nicotine Dependence
+rs1044507,,1,wg-51,UPDATE Scleroderma
+rs10455872,,1,wg-2273,Myocardial Infarction (MI)
+rs10457487,,1,wg-1554,Osteoporosis
+rs10474277,,1,wg-2403,Gherkins Preference
+rs1047781,FUT2,2,wg-253;wg-1965,Vitamin B12 Nutritional Requirement;Norovirus Infection
+rs1047840,,1,wg-1945,Smoking x Stomach Cancer
+rs10484554,,1,wg-90,UPDATE Psoriasis
+rs10484561,,1,wg-73,Follicular Lymphoma
+rs10485057,,1,wg-77,Nicotine Dependence
+rs10486722,,1,wg-1552,Dental Caries
+rs10488,COL4A5,1,wg-1570,Alport Syndrome
+rs10488631,,2,wg-98;wg-65,Systemic Lupus Erythematosus (SLE);UPDATE Sjögren's Syndrome
+rs104886460,,1,wg-2186,Gaucher Disease (GD)
+rs104886461,,1,wg-2057,Mucolipidosis
+rs10489,CAV3;CYP1A1;DMD;GJB2;HCN4;MYL3;SDHD;TGFBR2;TNNI3,10,wg-1577;wg-1578;wg-1755;wg-196;wg-1727;wg-1738;wg-1760;wg-1736;wg-1729;wg-1948,Autosomal Dominant Non-Syndromic Deafness;Autosomal Recessive Non-Syndromic Deafness;Duchenne Muscular Dystrophy (DMD);Hypertrophic Cardiomyopathy;Loeys Dietz Syndrome;Long QT Syndrome (LQTS);Pheochromocytoma;Restrictive Cardiomyopathy;Sick Sinus Syndrome;Smoking x Prostate Cancer
+rs104893613,,1,wg-2068,Achromatopsia
+rs104893614,,1,wg-2068,Achromatopsia
+rs104893687,,1,wg-2080,Biotinidase Deficiency (BTD)
+rs104893763,,1,wg-2046,Combined Pituitary Hormone Deficiency (CPHD)
+rs104893764,,1,wg-2046,Combined Pituitary Hormone Deficiency (CPHD)
+rs104893765,,1,wg-2046,Combined Pituitary Hormone Deficiency (CPHD)
+rs104893791,,1,wg-2082,Retinitis Pigmentosa (RP)
+rs104893873,,1,wg-2041,Progressive External Ophthalmoplegia (PEO)
+rs104893876,,1,wg-2041,Progressive External Ophthalmoplegia (PEO)
+rs104893879,WFS1,1,wg-2241,Wolfram Syndrome
+rs104893881,WFS1,1,wg-2241,Wolfram Syndrome
+rs104893893,,1,wg-2052,Immunodeficiency
+rs104893916,,1,wg-2016,Diastrophic Dysplasia
+rs104893938,,1,wg-2126,Hereditary Pancreatitis (HP)
+rs104893944,ARG1,1,wg-2042,Arginase Deficiency (ARG)
+rs104893947,ARG1,1,wg-2042,Arginase Deficiency (ARG)
+rs104893948,ARG1,1,wg-2042,Arginase Deficiency (ARG)
+rs104893972,NEU1,1,wg-2112,Sialidosis
+rs104893983,NEU1,1,wg-2112,Sialidosis
+rs104894,KCNJ2,1,wg-1730,Short QT Syndrome (SQTS)
+rs104894006,,1,wg-2067,Maturity-Onset Diabetes of the Young (MODY)
+rs104894008,,1,wg-2067,Maturity-Onset Diabetes of the Young (MODY)
+rs104894009,,1,wg-2067,Maturity-Onset Diabetes of the Young (MODY)
+rs104894060,,1,wg-2075,Neuronal Ceroid Lipofuscinosis (NCL)
+rs104894173,PHYH,1,wg-2214,Refsum Disease (RD)
+rs104894174,PHYH,1,wg-2214,Refsum Disease (RD)
+rs104894212,DHCR7,1,wg-2229,Smith-Lemli-Opitz Syndrome (SLOS)
+rs104894213,DHCR7,1,wg-2229,Smith-Lemli-Opitz Syndrome (SLOS)
+rs104894227,HRAS,1,wg-2171,Costello Syndrome
+rs104894311,,1,wg-2100,Arthrogryposis Multiplex Congenita (AMC)
+rs104894312,,1,wg-2100,Arthrogryposis Multiplex Congenita (AMC)
+rs104894314,,1,wg-2062,Skin/Hair/Eye Pigmentation (SHEP)
+rs104894316,,1,wg-2123,Oculocutaneous Albinism (OCA)
+rs104894361,,1,wg-2117,Cardiofaciocutaneous Syndrome (CFC)
+rs104894362,,1,wg-2117,Cardiofaciocutaneous Syndrome (CFC)
+rs104894424,,1,wg-2007,Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome (HHH)
+rs104894429,,1,wg-2007,Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome (HHH)
+rs104894430,,1,wg-2007,Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome (HHH)
+rs104894533,,1,wg-2107,Congenital Disorder of Glycosylation (CDG)
+rs104894563,,1,wg-2085,Glycogen Storage Disease (GSD)
+rs104894641,,1,wg-2056,Mucopolysaccharidosis (MPS)
+rs104894770,BTK,1,wg-2093,Agammaglobulinemia
+rs104894782,,1,wg-2064,Lissencephaly
+rs104894797,,1,wg-2161,Becker Muscular Dystrophy (BMD)
+rs104894801,EFNB1,1,wg-2048,Craniofrontonasal Syndrome (CFNS)
+rs104894804,EFNB1,1,wg-2048,Craniofrontonasal Syndrome (CFNS)
+rs104894828,GLA,1,wg-2182,Fabry Disease
+rs104894830,GLA,1,wg-2182,Fabry Disease
+rs104894831,GLA,1,wg-2182,Fabry Disease
+rs104894856,,1,wg-2056,Mucopolysaccharidosis (MPS)
+rs104894927,,1,wg-2082,Retinitis Pigmentosa (RP)
+rs104894942,,1,wg-2154,3-Methylglutaconic Aciduria (MGA)
+rs104895298,MVK,1,wg-2036,Mevalonic Aciduria (MA)
+rs104895301,MVK,1,wg-2036,Mevalonic Aciduria (MA)
+rs104895311,MVK,1,wg-2036,Mevalonic Aciduria (MA)
+rs10490924,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs1049174,,1,wg-44,Colorectal Cancer
+rs10492367,,1,wg-116,Osteoarthritis (OA)
+rs10492972,,1,wg-69,Multiple Sclerosis (MS)
+rs1049380,AC,1,wg-74,Renal Cancer
+rs1049550,,1,wg-117,UPDATE Sarcoidosis
+rs10496964,,1,wg-1748,UPDATE Epilepsy
+rs10497417,,1,wg-2283,Large Nail Plate Tendency
+rs1050152,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs1050450,,1,wg-1523,Antioxidant Ability
+rs1050631,,1,wg-48,Esophageal Cancer
+rs1050828,G6PD,1,wg-190,Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD)
+rs1050829,G6PD,1,wg-190,Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD)
+rs10508556,,1,wg-2290,Thick Eyebrow Tendency
+rs10513789,,1,wg-47,Parkinson's Disease (PD)
+rs10515,,1,wg-253,Vitamin B12 Nutritional Requirement
+rs10517,EPHX1,2,wg-1938;wg-1946,Drinking x Esophagus Cancer;Smoking x Esophagus Cancer
+rs1051730,CHRNA3,3,wg-77;wg-80;wg-12,Nicotine Dependence;UPDATE Peripheral Artery Disease (PAD);Smoking Behaviors
+rs10519,ZBTB10,1,wg-1558,Risk Tolerance
+rs10519177,,1,wg-1746,UPDATE Aortic Dissection
+rs1052133,,1,wg-1952,Smoking x Lung Cancer
+rs10522286,,1,wg-2336,Asparagus Preference
+rs1056827,,1,wg-1649,UPDATE Laryngocarcinoma
+rs1056836,,2,wg-40;wg-1649,Prostate Cancer;UPDATE Laryngocarcinoma
+rs1057516095,,1,wg-2000,Developmental and Epileptic Encephalopathy (DEE)
+rs1057516098,,1,wg-2000,Developmental and Epileptic Encephalopathy (DEE)
+rs1057516227,,1,wg-2239,Wilson Disease
+rs1057516228,,1,wg-2239,Wilson Disease
+rs1057516241,,1,wg-1988,Epidermolysis Bullosa (EB)
+rs1057516403,,1,wg-2210,Niemann-Pick Disease (NPD)
+rs1057516486,,1,wg-1988,Epidermolysis Bullosa (EB)
+rs1057517732,,1,wg-2221,Rubinstein-Taybi Syndrome (RSTS)
+rs1057517843,,1,wg-2064,Lissencephaly
+rs1057517945,,1,wg-2015,Myofibrillar Myopathy (MFM)
+rs1057518647,,1,wg-2025,Hypobetalipoproteinemia (HBL)
+rs1057518907,GNAS,1,wg-2038,Pseudopseudohypoparathyroidism (PPHP)
+rs1057519732,,1,wg-2117,Cardiofaciocutaneous Syndrome (CFC)
+rs1057520339,,1,wg-2231,Sotos Syndrome
+rs1057520640,,1,wg-2010,Ataxia-Telangiectasia (AT)
+rs1057521737,,1,wg-2221,Rubinstein-Taybi Syndrome (RSTS)
+rs1057524858,,1,wg-1996,Congenital Multicore Myopathy with External Ophthalmoplegia
+rs10592836,,1,wg-1485,UPDATE Otosclerosis
+rs1059513,,1,wg-57,Allergic Rhinitis
+rs1060500738,,1,wg-2134,Juvenile Polyposis Syndrome (JPS)
+rs1060500739,,1,wg-2134,Juvenile Polyposis Syndrome (JPS)
+rs1060500742,,1,wg-2134,Juvenile Polyposis Syndrome (JPS)
+rs1060501687,,1,wg-2010,Ataxia-Telangiectasia (AT)
+rs1060501700,,1,wg-2010,Ataxia-Telangiectasia (AT)
+rs1060502176,,1,wg-2000,Developmental and Epileptic Encephalopathy (DEE)
+rs1060573,,1,wg-1527,Ability To Resist Acne
+rs1064039,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs10642392,,1,wg-2373,Avocados Preference
+rs1064325,,1,wg-2161,Becker Muscular Dystrophy (BMD)
+rs1064395,,1,wg-96,UPDATE Bipolar Disorder
+rs1064795229,,1,wg-2015,Myofibrillar Myopathy (MFM)
+rs1064797059,,1,wg-2144,Acromicric Dysplasia
+rs10738626,,1,wg-101,UPDATE Atopic Dermatitis
+rs10740993,,1,wg-1550,Dental Retardation
+rs10741657,,1,wg-68,Melanoma
+rs10747478,,1,wg-1699,Anorexia Nervosa
+rs10749,,1,wg-2282,Double Eyelid Tendency
+rs10757278,,2,wg-87;wg-109,Coronary Heart Disease (CHD);UPDATE Abdominal Aortic Aneurysm (AAA)
+rs10761659,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs10772380,,1,wg-2363,Tea with Sugar Preference
+rs10774624,,1,wg-56,UPDATE Vitiligo
+rs10774632,,1,wg-1649,UPDATE Laryngocarcinoma
+rs10775480,,1,wg-1956,Bladder Cancer
+rs10789340,,1,wg-2372,Porridge Preference
+rs1079204,,1,wg-1552,Dental Caries
+rs10795,,1,wg-1557,Subjective Well-being
+rs1079727,,1,wg-131,Developmental Dyslexia
+rs10806425,,1,wg-1749,UPDATE Primary Adrenal Insufficiency
+rs10808798,CD14,1,wg-2261,Endotoxins
+rs10819187,,1,wg-1546,Open-Angle Glaucoma
+rs10826,,1,wg-1943,Drinking x Hypertension
+rs10828,,1,wg-2301,Frailty Tendency
+rs10830963,MTNR1B,2,wg-66;wg-2264,Type 2 Diabetes (T2D);Night Shift
+rs10838,MADD,1,wg-2288,Morningness Preference​​
+rs10840457,TEX41,1,wg-2274,Arterial Stiffness
+rs10852521,,1,wg-2347,Honey Preference
+rs1085307455,,1,wg-2133,Permanent Neonatal Diabetes Mellitus (PNDM)
+rs10862089,,1,wg-1958,Vertigo
+rs10865050,,1,wg-1521,Allergic Diseases
+rs10865331,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs10876,,1,wg-2293,Leisure TV Watching Preference​
+rs10877,FGF21;METTL1,2,wg-1703;wg-2346,Vitamin D Nutritional Requirement;Cake Preference
+rs10880855,,1,wg-1766,Myopia
+rs10883365,,1,wg-94,Ulcerative Colitis
+rs10888692,,1,wg-2276,Multisite Chronic Pain
+rs10900585,,1,wg-1964,Plasmodium Infection
+rs109083,,1,wg-2284,Dense Hair Tendency
+rs10910095,,1,wg-1521,Allergic Diseases
+rs10918274,,1,wg-1546,Open-Angle Glaucoma
+rs10922109,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs10930013,,1,wg-2287,Educational Attainment
+rs10936599,,1,wg-1956,Bladder Cancer
+rs10936600,,1,wg-135,Myeloproliferative Neoplasm (MPN)
+rs10937823,,1,wg-96,UPDATE Bipolar Disorder
+rs10946507,,1,wg-1768,Astigmatism
+rs10946808,APOE,2,wg-2308;wg-2322,Bacon Preference;Ham Preference
+rs10947262,,1,wg-116,Osteoarthritis (OA)
+rs10947452,,1,wg-2293,Leisure TV Watching Preference​
+rs10954,IRF5,1,wg-2295,Telomere Length
+rs10966,,1,wg-1722,Openness
+rs10974347,,1,wg-2365,Whisky Preference
+rs10984447,,1,wg-69,Multiple Sclerosis (MS)
+rs10993994,,1,wg-40,Prostate Cancer
+rs10994,ANK3,1,wg-1716,Anti-Social Anxiety Disorder Ability
+rs10994397,,1,wg-96,UPDATE Bipolar Disorder
+rs10995251,,1,wg-101,UPDATE Atopic Dermatitis
+rs11003047,,1,wg-1554,Osteoporosis
+rs11012732,,1,wg-62,Meningioma
+rs11035710,,1,wg-2393,Goat Cheese Preference
+rs110419,,1,wg-76,Neuroblastoma
+rs11066015,,1,wg-1748,UPDATE Epilepsy
+rs11071366,,1,wg-116,Osteoarthritis (OA)
+rs11074658,,1,wg-2285,Leisure Screen Time
+rs1109089,,1,wg-1719,Stress Handling Ability
+rs11103,MYO7A;SLC26A,2,wg-1571;wg-1573,Pendred Syndrome;Usher Syndrome
+rs111033280,,1,wg-2082,Retinitis Pigmentosa (RP)
+rs111033565,,1,wg-2126,Hereditary Pancreatitis (HP)
+rs111033567,,1,wg-2126,Hereditary Pancreatitis (HP)
+rs111033571,,1,wg-2159,Bardet-Biedl Syndrome (BBS)
+rs111033574,,1,wg-2041,Progressive External Ophthalmoplegia (PEO)
+rs111033591,,1,wg-2039,Pseudohypoaldosteronism (PHA)
+rs111033617,IL2RG,1,wg-2150,Severe Combined Immunodeficiency (SCID)
+rs111033620,IL2RG,1,wg-2150,Severe Combined Immunodeficiency (SCID)
+rs111033622,IL2RG,1,wg-2150,Severe Combined Immunodeficiency (SCID)
+rs111033623,SH2D1A,1,wg-2153,Lymphoproliferative Syndrome
+rs111033658,GALT,1,wg-1977,Galactosemia (GALAC)
+rs111033661,GALT,1,wg-1977,Galactosemia (GALAC)
+rs111033667,GALT,1,wg-1977,Galactosemia (GALAC)
+rs11103631,,1,wg-1526,Skin Moisturizing Ability
+rs11103814,,1,wg-1712,Extraversion
+rs11117420,,1,wg-51,UPDATE Scleroderma
+rs111242991,,1,wg-2335,Wasabi Preference
+rs11126630,,1,wg-1708,Anti-Aggression
+rs11126936,,1,wg-1704,Zinc Nutritional Requirement
+rs111290936,,1,wg-47,Parkinson's Disease (PD)
+rs111401431,FBN1,1,wg-2237,Weill-Marchesani Syndrome (WMS)
+rs1114167361,,1,wg-2015,Myofibrillar Myopathy (MFM)
+rs11153071,BOLL,1,wg-54,Brain Aneurysm
+rs11155313,,1,wg-47,Parkinson's Disease (PD)
+rs111688645,,1,wg-2329,Bell Pepper Preference
+rs11172113,,1,wg-1746,UPDATE Aortic Dissection
+rs11176,,1,wg-2286,Stool Frequency​​
+rs11185602,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs11190126,,1,wg-2295,Telomere Length
+rs11190870,,1,wg-119,Scoliosis
+rs11191157,,1,wg-2287,Educational Attainment
+rs11200638,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs112019125,,1,wg-47,Parkinson's Disease (PD)
+rs112029328,APOB,1,wg-186,Familial Hypercholesterolemia Type B
+rs11203203,,2,wg-1749;wg-56,UPDATE Primary Adrenal Insufficiency;UPDATE Vitiligo
+rs11205303,,1,wg-119,Scoliosis
+rs112065280,ADH1B,1,wg-2414,Bitter Ale Preference
+rs11209026,,2,wg-95;wg-94,UPDATE Crohn's Disease (CD);Ulcerative Colitis
+rs11221332,,1,wg-1483,Celiac Disease
+rs11222562,FOXP1,1,wg-2375,Cornflakes Preference
+rs11233,,2,wg-2405;wg-2335,Blue Cheese Preference;Wasabi Preference
+rs11240430,APOE,1,wg-2327,Beef Preference
+rs11245,CTBP2,1,wg-2293,Leisure TV Watching Preference​
+rs112463197,,1,wg-117,UPDATE Sarcoidosis
+rs11256017,,1,wg-57,Allergic Rhinitis
+rs112645512,FBN1,1,wg-2237,Weill-Marchesani Syndrome (WMS)
+rs11264567,,1,wg-1560,Empathy
+rs1126742,,1,wg-1951,Smoking x Hypertension
+rs112725644,,1,wg-2341,Spinach Preference
+rs11290,ACTA2,1,wg-1732,Familial Thoracic Aortic Aneurysm
+rs1131691804,FBN1,1,wg-2187,Geleophysic Dysplasia
+rs1131692052,,1,wg-2144,Acromicric Dysplasia
+rs1136287,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs1136410,,1,wg-1769,Cataract
+rs113681235,,1,wg-2136,Primary Hyperoxaluria (PH)
+rs11370368,,1,wg-2331,Tomatoes Preference
+rs1138272,,1,wg-1946,Smoking x Esophagus Cancer
+rs11385,,1,wg-2292,Leisure Computer Use Preference​
+rs113851554,,1,wg-2279,Long Sleep Preference​
+rs113871094,FBN1,1,wg-2237,Weill-Marchesani Syndrome (WMS)
+rs113928116,,1,wg-1996,Congenital Multicore Myopathy with External Ophthalmoplegia
+rs113993945,,1,wg-2056,Mucopolysaccharidosis (MPS)
+rs113993958,,1,wg-2053,Cystic Fibrosis (CF)
+rs113993990,,1,wg-2228,Shwachman-Diamond Syndrome (SDS)
+rs113994127,,1,wg-2085,Glycogen Storage Disease (GSD)
+rs113994129,,1,wg-2085,Glycogen Storage Disease (GSD)
+rs113994145,PC,1,wg-1983,Pyruvate Carboxylase Deficiency (PCD)
+rs113994190,,1,wg-2159,Bardet-Biedl Syndrome (BBS)
+rs113994207,,1,wg-2076,Nephropathic Cystinosis
+rs11410,RASSF1,1,wg-1560,Empathy
+rs11420276,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs114269482,,1,wg-2079,Renal Carnitine Transport Defect
+rs1143634,,2,wg-1548;wg-1549,Mouth Ulcers;Periodontitis
+rs1143679,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs11465788,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs115195998,,1,wg-2193,Joubert Syndrome (JS)
+rs1154155,,1,wg-114,UPDATE Narcolepsy
+rs11543022,PLP1,1,wg-2212,Pelizaeus-Merzbacher Disease (PMD)
+rs11547464,MC1R,1,wg-1664,Anti-Skin Photoaging Ability
+rs11549465,HIF1A,1,wg-1568,Ability To Resist Cellulite
+rs1155563,,1,wg-1703,Vitamin D Nutritional Requirement
+rs11571303,,1,wg-1749,UPDATE Primary Adrenal Insufficiency
+rs11581,,1,wg-2305,Hand 2D-to-4D Ratio​
+rs11588454,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs11591147,,2,wg-2273;wg-109,Myocardial Infarction (MI);UPDATE Abdominal Aortic Aneurysm (AAA)
+rs1159268,,1,wg-1527,Ability To Resist Acne
+rs1160312,,1,wg-1585,Male Baldness
+rs11605,,1,wg-1715,Anti-Loneliness
+rs11614913,,1,wg-91,UPDATE Lung Cancer
+rs11616188,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs11634851,,1,wg-104,UPDATE Hypertension
+rs11642,,2,wg-2411;wg-2352,Salami Preference;Vinegar Preference
+rs11645428,,1,wg-256,Vitamin A Nutritional Requirement
+rs1165205,,1,wg-88,UPDATE Gout
+rs11661542,BOLL,1,wg-54,Brain Aneurysm
+rs1167269,,1,wg-40,Prostate Cancer
+rs11672900,,1,wg-1552,Dental Caries
+rs116733939,,1,wg-2198,Leber Congenital Amaurosis (LCA)
+rs116807569,,1,wg-2106,Congenital Generalized Lipodystrophy (CGL)
+rs116840808,,1,wg-2178,Diamond-Blackfan Anemia (DBA)
+rs116840809,,1,wg-2178,Diamond-Blackfan Anemia (DBA)
+rs11685318,,1,wg-1722,Openness
+rs11697325,,1,wg-1548,Mouth Ulcers
+rs11701,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs1170216,,1,wg-2340,Cauliflower Preference
+rs117026326,,1,wg-65,UPDATE Sjögren's Syndrome
+rs11703,KIAA09,1,wg-1522,Anti-Tanning Reaction Ability
+rs11710277,SEMA3F,1,wg-2376,Beetroot Preference
+rs11718863,,1,wg-116,Osteoarthritis (OA)
+rs11723,,1,wg-2067,Maturity-Onset Diabetes of the Young (MODY)
+rs11729526,,1,wg-133,UPDATE Hashimoto's Thyroiditis
+rs11733284,,1,wg-88,UPDATE Gout
+rs11746443,,1,wg-75,UPDATE Renal Calculi
+rs11749582,,1,wg-2382,Broccoli Preference
+rs117767867,,1,wg-66,Type 2 Diabetes (T2D)
+rs117822168,,1,wg-69,Multiple Sclerosis (MS)
+rs11819,KCNQ2,1,wg-2000,Developmental and Epileptic Encephalopathy (DEE)
+rs118192100,,1,wg-2199,Leigh Syndrome
+rs118192150,,1,wg-1996,Congenital Multicore Myopathy with External Ophthalmoplegia
+rs118203907,F5,1,wg-2059,Factor V Deficiency
+rs118203996,,1,wg-1986,Osteogenesis Imperfecta (OI)
+rs11847351,,1,wg-2262,Cleaning Agents
+rs11859,CDH13,8,wg-2385;wg-2362;wg-2403;wg-2383;wg-2357;wg-2356;wg-2360;wg-2370,Black Olives Preference;Capers Preference;Gherkins Preference;Green Olives Preference;Herring Preference;Mackerel Preference;Salmon Preference;Sardines Preference
+rs11859365,,1,wg-2344,Mushroom Preference
+rs11868035,,1,wg-47,Parkinson's Disease (PD)
+rs11871043,,1,wg-2276,Multisite Chronic Pain
+rs11876749,DLGAP1,1,wg-1694,Anti-Sagging Eyelid Ability
+rs11884476,,1,wg-1966,HIV Infection
+rs11887534,,1,wg-92,UPDATE Gallstones
+rs119103226,MCCC2,1,wg-1539,3-Methylcrotonyl CoA Carboxylase 2 Deficiency
+rs119103227,,1,wg-2069,Holocarboxylase Synthetase Deficiency (HCSD)
+rs119103229,,1,wg-2069,Holocarboxylase Synthetase Deficiency (HCSD)
+rs119103230,,1,wg-2069,Holocarboxylase Synthetase Deficiency (HCSD)
+rs11926783,,1,wg-2403,Gherkins Preference
+rs11940694,,1,wg-2400,White Wine Preference
+rs11940736,,1,wg-2284,Dense Hair Tendency
+rs119455953,,1,wg-2075,Neuronal Ceroid Lipofuscinosis (NCL)
+rs119456962,,1,wg-2078,Nephronophthisis (NPHP)
+rs119456963,,1,wg-2077,Renal-Hepatic-Pancreatic Dysplasia (RHPD)
+rs119458971,,1,wg-2096,Glutaric Acidemia (GA)
+rs119466002,,1,wg-2159,Bardet-Biedl Syndrome (BBS)
+rs119479063,PCNT,1,wg-2115,Microcephalic Osteodysplastic Primordial Dwarfism (MOPD)
+rs119479065,,1,wg-2143,Sitosterolemia
+rs119479066,,1,wg-2143,Sitosterolemia
+rs119479067,,1,wg-2143,Sitosterolemia
+rs119489101,,1,wg-2063,Cutis Laxa (CL)
+rs11949166,,1,wg-2260,Hen's Eggs
+rs11950,SLC23A,1,wg-1700,Vitamin C Nutritional Requirement
+rs11979919,DLGAP1,1,wg-1694,Anti-Sagging Eyelid Ability
+rs11984666,,1,wg-116,Osteoarthritis (OA)
+rs12005972,,1,wg-2399,Raw Carrots Preference
+rs12007,KCNQ1,1,wg-1745,Familial Atrial Fibrillation
+rs120074118,,1,wg-2210,Niemann-Pick Disease (NPD)
+rs120074119,,1,wg-2210,Niemann-Pick Disease (NPD)
+rs120074167,,1,wg-2102,Congenital Dyserythropoietic Anemia (CDA)
+rs120074173,HGD,1,wg-2014,Alkaptonuria
+rs120074174,HGD,1,wg-2014,Alkaptonuria
+rs12032649,,2,wg-1768;wg-1766,Astigmatism;Myopia
+rs12039093,,1,wg-1974,Insomnia
+rs12059546,,1,wg-1748,UPDATE Epilepsy
+rs12081541,,1,wg-101,UPDATE Atopic Dermatitis
+rs12097821,PRM1,1,wg-61,Male Infertility
+rs12100561,,1,wg-1646,UPDATE Liver Cancer
+rs12105918,,1,wg-74,Renal Cancer
+rs12123,DRA,1,wg-2259,Peanuts
+rs12123821,,2,wg-2258;wg-2260,Cow's Milk;Hen's Eggs
+rs12137388,,1,wg-2378,White Bread Preference
+rs12139208,,1,wg-1546,Open-Angle Glaucoma
+rs12143,ATM;CASQ2;GJA5;PEX1;PKP2,5,wg-1739;wg-2010;wg-1731;wg-1745;wg-1581,Arrhythmogenic Right Ventricular Cardiomyopathy;Ataxia-Telangiectasia (AT);Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT);Familial Atrial Fibrillation;Peroxisome Biosynthesis Disorder
+rs121434226,IRF6,1,wg-2013,Popliteal Pterygium Syndrome (PPS)
+rs121434275,,1,wg-2111,Acyl-Coenzyme A Dehydrogenase Deficiency
+rs121434277,,1,wg-2111,Acyl-Coenzyme A Dehydrogenase Deficiency
+rs121434278,,1,wg-2111,Acyl-Coenzyme A Dehydrogenase Deficiency
+rs121434369,GCDH,1,wg-1532,Glutaric Aciduria Type 1 (GA1)
+rs121434370,GCDH,1,wg-1532,Glutaric Aciduria Type 1 (GA1)
+rs121434371,GCDH,1,wg-1532,Glutaric Aciduria Type 1 (GA1)
+rs121434407,,1,wg-2146,Lethal Congenital Contracture Syndrome (LCCS)
+rs12144049,,1,wg-101,UPDATE Atopic Dermatitis
+rs12149574,,1,wg-2319,Orange Juice Preference
+rs1215189537,,1,wg-2025,Hypobetalipoproteinemia (HBL)
+rs12156350,,1,wg-2341,Spinach Preference
+rs121610495,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs12186491,,1,wg-2283,Large Nail Plate Tendency
+rs12190,ACVRL1;FOXI1;HCN4;KCNA5;MYBPC,6,wg-1745;wg-2007;wg-1740;wg-1571;wg-1737;wg-1729,Familial Atrial Fibrillation;Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome (HHH);Left Ventricular Noncompaction;Pendred Syndrome;Primary Pulmonary Hypertension;Sick Sinus Syndrome
+rs121907899,,1,wg-2078,Nephronophthisis (NPHP)
+rs121907900,,1,wg-2094,Aniridia
+rs121907906,,1,wg-2094,Aniridia
+rs121907909,,1,wg-2043,Focal Segmental Glomerulosclerosis (FSGS)
+rs121907916,,1,wg-2094,Aniridia
+rs121907933,,1,wg-2107,Congenital Disorder of Glycosylation (CDG)
+rs121907952,HEXA,1,wg-2233,Tay-Sachs Disease (TSD)
+rs121907957,HEXA,1,wg-2233,Tay-Sachs Disease (TSD)
+rs121907958,HEXA,1,wg-2233,Tay-Sachs Disease (TSD)
+rs121907983,,1,wg-2224,Sandhoff Disease
+rs121908,PRKAG2,1,wg-1728,Wolff-Parkinson-White Syndrome
+rs121908011,,1,wg-2062,Skin/Hair/Eye Pigmentation (SHEP)
+rs121908053,LCAT,1,wg-2135,Fish-Eye Disease (FED)
+rs121908070,,1,wg-2231,Sotos Syndrome
+rs121908080,,1,wg-2075,Neuronal Ceroid Lipofuscinosis (NCL)
+rs121908146,,1,wg-2026,Familial Cold Autoinflammatory Syndrome (FCAS)
+rs121908149,,1,wg-2026,Familial Cold Autoinflammatory Syndrome (FCAS)
+rs121908150,,1,wg-2026,Familial Cold Autoinflammatory Syndrome (FCAS)
+rs121908248,,1,wg-1991,Hypophosphatemic Rickets (HR)
+rs121908250,CCBE1,1,wg-2189,Hennekam Lymphangiectasia-Lymphedema Syndrome (HKLLS)
+rs121908309,,1,wg-2186,Gaucher Disease (GD)
+rs121908371,,1,wg-2057,Mucolipidosis
+rs121908373,,1,wg-2057,Mucolipidosis
+rs121908428,SLC12A6,1,wg-172,Agenesis of The Corpus Callosum with Peripheral Neuropathy (ACCPN)
+rs121908431,TRPS1,1,wg-2051,Trichorhinophalangeal Syndrome (TRPS)
+rs121908446,,1,wg-2238,Werner Syndrome
+rs121908520,,1,wg-2136,Primary Hyperoxaluria (PH)
+rs121908521,,1,wg-2136,Primary Hyperoxaluria (PH)
+rs121908552,,1,wg-1990,Hypokalemic Periodic Paralysis (HKOPP)
+rs121908638,,1,wg-2012,Citrullinemia
+rs121908647,,1,wg-2012,Citrullinemia
+rs121908670,,1,wg-2011,Osteopetrosis
+rs121908681,,1,wg-2074,Neurodegeneration with Brain Iron Accumulation (NBIA)
+rs121908686,,1,wg-2074,Neurodegeneration with Brain Iron Accumulation (NBIA)
+rs121908754,,1,wg-2053,Cystic Fibrosis (CF)
+rs121908760,,1,wg-2053,Cystic Fibrosis (CF)
+rs121908889,,1,wg-2079,Renal Carnitine Transport Defect
+rs121908893,,1,wg-2079,Renal Carnitine Transport Defect
+rs121908901,,1,wg-2040,Progressive Pseudorheumatoid Dysplasia (PPRD)
+rs121908956,,1,wg-2204,Miyoshi Muscular Dystrophy (MMD)
+rs121908958,,1,wg-2204,Miyoshi Muscular Dystrophy (MMD)
+rs121908959,,1,wg-2204,Miyoshi Muscular Dystrophy (MMD)
+rs121909069,,1,wg-2066,Holoprosencephaly (HPE)
+rs121909098,,1,wg-1989,Cholestasis
+rs121909151,,1,wg-2142,Rhizomelic Chondrodysplasia Punctata (RCDP)
+rs121909246,PPARG,1,wg-2024,Familial Partial Lipodystrophy (FPL)
+rs121909257,,1,wg-2138,Akinesia Deformation Sequence (ADS)
+rs121909627,FGFR1,1,wg-2050,Osteoglophonic Dysplasia
+rs121909721,,1,wg-2113,Mitochondrial DNA Depletion Syndrome (MDS)
+rs121909723,,1,wg-2113,Mitochondrial DNA Depletion Syndrome (MDS)
+rs121909739,SLC2A1,1,wg-2065,GLUT1 Deficiency Syndrome
+rs121909740,SLC2A1,1,wg-2065,GLUT1 Deficiency Syndrome
+rs121909762,,1,wg-1573,Usher Syndrome
+rs121909768,DHCR7,1,wg-2229,Smith-Lemli-Opitz Syndrome (SLOS)
+rs121909790,,1,wg-2091,Vitamin D-Dependent Rickets (VDDR)
+rs121909793,,1,wg-2091,Vitamin D-Dependent Rickets (VDDR)
+rs121909797,,1,wg-2091,Vitamin D-Dependent Rickets (VDDR)
+rs12191,COL4A3;DES;MVK;SMAD4;TNNI3,6,wg-1570;wg-1996;wg-2134;wg-2036;wg-2015;wg-1736,Alport Syndrome;Congenital Multicore Myopathy with External Ophthalmoplegia;Juvenile Polyposis Syndrome (JPS);Mevalonic Aciduria (MA);Myofibrillar Myopathy (MFM);Restrictive Cardiomyopathy
+rs121912288,,1,wg-2103,Dyskeratosis Congenita (DC)
+rs121912289,,1,wg-2103,Dyskeratosis Congenita (DC)
+rs121912293,,1,wg-2103,Dyskeratosis Congenita (DC)
+rs121912443,,1,wg-2028,Familial Amyotrophic Lateral Sclerosis (FALS)
+rs121912585,,1,wg-2109,Congenital Fibrosis of Extraocular Muscles (CFEOM)
+rs121912839,,1,wg-1988,Epidermolysis Bullosa (EB)
+rs121912874,COL2A1,1,wg-2018,Spondyloperipheral Dysplasia (SPD)
+rs121912877,COL2A1,1,wg-2196,Kniest Dysplasia
+rs121912880,,1,wg-2022,Spondyloepimetaphyseal Dysplasia (SEMD)
+rs121912882,COL2A1,1,wg-1572,Stickler Syndrome
+rs121912893,COL2A1,1,wg-2018,Spondyloperipheral Dysplasia (SPD)
+rs121912938,,1,wg-2140,Limb-Girdle Muscular Dystrophy (LGMD)
+rs121912939,,1,wg-2140,Limb-Girdle Muscular Dystrophy (LGMD)
+rs121912945,COL11A2,1,wg-1999,Otospondylomegaepiphyseal Dysplasia (OSMED)
+rs121913020,,1,wg-2139,Xeroderma Pigmentosum (XP)
+rs121913024,,1,wg-2139,Xeroderma Pigmentosum (XP)
+rs121913026,,1,wg-2139,Xeroderma Pigmentosum (XP)
+rs121913037,,1,wg-2113,Mitochondrial DNA Depletion Syndrome (MDS)
+rs121913105,FGFR3,1,wg-2145,Thanatophoric Dysplasia
+rs121913115,FGFR3,1,wg-2070,Hypochondroplasia
+rs121913131,,1,wg-2072,Trifunctional Protein Deficiency (TFP)
+rs121913133,,1,wg-2072,Trifunctional Protein Deficiency (TFP)
+rs121913134,,1,wg-2072,Trifunctional Protein Deficiency (TFP)
+rs121913478,FGFR2,1,wg-2222,Saethre-Chotzen Syndrome (SCS)
+rs121913482,FGFR3,1,wg-2145,Thanatophoric Dysplasia
+rs121913572,,1,wg-2140,Limb-Girdle Muscular Dystrophy (LGMD)
+rs121913611,,1,wg-2108,Congenital Amegakaryocytic Thrombocytopenia (CAMT)
+rs121913623,,1,wg-2100,Arthrogryposis Multiplex Congenita (AMC)
+rs121913678,,1,wg-2216,Rett Syndrome (RTT)
+rs121917814,,1,wg-2099,Congenital Bile Acid Synthesis Defect (CBAS)
+rs121917904,,1,wg-2175,De Sanctis-Cacchione Syndrome (DSC)
+rs121918000,ALPL,1,wg-1992,Hypophosphatasia (HPP)
+rs121918011,,1,wg-1986,Osteogenesis Imperfecta (OI)
+rs121918013,ALPL,1,wg-1992,Hypophosphatasia (HPP)
+rs121918014,ALPL,1,wg-1992,Hypophosphatasia (HPP)
+rs121918117,GHRHR,1,wg-2086,Isolated Growth Hormone Deficiency (IGHD)
+rs121918121,GHRHR,1,wg-2086,Isolated Growth Hormone Deficiency (IGHD)
+rs121918128,,1,wg-2193,Joubert Syndrome (JS)
+rs121918141,,1,wg-2131,Thrombophilia
+rs121918147,,1,wg-2131,Thrombophilia
+rs121918153,,1,wg-2131,Thrombophilia
+rs121918204,,1,wg-2202,Meckel Syndrome (MKS)
+rs121918221,,1,wg-2102,Congenital Dyserythropoietic Anemia (CDA)
+rs121918223,,1,wg-2102,Congenital Dyserythropoietic Anemia (CDA)
+rs121918231,COQ2,1,wg-2101,"Coenzyme Q10 Deficiency, Primary (COQ10D)"
+rs121918249,,1,wg-2032,Methylmalonic Aciduria
+rs121918254,,1,wg-2032,Methylmalonic Aciduria
+rs121918255,,1,wg-2032,Methylmalonic Aciduria
+rs121918257,,1,wg-2034,Methylmalonic Acidemia
+rs121918377,,1,wg-2063,Cutis Laxa (CL)
+rs121918385,,1,wg-2025,Hypobetalipoproteinemia (HBL)
+rs121918487,FGFR2,1,wg-2222,Saethre-Chotzen Syndrome (SCS)
+rs121918488,FGFR2,1,wg-2173,Crouzon Syndrome
+rs121918491,FGFR2,1,wg-2222,Saethre-Chotzen Syndrome (SCS)
+rs121918494,FGFR2,1,wg-2173,Crouzon Syndrome
+rs121918501,FGFR2,1,wg-2173,Crouzon Syndrome
+rs121918539,,1,wg-2068,Achromatopsia
+rs121918544,TINF2,1,wg-2217,Revesz Syndrome
+rs121918567,PRPH2,1,wg-2149,"Choroidal Dystrophy, Central Areolar (CACD)"
+rs121918634,,1,wg-2090,Elliptocytosis
+rs121918638,,1,wg-2090,Elliptocytosis
+rs121918641,,1,wg-2090,Elliptocytosis
+rs121918659,,1,wg-2052,Immunodeficiency
+rs12195582,,1,wg-73,Follicular Lymphoma
+rs12196,TNNT2,1,wg-1740,Left Ventricular Noncompaction
+rs121964854,,1,wg-2003,Nemaline Myopathy (NM)
+rs121964908,,1,wg-2087,Aspartylglucosaminuria (AGU)
+rs121964909,,1,wg-2087,Aspartylglucosaminuria (AGU)
+rs121964962,CBS,1,wg-2005,Homocystinuria (HCU)
+rs121964973,CBS,1,wg-2005,Homocystinuria (HCU)
+rs121964999,,1,wg-2001,Maple Syrup Urine Disease (MSUD)
+rs121965047,OAT,1,wg-2058,Ornithine Aminotransferase Deficiency (OAT)
+rs121965057,OAT,1,wg-2058,Ornithine Aminotransferase Deficiency (OAT)
+rs121965066,F11,1,wg-2061,Factor XI Deficiency
+rs121965075,,1,wg-2045,Tyrosinemia
+rs12197948,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs12203592,,1,wg-1565,Ability To Resist Sunburn
+rs12214204,ARID1B,1,wg-2321,Globe Artichoke Preference
+rs12241155,,1,wg-2295,Telomere Length
+rs122445099,ATRX,1,wg-2147,Intellectual Disability-Hypotonic Facies Syndrome
+rs122454130,RPS6KA3,1,wg-2168,Coffin-Lowry Syndrome (CLS)
+rs122460159,,1,wg-2216,Rett Syndrome (RTT)
+rs12273,,1,wg-2286,Stool Frequency​​
+rs12293,,1,wg-2384,Drinking Water Preference
+rs12299,ADH1B,2,wg-1941;wg-1946,Drinking x Colorectal Cancer;Smoking x Esophagus Cancer
+rs1229984,ADH1B,7,wg-249;wg-52;wg-1938;wg-2414;wg-2396;wg-2402;wg-2400,Alcohol Metabolism;Alcohol Dependence;Drinking x Esophagus Cancer;Bitter Ale Preference;Lager Preference;Red Wine Preference;White Wine Preference
+rs12340895,,1,wg-135,Myeloproliferative Neoplasm (MPN)
+rs12357321,,1,wg-1957,Gastroesophageal reflux disease
+rs12377,,1,wg-253,Vitamin B12 Nutritional Requirement
+rs1240212722,,1,wg-1995,Polycystic Kidney Disease (PKD)
+rs12413585,,1,wg-2405,Blue Cheese Preference
+rs12415421,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs12421,,1,wg-1559,Emotional Stability
+rs12421615,,1,wg-56,UPDATE Vitiligo
+rs12424086,,1,wg-1550,Dental Retardation
+rs12425791,,1,wg-121,UPDATE Stroke
+rs12430,,3,wg-2338;wg-2385;wg-2403,Aubergine Preference;Black Olives Preference;Gherkins Preference
+rs12430440,ARID1B,1,wg-2321,Globe Artichoke Preference
+rs1243064,,1,wg-2260,Hen's Eggs
+rs1243179,,1,wg-2317,Cherries Preference
+rs1243573,AC,1,wg-130,Cleft Lip and Cleft Palate
+rs12469758,,1,wg-87,Coronary Heart Disease (CHD)
+rs12479210,,1,wg-53,Asthma
+rs12495758,,1,wg-2309,Garlic Preference
+rs12498742,,1,wg-88,UPDATE Gout
+rs12506228,,1,wg-1561,Resistance to Job Burnout
+rs12512631,,1,wg-1703,Vitamin D Nutritional Requirement
+rs1251713297,,1,wg-1993,Brachydactyly
+rs12543318,,1,wg-130,Cleft Lip and Cleft Palate
+rs12546198,PSCA,1,wg-2406,Cake Icing Preference
+rs12560,ESR2,1,wg-1948,Smoking x Prostate Cancer
+rs1256328,,1,wg-75,UPDATE Renal Calculi
+rs1256335,,1,wg-1702,Vitamin B6 Nutritional Requirement
+rs12568930,,1,wg-58,UPDATE Keloid
+rs12579350,,1,wg-1716,Anti-Social Anxiety Disorder Ability
+rs1260326,,3,wg-134;wg-136;wg-92,Hypertriglyceridemia;Non-Alcoholic Fatty Liver Disease (NAFLD);UPDATE Gallstones
+rs12608932,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs12614,CFB,1,wg-1959,Hepatitis Virus Infection
+rs12637,,1,wg-1563,Anti-Anxiety Ability
+rs12650590,,1,wg-90,UPDATE Psoriasis
+rs1265181,,1,wg-90,UPDATE Psoriasis
+rs12653396,FGF21,2,wg-2326;wg-2367,Smoked Fish Preference;Tea without Sugar Preference
+rs1265883,,1,wg-133,UPDATE Hashimoto's Thyroiditis
+rs12665,CDH13,2,wg-2385;wg-2383,Black Olives Preference;Green Olives Preference
+rs12682,MFHAS,1,wg-2343,Crisps Preference
+rs12682352,,1,wg-2342,Chips Preference
+rs12699415,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs12713559,APOB,1,wg-186,Familial Hypercholesterolemia Type B
+rs12718,IKZF1,1,wg-251,Iron Nutritional Requirement
+rs12720,KCNH2,1,wg-1726,Brugada Syndrome
+rs12740374,,1,wg-109,UPDATE Abdominal Aortic Aneurysm (AAA)
+rs12770228,,1,wg-62,Meningioma
+rs12771452,,1,wg-56,UPDATE Vitiligo
+rs12773,CDH13,1,wg-2383,Green Olives Preference
+rs12785878,,1,wg-68,Melanoma
+rs1278769,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs128620183,BTK,1,wg-2093,Agammaglobulinemia
+rs128620184,BTK,1,wg-2093,Agammaglobulinemia
+rs128625229,,1,wg-2161,Becker Muscular Dystrophy (BMD)
+rs12912339,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs12913832,,2,wg-1768;wg-1522,Astigmatism;Anti-Tanning Reaction Ability
+rs12917,MGMT,1,wg-2267,Chlorinated Solvents
+rs12932445,,1,wg-121,UPDATE Stroke
+rs12934863,,1,wg-2295,Telomere Length
+rs12953717,,1,wg-44,Colorectal Cancer
+rs12979,IFNL4,1,wg-1959,Hepatitis Virus Infection
+rs130079,,1,wg-48,Esophageal Cancer
+rs13009019,,1,wg-2309,Garlic Preference
+rs13017,,1,wg-2303,Non-Cognitive Educational Attainment
+rs13051336,,1,wg-58,UPDATE Keloid
+rs1305170860,,1,wg-2035,Methylmalonic Acidemia with Homocystinuria
+rs13056,,1,wg-2387,Black Pepper Preference
+rs13070781,KATNAL2,1,wg-1721,Conscientiousness
+rs13076312,,1,wg-56,UPDATE Vitiligo
+rs13084531,,1,wg-1558,Risk Tolerance
+rs13100344,,1,wg-1699,Anorexia Nervosa
+rs13107,SLC39A,2,wg-2301;wg-2285,Frailty Tendency;Leisure Screen Time
+rs13107325,,1,wg-1974,Insomnia
+rs13135092,,2,wg-2364;wg-2340,Cabbage Preference;Cauliflower Preference
+rs13146355,,1,wg-1707,Magnesium Nutritional Requirement
+rs1314913,,1,wg-113,Male Breast Cancer
+rs13153971,,1,wg-53,Asthma
+rs13170,ARL10,1,wg-1713,Nonconformity
+rs13172,CHRNA,1,wg-2302,Long Lifespan Tendency
+rs1317286,,1,wg-80,UPDATE Peripheral Artery Disease (PAD)
+rs13181,ERCC2,1,wg-1949,Smoking x Bladder Cancer
+rs13182402,,1,wg-1554,Osteoporosis
+rs13208776,,1,wg-56,UPDATE Vitiligo
+rs13219957,,1,wg-1561,Resistance to Job Burnout
+rs13250449,FUT2,1,wg-2312,Pizza Preference
+rs13254990,,1,wg-73,Follicular Lymphoma
+rs13262,,1,wg-2411,Salami Preference
+rs13262595,,1,wg-2412,Salty Pretzels Preference
+rs13263,,1,wg-2280,Nap Preference​
+rs132630266,CHM,1,wg-2095,Choroideremia
+rs132630268,WAS,1,wg-2240,Wiskott-Aldrich Syndrome (WAS)
+rs132630270,,1,wg-2120,Thrombocytopenia
+rs132630273,WAS,1,wg-2240,Wiskott-Aldrich Syndrome (WAS)
+rs132630278,PLP1,1,wg-2212,Pelizaeus-Merzbacher Disease (PMD)
+rs132630279,PLP1,1,wg-2212,Pelizaeus-Merzbacher Disease (PMD)
+rs132630297,PHF6,1,wg-2164,Borjeson-Forssman-Lehmann Syndrome (BFLS)
+rs132630298,PHF6,1,wg-2164,Borjeson-Forssman-Lehmann Syndrome (BFLS)
+rs132630299,PHF6,1,wg-2164,Borjeson-Forssman-Lehmann Syndrome (BFLS)
+rs132630308,EDA,1,wg-2118,Selective Tooth Agenesis (STA)
+rs132630314,EDA,1,wg-2118,Selective Tooth Agenesis (STA)
+rs132630322,NHS,1,wg-2207,Nance-Horan Syndrome (NHS)
+rs13266,SLC30A,1,wg-1704,Zinc Nutritional Requirement
+rs13266634,,1,wg-66,Type 2 Diabetes (T2D)
+rs13278529,,1,wg-2268,Mineral Dust
+rs13303010,,1,wg-79,Pancreatic Cancer
+rs1330349,,1,wg-116,Osteoarthritis (OA)
+rs1333040,BOLL,1,wg-54,Brain Aneurysm
+rs1333049,,1,wg-1763,Vascular Dementia
+rs13338946,,1,wg-135,Myeloproliferative Neoplasm (MPN)
+rs13376333,,1,wg-39,Atrial Fibrillation
+rs13384513,,1,wg-2382,Broccoli Preference
+rs13388416,,1,wg-2332,Salt Preference
+rs133937,,1,wg-2289,Sun-Seeking Preference
+rs1339616347,,1,wg-2238,Werner Syndrome
+rs13397985,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs13423753,,1,wg-2297,Widow's Peak Tendency
+rs1344829,,1,wg-1974,Insomnia
+rs1347651454,CBS,1,wg-2005,Homocystinuria (HCU)
+rs1353545,,1,wg-1587,Autism
+rs1356090839,,1,wg-2162,Bloom Syndrome (BLM)
+rs1360415315,,1,wg-2133,Permanent Neonatal Diabetes Mellitus (PNDM)
+rs1360780,,2,wg-242;wg-1719,Depression;Stress Handling Ability
+rs1363103,,1,wg-2301,Frailty Tendency
+rs136634,,1,wg-66,Type 2 Diabetes (T2D)
+rs1370579526,,1,wg-2002,Combined Oxidative Phosphorylation Deficiency (COXPD)
+rs1375144,,1,wg-96,UPDATE Bipolar Disorder
+rs1375561,,1,wg-2285,Leisure Screen Time
+rs13785,ATP7B;F8;F9;FBN1;G6PD;SCN5A,6,wg-190;wg-1753;wg-1754;wg-1729;wg-2237;wg-2239,Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD);Haemophilia A;Haemophilia B;Sick Sinus Syndrome;Weill-Marchesani Syndrome (WMS);Wilson Disease
+rs137852311,ALAS2,1,wg-2088,Sideroblastic Anemia (SA)
+rs137852480,HPRT1,1,wg-2200,Lesch-Nyhan Syndrome (LNS)
+rs137852486,HPRT1,1,wg-2200,Lesch-Nyhan Syndrome (LNS)
+rs137852487,HPRT1,1,wg-2200,Lesch-Nyhan Syndrome (LNS)
+rs137852520,L1CAM,1,wg-2197,L1 Syndrome
+rs137852522,L1CAM,1,wg-2054,Hydrocephalus Syndrome
+rs137852524,L1CAM,1,wg-2054,Hydrocephalus Syndrome
+rs137852635,,1,wg-2039,Pseudohypoaldosteronism (PHA)
+rs137852665,,1,wg-2017,Spinal Muscular Atrophy (SMA)
+rs137852671,ABCC8,1,wg-2008,Hyperinsulinemic Hypoglycemia (HH)
+rs137852704,,1,wg-2039,Pseudohypoaldosteronism (PHA)
+rs137852832,,1,wg-2227,Senior-Loken Syndrome (SLSN)
+rs137852847,,1,wg-1994,Multiple Sulfatase Deficiency (MSD)
+rs137852849,,1,wg-1994,Multiple Sulfatase Deficiency (MSD)
+rs137852867,,1,wg-2045,Tyrosinemia
+rs137852871,,1,wg-2001,Maple Syrup Urine Disease (MSUD)
+rs137852874,,1,wg-2001,Maple Syrup Urine Disease (MSUD)
+rs137852931,,1,wg-1526,Skin Moisturizing Ability
+rs137852947,,1,wg-1995,Polycystic Kidney Disease (PKD)
+rs137852975,,1,wg-2106,Congenital Generalized Lipodystrophy (CGL)
+rs137853006,,1,wg-2232,Stargardt Disease
+rs137853041,,1,wg-2083,Cone-Rod Dystrophy (CRD)
+rs137853044,,1,wg-2064,Lissencephaly
+rs137853107,,1,wg-2193,Joubert Syndrome (JS)
+rs137853108,,1,wg-2078,Nephronophthisis (NPHP)
+rs137853229,RECQL4,1,wg-2220,Rothmund-Thomson Syndrome (RTS)
+rs137853289,,1,wg-2110,Congenital Ichthyosis
+rs137853312,,1,wg-1998,Frontometaphyseal Dysplasia (FMD)
+rs137853323,IKBKG,1,wg-2073,Incontinentia Pigmenti (IP)
+rs137854547,CTSA,1,wg-1976,Galactosialidosis (GSL)
+rs137854573,APC,1,wg-2127,Hereditary Desmoid Disease (HDD)
+rs1382026467,,1,wg-2063,Cutis Laxa (CL)
+rs1385699,,1,wg-1585,Male Baldness
+rs1389581,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs139073416,,1,wg-2006,Hyperphosphatasia with Intellectual Disability Syndrome
+rs139208806,,1,wg-2110,Congenital Ichthyosis
+rs1392262,,1,wg-2405,Blue Cheese Preference
+rs139328569,ABCC8,1,wg-2008,Hyperinsulinemic Hypoglycemia (HH)
+rs1393350,,2,wg-56;wg-1525,UPDATE Vitiligo;Anti-Freckle Ability
+rs139497493,,1,wg-2017,Spinal Muscular Atrophy (SMA)
+rs139695003,F11,1,wg-2061,Factor XI Deficiency
+rs139716296,,1,wg-2107,Congenital Disorder of Glycosylation (CDG)
+rs139964066,ABCC8,1,wg-2008,Hyperinsulinemic Hypoglycemia (HH)
+rs140012781,SLC12A3,1,wg-2160,Bartter Syndrome
+rs140175796,,1,wg-1980,Phenylketonuria (PKU)
+rs140353201,,1,wg-2169,Cohen Syndrome (COH)
+rs1408799,,1,wg-68,Melanoma
+rs140936527,,1,wg-2169,Cohen Syndrome (COH)
+rs1411478,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs141156009,POLR1C,1,wg-2234,Treacher Collins Syndrome (TCS)
+rs1412829,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs142175605,,1,wg-2371,Salad Dressing Preference
+rs1422798,,1,wg-1585,Male Baldness
+rs1427829,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs1429412,BOLL,1,wg-54,Brain Aneurysm
+rs142988897,,1,wg-2123,Oculocutaneous Albinism (OCA)
+rs143383,,2,wg-116;wg-1650,Osteoarthritis (OA);UPDATE Lumbar Disc Herniation
+rs143473912,,1,wg-2110,Congenital Ichthyosis
+rs144078282,,1,wg-2154,3-Methylglutaconic Aciduria (MGA)
+rs1443914,,1,wg-2276,Multisite Chronic Pain
+rs144467873,APOB,1,wg-186,Familial Hypercholesterolemia Type B
+rs1444789,,1,wg-1521,Allergic Diseases
+rs144848,BRCA2,1,wg-2250,Benzene
+rs145108650,,1,wg-2074,Neurodegeneration with Brain Iron Accumulation (NBIA)
+rs1455351,,1,wg-2298,Occupational Attainment
+rs145611631,,1,wg-1974,Insomnia
+rs145623467,,1,wg-2363,Tea with Sugar Preference
+rs145665129,,1,wg-2202,Meckel Syndrome (MKS)
+rs145945630,APC,1,wg-2127,Hereditary Desmoid Disease (HDD)
+rs146136265,,1,wg-2080,Biotinidase Deficiency (BTD)
+rs146140738,,1,wg-2105,Congenital Disorder of Deglycosylation (CDDG)
+rs1465788,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs146670741,,1,wg-1577,Autosomal Dominant Non-Syndromic Deafness
+rs1479405,,1,wg-1957,Gastroesophageal reflux disease
+rs14795,SLC26A,1,wg-1576,Large Vestibular Aqueduct Syndrome
+rs148311934,,1,wg-2133,Permanent Neonatal Diabetes Mellitus (PNDM)
+rs148434485,,1,wg-2108,Congenital Amegakaryocytic Thrombocytopenia (CAMT)
+rs148505069,,1,wg-57,Allergic Rhinitis
+rs1486108,,1,wg-2338,Aubergine Preference
+rs148617572,,1,wg-1995,Polycystic Kidney Disease (PKD)
+rs1487441,,1,wg-2304,Leadership Ability​​
+rs148918985,,1,wg-2012,Citrullinemia
+rs1495741,,1,wg-1956,Bladder Cancer
+rs1495965,,1,wg-71,UPDATE Behçet’s Syndrome
+rs15012,ADIPO,1,wg-1950,Smoking x CHD
+rs150774447,,1,wg-2232,Stargardt Disease
+rs151020551,PCNT,1,wg-2115,Microcephalic Osteodysplastic Primordial Dwarfism (MOPD)
+rs151170408,,1,wg-2114,Mitochondrial Complex II Deficiency (MC2D)
+rs15134,ATP7A,1,wg-2063,Cutis Laxa (CL)
+rs151340620,CLCN5,1,wg-2176,Dent Disease
+rs151340621,CLCN5,1,wg-2176,Dent Disease
+rs151340630,CLCN5,1,wg-2176,Dent Disease
+rs1517037,,1,wg-79,Pancreatic Cancer
+rs1517572,,1,wg-2279,Long Sleep Preference​
+rs1518111,,1,wg-71,UPDATE Behçet’s Syndrome
+rs1520919,FGF21,1,wg-2346,Cake Preference
+rs1521,,1,wg-133,UPDATE Hashimoto's Thyroiditis
+rs1537415,,1,wg-1549,Periodontitis
+rs1544410,,1,wg-247,Calcium Nutritional Requirement
+rs1550094,,1,wg-1766,Myopia
+rs1553252746,,1,wg-1990,Hypokalemic Periodic Paralysis (HKOPP)
+rs15533,,1,wg-2025,Hypobetalipoproteinemia (HBL)
+rs1553333346,,1,wg-2186,Gaucher Disease (GD)
+rs1553778865,,1,wg-1981,Propionic Acidemia (PA)
+rs1554085355,APC,1,wg-2127,Hereditary Desmoid Disease (HDD)
+rs15552,,1,wg-2239,Wilson Disease
+rs1555241857,PDX1,1,wg-2124,Pancreatic Agenesis (PAGEN)
+rs1555293215,,1,wg-2202,Meckel Syndrome (MKS)
+rs1555398394,,1,wg-2144,Acromicric Dysplasia
+rs1555524354,,1,wg-2178,Diamond-Blackfan Anemia (DBA)
+rs1555527166,,1,wg-2019,Spondylocarpotarsal Synostosis Syndrome (SCT)
+rs1555686624,SMAD4,1,wg-2206,Myhre Syndrome
+rs1556423632,,1,wg-2199,Leigh Syndrome
+rs1556516,,1,wg-2302,Long Lifespan Tendency
+rs1558056376,,1,wg-1990,Hypokalemic Periodic Paralysis (HKOPP)
+rs1561570,OPTN,1,wg-64,Paget's Disease of Bone
+rs1562168768,,1,wg-2002,Combined Oxidative Phosphorylation Deficiency (COXPD)
+rs15629,,1,wg-2015,Myofibrillar Myopathy (MFM)
+rs1568346416,,1,wg-1981,Propionic Acidemia (PA)
+rs1576,,1,wg-90,UPDATE Psoriasis
+rs1580377105,,1,wg-2224,Sandhoff Disease
+rs158408,,1,wg-2361,Ice Cream Preference
+rs1593062,,1,wg-2372,Porridge Preference
+rs159497,,1,wg-2266,Gases and Fumes
+rs1611115,,1,wg-1708,Anti-Aggression
+rs1611163,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs16164,,1,wg-2303,Non-Cognitive Educational Attainment
+rs1620983,,1,wg-2273,Myocardial Infarction (MI)
+rs1649068,,1,wg-1766,Myopia
+rs1676486,,1,wg-1650,UPDATE Lumbar Disc Herniation
+rs16847548,BAZ2B,1,wg-216,Sudden Cardiac Death (SCD)
+rs16879765,,1,wg-103,UPDATE Dupuytren's Disease
+rs16890979,,1,wg-88,UPDATE Gout
+rs16891982,,2,wg-68;wg-1522,Melanoma;Anti-Tanning Reaction Ability
+rs16940186,,1,wg-94,Ulcerative Colitis
+rs1695,GSTP1,3,wg-53;wg-1769;wg-1948,Asthma;Cataract;Smoking x Prostate Cancer
+rs16952362,,1,wg-1763,Vascular Dementia
+rs16969968,,1,wg-77,Nicotine Dependence
+rs16976358,,1,wg-1587,Autism
+rs16982,GDF15,1,wg-2407,Dark Chocolate Preference
+rs16997168,,1,wg-39,Atrial Fibrillation
+rs17035378,,1,wg-1483,Celiac Disease
+rs17036314,,1,wg-1953,Physical Activity x T2D Slightly strong protective role
+rs17070145,,2,wg-1723;wg-1724,Episodic Memory Ability;Verbal Memory Ability
+rs17147371,,1,wg-1712,Extraversion
+rs1716171,,1,wg-1957,Gastroesophageal reflux disease
+rs17216588,,1,wg-136,Non-Alcoholic Fatty Liver Disease (NAFLD)
+rs17216707,,1,wg-75,UPDATE Renal Calculi
+rs17268,TAS2R3,1,wg-2332,Salt Preference
+rs1726866,TAS2R38,1,wg-2348,Grapefruit Preference
+rs17293632,,1,wg-1936,Haemorrhoids
+rs17391889,,1,wg-2364,Cabbage Preference
+rs17401966,,1,wg-1646,UPDATE Liver Cancer
+rs174230,BAZ2B,1,wg-216,Sudden Cardiac Death (SCD)
+rs17427,,1,wg-2279,Long Sleep Preference​
+rs17454,,1,wg-2280,Nap Preference​
+rs174547,FADS1,1,wg-1566,Skin Oil Control Ability
+rs17514,FURIN,1,wg-2302,Long Lifespan Tendency
+rs17553719,,1,wg-1526,Skin Moisturizing Ability
+rs17576,,2,wg-72;wg-91,Chronic Obstructive Pulmonary Disease (COPD);UPDATE Lung Cancer
+rs17580,SERPINA1,1,wg-173,Alpha-1 Antitrypsin Deficiency
+rs17616434,,1,wg-2258,Cow's Milk
+rs17646,,1,wg-2281,Curly Hair Tendency
+rs1780813,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs17822931,ABCC11,1,wg-3,Ear Wax
+rs1793004,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs1793953,,1,wg-1551,Mandibular Protrusion
+rs179975,,1,wg-1945,Smoking x Stomach Cancer
+rs1799884,,1,wg-66,Type 2 Diabetes (T2D)
+rs1799889,,1,wg-89,Venous Thromboembolism (VTE)
+rs1799931,,1,wg-1937,Smoking x Colorectal Cancer
+rs1799963,,1,wg-89,Venous Thromboembolism (VTE)
+rs1799971,,1,wg-1716,Anti-Social Anxiety Disorder Ability
+rs1799983,,1,wg-1950,Smoking x CHD
+rs1799990,,1,wg-1717,Spatial Memory Ability
+rs1799992,,1,wg-2275,Cirrhosis
+rs1799998,,1,wg-1943,Drinking x Hypertension
+rs18004,CYP1B1,1,wg-1937,Smoking x Colorectal Cancer
+rs1800497,ANKK1,2,wg-84;wg-170,Tardive Dyskinesia;Tendency to Avoid Mistakes May be good at avoiding mistakes
+rs1800546,ALDOB,1,wg-195,Hereditary Fructose Intolerance
+rs1800566,,1,wg-1523,Antioxidant Ability
+rs1800588,,1,wg-1955,Physical Activity x CHD Moderate protective role
+rs1800624,,1,wg-1524,Anti-Glycation Ability
+rs1800625,,1,wg-1524,Anti-Glycation Ability
+rs18007,MLH1,2,wg-1941;wg-1937,Drinking x Colorectal Cancer;Smoking x Colorectal Cancer
+rs1800795,PON1,3,wg-1547;wg-1695;wg-1942,Gingivitis;Collagen Retention Ability;Drinking x CHD
+rs1800796,,1,wg-1548,Mouth Ulcers
+rs1800871,,2,wg-1548;wg-71,Mouth Ulcers;UPDATE Behçet’s Syndrome
+rs1800896,,4,wg-1547;wg-1548;wg-40;wg-2258,Gingivitis;Mouth Ulcers;Prostate Cancer;Cow's Milk
+rs18009,HNF4A,1,wg-251,Iron Nutritional Requirement
+rs1800925,TH2LCRR,2,wg-2252;wg-2251,Natural Rubber Latex;Shrimps
+rs1800972,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs1801131,MTHFR,3,wg-225;wg-1569;wg-2269,Folate Nutritional Requirement;Ability To Resist Varicose Veins;Occupational Stress
+rs1801133,MTHFR,9,wg-225;wg-1705;wg-1548;wg-1763;wg-1569;wg-1941;wg-1944;wg-1951;wg-2269,Folate Nutritional Requirement;Vitamin B2 Nutritional Requirement;Mouth Ulcers;Vascular Dementia;Ability To Resist Varicose Veins;Drinking x Colorectal Cancer;Drinking x Lung Cancer;Smoking x Hypertension;Occupational Stress
+rs18012,PPARG,1,wg-1953,Physical Activity x T2D Slightly strong protective role
+rs1801260,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs1801270,,1,wg-1949,Smoking x Bladder Cancer
+rs1801272,,1,wg-1952,Smoking x Lung Cancer
+rs1801274,,2,wg-1747;wg-94,Kawasaki Disease;Ulcerative Colitis
+rs1801282,,2,wg-66;wg-1566,Type 2 Diabetes (T2D);Skin Oil Control Ability
+rs1801394,,2,wg-225;wg-62,Folate Nutritional Requirement;Meningioma
+rs1801516,,1,wg-79,Pancreatic Cancer
+rs180177313,AGXT,1,wg-2136,Primary Hyperoxaluria (PH)
+rs180177327,,1,wg-2169,Cohen Syndrome (COH)
+rs1804197,,1,wg-1941,Drinking x Colorectal Cancer
+rs18050,MC1R,1,wg-1664,Anti-Skin Photoaging Ability
+rs1805081,,1,wg-1950,Smoking x CHD
+rs1805087,,1,wg-62,Meningioma
+rs1805193,,1,wg-2269,Occupational Stress
+rs1805794,,1,wg-2267,Chlorinated Solvents
+rs180819807,,1,wg-1980,Phenylketonuria (PKU)
+rs180869804,,1,wg-2104,Congenital Stationary Night Blindness (CSNB)
+rs181690344,PCNT,1,wg-2115,Microcephalic Osteodysplastic Primordial Dwarfism (MOPD)
+rs1818275,,1,wg-1746,UPDATE Aortic Dissection
+rs182549,MCM6,1,wg-5,Lactose Metabolism
+rs182820353,,1,wg-2099,Congenital Bile Acid Synthesis Defect (CBAS)
+rs184469579,,1,wg-2002,Combined Oxidative Phosphorylation Deficiency (COXPD)
+rs1848460,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs185461628,,1,wg-2154,3-Methylglutaconic Aciduria (MGA)
+rs18582,,1,wg-2278,Sedentary Preference​​
+rs1858830,,1,wg-1587,Autism
+rs1860545,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs1867277,AC,1,wg-83,Thyroid Cancer
+rs186775337,APOE,2,wg-2325;wg-2411,Roast Chicken Preference;Salami Preference
+rs1871744,,1,wg-88,UPDATE Gout
+rs187580,ARID1B,1,wg-2321,Globe Artichoke Preference
+rs1883832,,1,wg-1959,Hepatitis Virus Infection
+rs1884641,,1,wg-1719,Stress Handling Ability
+rs190598500,,1,wg-1570,Alport Syndrome
+rs191945075,,1,wg-89,Venous Thromboembolism (VTE)
+rs192003551,,1,wg-2198,Leber Congenital Amaurosis (LCA)
+rs19283,ASS1,1,wg-2012,Citrullinemia
+rs1934268,,1,wg-129,UPDATE Back Pain
+rs1939012,,1,wg-1748,UPDATE Epilepsy
+rs19392,BTK;GCK;HNF1A,3,wg-2093;wg-2067;wg-2133,Agammaglobulinemia;Maturity-Onset Diabetes of the Young (MODY);Permanent Neonatal Diabetes Mellitus (PNDM)
+rs193922143,,1,wg-1986,Osteogenesis Imperfecta (OI)
+rs193922402,ABCC8,1,wg-2047,Leucine-Induced Hypoglycemia (LIH)
+rs193922414,WAS,1,wg-2240,Wiskott-Aldrich Syndrome (WAS)
+rs193922641,,1,wg-2052,Immunodeficiency
+rs193922702,,1,wg-1991,Hypophosphatemic Rickets (HR)
+rs1946247,,1,wg-2276,Multisite Chronic Pain
+rs1948915,,1,wg-135,Myeloproliferative Neoplasm (MPN)
+rs1956529,,1,wg-1550,Dental Retardation
+rs1958980,,1,wg-2262,Cleaning Agents
+rs1975197,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs198389,NPPB,1,wg-1954,Physical Activity x Hypertension Slightly strong protective role
+rs198811,,1,wg-114,UPDATE Narcolepsy
+rs1990760,,1,wg-120,UPDATE Selective IgA Deficiency
+rs1992269,,1,wg-38,Late-Onset Alzheimer's Disease
+rs19942,NIPAL4,1,wg-2110,Congenital Ichthyosis
+rs199469464,SRCAP,1,wg-2185,Floating-Harbor Syndrome (FHS)
+rs199469465,SRCAP,1,wg-2185,Floating-Harbor Syndrome (FHS)
+rs19947,KCNQ1;SCN5A,2,wg-1726;wg-1738,Brugada Syndrome;Long QT Syndrome (LQTS)
+rs199473679,,1,wg-2103,Dyskeratosis Congenita (DC)
+rs199474657,,1,wg-2199,Leigh Syndrome
+rs199474818,,1,wg-1580,Mitochondrial Hereditary Non-Syndromic Deafness
+rs199475565,,1,wg-1980,Phenylketonuria (PKU)
+rs199475566,,1,wg-1980,Phenylketonuria (PKU)
+rs199476135,,1,wg-2092,Striatonigral Degeneration (SND)
+rs199476382,,1,wg-2129,Metachromatic Leukodystrophy (MLD)
+rs199476389,,1,wg-2129,Metachromatic Leukodystrophy (MLD)
+rs1994840,,1,wg-1766,Myopia
+rs1998076,,1,wg-1585,Male Baldness
+rs199835443,,1,wg-2055,Pontocerebellar Hypoplasia (PCH)
+rs199947197,,1,wg-2028,Familial Amyotrophic Lateral Sclerosis (FALS)
+rs200068769,OAT,1,wg-2058,Ornithine Aminotransferase Deficiency (OAT)
+rs200125117,,1,wg-2198,Leber Congenital Amaurosis (LCA)
+rs20034,,1,wg-1558,Risk Tolerance
+rs2004640,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs20050,PMM2,1,wg-2107,Congenital Disorder of Glycosylation (CDG)
+rs200507575,,1,wg-2080,Biotinidase Deficiency (BTD)
+rs200672668,,1,wg-1570,Alport Syndrome
+rs20068,AUTS2,1,wg-2403,Gherkins Preference
+rs200712253,,1,wg-1576,Large Vestibular Aqueduct Syndrome
+rs200750564,HOXD13,1,wg-1984,Syndactyly
+rs200782888,,1,wg-2221,Rubinstein-Taybi Syndrome (RSTS)
+rs200793464,,1,wg-2028,Familial Amyotrophic Lateral Sclerosis (FALS)
+rs2008387,,1,wg-1699,Anorexia Nervosa
+rs2009345,,1,wg-99,Alopecia Areata
+rs2011077,,1,wg-40,Prostate Cancer
+rs20121,RYR2,1,wg-1731,Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+rs201227603,,1,wg-2190,Hermansky-Pudlak Syndrome (HPS)
+rs201284672,,1,wg-2223,Salla Disease (SD)
+rs201337954,,1,wg-2105,Congenital Disorder of Deglycosylation (CDDG)
+rs201471607,,1,wg-2232,Stargardt Disease
+rs201509408,EYA1,1,wg-1582,Branchiootorenal Spectrum Disorder
+rs201682634,ABCC8,1,wg-2047,Leucine-Induced Hypoglycemia (LIH)
+rs201953584,PKLR,1,wg-1982,Pyruvate Kinase Deficiency (PKD)
+rs202080674,,1,wg-2167,Cockayne Syndrome (CS)
+rs202198133,,1,wg-2114,Mitochondrial Complex II Deficiency (MC2D)
+rs202247822,,1,wg-1981,Propionic Acidemia (PA)
+rs203192,,1,wg-1945,Smoking x Stomach Cancer
+rs2031920,,1,wg-1944,Drinking x Lung Cancer
+rs2034650,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs2034768,,1,wg-2293,Leisure TV Watching Preference​
+rs2046315,,1,wg-1552,Dental Caries
+rs20502,SHISA6,1,wg-2279,Long Sleep Preference​
+rs20541,IL13,1,wg-2251,Shrimps
+rs2056626,AC,1,wg-51,UPDATE Scleroderma
+rs2056708,,1,wg-1713,Nonconformity
+rs2059693,,1,wg-82,Testicular Cancer
+rs206269,FGF21,1,wg-2346,Cake Preference
+rs2066702,,2,wg-249;wg-52,Alcohol Metabolism;Alcohol Dependence
+rs2066853,AHR,1,wg-1693,Anti-Skin Wrinkle Ability
+rs2066864,,1,wg-89,Venous Thromboembolism (VTE)
+rs2068888,,1,wg-134,Hypertriglyceridemia
+rs2069117,,1,wg-1715,Anti-Loneliness
+rs2069235,,1,wg-65,UPDATE Sjögren's Syndrome
+rs2069772,,1,wg-2258,Cow's Milk
+rs2070600,,1,wg-49,Stomach Cancer
+rs20733,GGT1,1,wg-2344,Mushroom Preference
+rs2073711,,1,wg-129,UPDATE Back Pain
+rs2074356,AC,1,wg-48,Esophageal Cancer
+rs2074997,,1,wg-1719,Stress Handling Ability
+rs2075876,,1,wg-1749,UPDATE Primary Adrenal Insufficiency
+rs2076295,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs2076530,,1,wg-117,UPDATE Sarcoidosis
+rs210138,,1,wg-82,Testicular Cancer
+rs2106353,,1,wg-1957,Gastroesophageal reflux disease
+rs2106727,GDF15,1,wg-2407,Dark Chocolate Preference
+rs2107301,,1,wg-40,Prostate Cancer
+rs2107856,,1,wg-67,UPDATE Exfoliative Glaucoma
+rs2108622,,2,wg-250;wg-1701,Vitamin E Nutritional Requirement;Vitamin K Nutritional Requirement
+rs2110529,,2,wg-2356;wg-2370,Mackerel Preference;Sardines Preference
+rs2118181,,1,wg-1746,UPDATE Aortic Dissection
+rs2118612,,1,wg-1485,UPDATE Otosclerosis
+rs2119437,,1,wg-2385,Black Olives Preference
+rs212178,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs2130392,,1,wg-1747,Kawasaki Disease
+rs2131755,,1,wg-1555,UPDATE Diverticulosis
+rs2145418,,1,wg-83,Thyroid Cancer
+rs2153271,,1,wg-1525,Anti-Freckle Ability
+rs2155219,,2,wg-57;wg-101,Allergic Rhinitis;UPDATE Atopic Dermatitis
+rs2155290,,1,wg-2373,Avocados Preference
+rs2155413,,1,wg-1766,Myopia
+rs2156921,,1,wg-242,Depression
+rs2160875,,1,wg-107,Migraines
+rs2162353,,1,wg-103,UPDATE Dupuytren's Disease
+rs2163971,ADH1B,1,wg-2414,Bitter Ale Preference
+rs2166181,,1,wg-1766,Myopia
+rs2180439,,1,wg-1585,Male Baldness
+rs2186797,,1,wg-1936,Haemorrhoids
+rs2187668,SYNPR,4,wg-1483;wg-1752;wg-59;wg-120,Celiac Disease;UPDATE Autoimmune Hepatitis;UPDATE Kidney Diseases;UPDATE Selective IgA Deficiency
+rs2200733,,2,wg-39;wg-121,Atrial Fibrillation;UPDATE Stroke
+rs2201841,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs2218793,,1,wg-1936,Haemorrhoids
+rs2221593,,1,wg-1961,M. leprae Infection
+rs2223841,,1,wg-1585,Male Baldness
+rs2227589,,1,wg-89,Venous Thromboembolism (VTE)
+rs2227692,,1,wg-49,Stomach Cancer
+rs2228000,,1,wg-1949,Smoking x Bladder Cancer
+rs2228001,,1,wg-1949,Smoking x Bladder Cancer
+rs2231142,,1,wg-88,UPDATE Gout
+rs2233152,,1,wg-1747,Kawasaki Disease
+rs2234922,,1,wg-1948,Smoking x Prostate Cancer
+rs2236295,TAS2R38,1,wg-2348,Grapefruit Preference
+rs2236313,,1,wg-56,UPDATE Vitiligo
+rs22411,,1,wg-2399,Raw Carrots Preference
+rs2254546,,1,wg-1747,Kawasaki Disease
+rs2255526,,1,wg-131,Developmental Dyslexia
+rs2267012,,1,wg-242,Depression
+rs2267013,,1,wg-242,Depression
+rs2267015,,1,wg-242,Depression
+rs2269475,,1,wg-93,Rheumatoid Arthritis (RA)
+rs2269497,,1,wg-1960,M. tuberculosis Infection
+rs2271342,,1,wg-2377,Ketchup Preference
+rs2272007,,1,wg-1746,UPDATE Aortic Dissection
+rs2272744,,1,wg-1958,Vertigo
+rs2274223,,2,wg-48;wg-49,Esophageal Cancer;Stomach Cancer
+rs2274305,,1,wg-131,Developmental Dyslexia
+rs22756,,1,wg-1961,M. leprae Infection
+rs2275913,,1,wg-49,Stomach Cancer
+rs227731,,1,wg-130,Cleft Lip and Cleft Palate
+rs2280714,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs2281845,,1,wg-1550,Dental Retardation
+rs2287348,,1,wg-1699,Anorexia Nervosa
+rs2287826,IKBKAP,1,wg-1714,Agreeableness
+rs229038,,1,wg-1551,Mandibular Protrusion
+rs2290602,,1,wg-136,Non-Alcoholic Fatty Liver Disease (NAFLD)
+rs2292096,,1,wg-1748,UPDATE Epilepsy
+rs2293347,,1,wg-91,UPDATE Lung Cancer
+rs2294008,,3,wg-1956;wg-49;wg-1971,Bladder Cancer;Stomach Cancer;H. pylori Infection
+rs2294922,,1,wg-1646,UPDATE Liver Cancer
+rs229527,,1,wg-56,UPDATE Vitiligo
+rs2295490,,1,wg-66,Type 2 Diabetes (T2D)
+rs2298527,,1,wg-2364,Cabbage Preference
+rs229856,,1,wg-87,Coronary Heart Disease (CHD)
+rs2298585,,1,wg-253,Vitamin B12 Nutritional Requirement
+rs2302006,,1,wg-117,UPDATE Sarcoidosis
+rs2303138,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs2304206,,1,wg-56,UPDATE Vitiligo
+rs2304672,,1,wg-2269,Occupational Stress
+rs230534,,1,wg-51,UPDATE Scleroderma
+rs2305480,GSDMB,1,wg-2248,Dogs
+rs2305767,,1,wg-1483,Celiac Disease
+rs2305795,,1,wg-114,UPDATE Narcolepsy
+rs2306033,,1,wg-1554,Osteoporosis
+rs2316901,TRIM66,1,wg-2314,Plums Preference
+rs2332175,,1,wg-2305,Hand 2D-to-4D Ratio​
+rs2333227,,1,wg-49,Stomach Cancer
+rs233804,,1,wg-1704,Zinc Nutritional Requirement
+rs2339975,,1,wg-2384,Drinking Water Preference
+rs2352028,,1,wg-91,UPDATE Lung Cancer
+rs23529,HTR1A,1,wg-1709,Social Communication Ability
+rs2365860,,1,wg-1964,Plasmodium Infection
+rs2380937,,1,wg-2399,Raw Carrots Preference
+rs2395029,,1,wg-90,UPDATE Psoriasis
+rs2395185,,3,wg-70;wg-94;wg-2256,Type 1 Diabetes (T1D);Ulcerative Colitis;Dust Mites
+rs24096,,1,wg-1558,Risk Tolerance
+rs2409784,,1,wg-1943,Drinking x Hypertension
+rs2422293,,1,wg-2273,Myocardial Infarction (MI)
+rs2424248,,1,wg-2276,Multisite Chronic Pain
+rs242557,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs244755,,1,wg-58,UPDATE Keloid
+rs2453555,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs2464196,,1,wg-91,UPDATE Lung Cancer
+rs2467146,,1,wg-119,Scoliosis
+rs2470578,PSCA,1,wg-2406,Cake Icing Preference
+rs2472297,GDF15,3,wg-2397;wg-2407;wg-2361,Coffee without Sugar Preference;Dark Chocolate Preference;Ice Cream Preference
+rs2472493,,1,wg-1546,Open-Angle Glaucoma
+rs2472494,,1,wg-1546,Open-Angle Glaucoma
+rs24752,,1,wg-2295,Telomere Length
+rs2476491,,1,wg-2415,Hyperthyroidism
+rs2476601,,3,wg-2415;wg-133;wg-106,Hyperthyroidism;UPDATE Hashimoto's Thyroiditis;UPDATE Hypothyroidism
+rs2477686,PRM1,1,wg-61,Male Infertility
+rs2488457,,1,wg-65,UPDATE Sjögren's Syndrome
+rs2504701,,1,wg-2316,Pears Preference
+rs2504714,TRIM66,1,wg-2314,Plums Preference
+rs2511989,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs251468,PPARGC1,1,wg-1556,Ability To Resist Senile Plaques
+rs2517452,,1,wg-1648,UPDATE Oral Cancer
+rs2517532,,1,wg-106,UPDATE Hypothyroidism
+rs2521634,,1,wg-1549,Periodontitis
+rs2526389,,1,wg-2313,Prawns Preference
+rs25531,,1,wg-85,UPDATE Obsessive-Compulsive Disorder (OCD)
+rs2567206,,1,wg-1949,Smoking x Bladder Cancer
+rs2569190,CD14,1,wg-2261,Endotoxins
+rs2569191,CD14,1,wg-2261,Endotoxins
+rs2570497,,1,wg-2289,Sun-Seeking Preference
+rs2576037,KATNAL2,1,wg-1721,Conscientiousness
+rs26051,,1,wg-2283,Large Nail Plate Tendency
+rs2606345,,1,wg-1952,Smoking x Lung Cancer
+rs261342,,1,wg-134,Hypertriglyceridemia
+rs2613492,,1,wg-2294,Occupational Scientific Creativity
+rs2619056,,1,wg-1713,Nonconformity
+rs2631367,,1,wg-95,UPDATE Crohn's Disease (CD)
+rs2638281,,1,wg-2412,Salty Pretzels Preference
+rs26434,PAM,1,wg-2341,Spinach Preference
+rs2651804,,1,wg-51,UPDATE Scleroderma
+rs2651899,,1,wg-107,Migraines
+rs26670,,1,wg-2262,Cleaning Agents
+rs266729,,1,wg-44,Colorectal Cancer
+rs2671655,,1,wg-1971,H. pylori Infection
+rs2673136,,1,wg-52,Alcohol Dependence
+rs26760,CACNA;DES,3,wg-1990;wg-2199;wg-2015,Hypokalemic Periodic Paralysis (HKOPP);Leigh Syndrome;Myofibrillar Myopathy (MFM)
+rs267606617,RNR1,1,wg-1579,Aminoglycoside-Induced Deafness
+rs267606619,RNR1,1,wg-1579,Aminoglycoside-Induced Deafness
+rs267606650,,1,wg-2099,Congenital Bile Acid Synthesis Defect (CBAS)
+rs267606701,,1,wg-2177,Desbuquois Dysplasia
+rs267606827,,1,wg-2216,Rett Syndrome (RTT)
+rs267606948,PHGDH,1,wg-2208,Neu-Laxova Syndrome (NLS)
+rs267607035,,1,wg-2055,Pontocerebellar Hypoplasia (PCH)
+rs267607047,,1,wg-2066,Holoprosencephaly (HPE)
+rs267607061,SLC2A1,1,wg-2065,GLUT1 Deficiency Syndrome
+rs267607144,TRPV4,1,wg-2020,Spondylometaphyseal Dysplasia (SMD)
+rs267607162,,1,wg-2109,Congenital Fibrosis of Extraocular Muscles (CFEOM)
+rs267607183,,1,wg-2043,Focal Segmental Glomerulosclerosis (FSGS)
+rs267607237,,1,wg-2009,Kabuki Syndrome (KS)
+rs267607552,LMNA,1,wg-2097,Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs267607554,LMNA,1,wg-2097,Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs267607555,LMNA,1,wg-2097,Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs27072,,1,wg-52,Alcohol Dependence
+rs27260,,1,wg-2298,Occupational Attainment
+rs2726478,,1,wg-2365,Whisky Preference
+rs27348,ANKK1,1,wg-2292,Leisure Computer Use Preference​
+rs2734839,,1,wg-1957,Gastroesophageal reflux disease
+rs2736100,,2,wg-82;wg-1945,Testicular Cancer;Smoking x Stomach Cancer
+rs2736340,,1,wg-1747,Kawasaki Disease
+rs2748985,,1,wg-2292,Leisure Computer Use Preference​
+rs2792990,,1,wg-1974,Insomnia
+rs2802288,,1,wg-2302,Long Lifespan Tendency
+rs2808630,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs28137,ADH1B,1,wg-2396,Lager Preference
+rs281377,FUT2,1,wg-2312,Pizza Preference
+rs2814707,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs281865084,,1,wg-2190,Hermansky-Pudlak Syndrome (HPS)
+rs281865160,,1,wg-2238,Werner Syndrome
+rs281865238,BEST1,1,wg-1985,Vitreoretinochoroidopathy (VRCP)
+rs281865424,,1,wg-2123,Oculocutaneous Albinism (OCA)
+rs281875189,,1,wg-2209,Nicolaides-Baraitser Syndrome (NCBRS)
+rs281875250,F11,1,wg-2061,Factor XI Deficiency
+rs281875320,SMAD4,1,wg-2206,Myhre Syndrome
+rs281875321,SMAD4,1,wg-2206,Myhre Syndrome
+rs281875334,,1,wg-2158,Baraitser-Winter Syndrome (BRWS)
+rs2828478,,1,wg-1587,Autism
+rs28358569,RNR1,2,wg-1579;wg-1580,Aminoglycoside-Induced Deafness;Mitochondrial Hereditary Non-Syndromic Deafness
+rs28359884,,1,wg-2257,Peaches
+rs2836411,,1,wg-109,UPDATE Abdominal Aortic Aneurysm (AAA)
+rs2837960,,1,wg-93,Rheumatoid Arthritis (RA)
+rs283815,,1,wg-1724,Verbal Memory Ability
+rs28394055,,1,wg-104,UPDATE Hypertension
+rs2844484,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs28446,PSORS1,1,wg-1961,M. leprae Infection
+rs28493229,,1,wg-1747,Kawasaki Disease
+rs2856683,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs28567,,1,wg-1959,Hepatitis Virus Infection
+rs28712821,,1,wg-2343,Crisps Preference
+rs287980,,1,wg-130,Cleft Lip and Cleft Palate
+rs28822480,,1,wg-1552,Dental Caries
+rs2886697,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs28895016,,1,wg-1521,Allergic Diseases
+rs28928891,,1,wg-1993,Brachydactyly
+rs2892947,SERPINA1,1,wg-173,Alpha-1 Antitrypsin Deficiency
+rs28929474,,1,wg-2275,Cirrhosis
+rs2893323,,1,wg-2280,Nap Preference​
+rs28933386,,1,wg-2120,Thrombocytopenia
+rs289348,TSC2,1,wg-1758,Pulmonary Lymphangioleiomyomatosis (PLAM)
+rs28936,ACVRL1;GDF5;PSEN2,3,wg-1993;wg-1588;wg-1737,Brachydactyly;Early-Onset Alzheimer's Disease;Primary Pulmonary Hypertension
+rs28936070,EFNB1,1,wg-2048,Craniofrontonasal Syndrome (CFNS)
+rs28936415,PMM2,1,wg-178,Phosphomannomutase 2-Congenital Disorder of Glycosylation (PMM2-CDG)
+rs28936675,,1,wg-2066,Holoprosencephaly (HPE)
+rs28937882,,1,wg-1991,Hypophosphatemic Rickets (HR)
+rs28937891,WFS1,1,wg-2241,Wolfram Syndrome
+rs28939712,,1,wg-2030,Familial Dysautonomia (FD)
+rs28940286,ASL,1,wg-1541,Argininosuccinate Lyase Deficiency
+rs28940583,NEU1,1,wg-2112,Sialidosis
+rs28940591,PC,1,wg-1983,Pyruvate Carboxylase Deficiency (PCD)
+rs28940876,,1,wg-2062,Skin/Hair/Eye Pigmentation (SHEP)
+rs2894207,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs28942077,,1,wg-2098,Chediak-Higashi Syndrome (CHS)
+rs28942100,HGD,1,wg-2014,Alkaptonuria
+rs290227,,1,wg-1763,Vascular Dementia
+rs2915863,CD14,1,wg-2261,Endotoxins
+rs2921036,,1,wg-1559,Emotional Stability
+rs29232,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs2937339,,1,wg-2392,Butternut Squash Preference
+rs2941471,,1,wg-79,Pancreatic Cancer
+rs2943634,,1,wg-121,UPDATE Stroke
+rs2943641,,1,wg-66,Type 2 Diabetes (T2D)
+rs2952186,,1,wg-2399,Raw Carrots Preference
+rs2953805,,1,wg-1559,Emotional Stability
+rs2975100,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs3013340,TLR1,1,wg-2334,Turnip Preference
+rs301806,,1,wg-1521,Allergic Diseases
+rs3018362,OPTN,1,wg-64,Paget's Disease of Bone
+rs30187,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs3025039,,1,wg-74,Renal Cancer
+rs3057,ASAP1,1,wg-244,Absolute Pitch
+rs3087243,,1,wg-2415,Hyperthyroidism
+rs3093061,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs3105049,,2,wg-2386;wg-2368,Haddock Preference;Pollock Preference
+rs3106840,CDH13,1,wg-2360,Salmon Preference
+rs3115665,,1,wg-59,UPDATE Kidney Diseases
+rs3118470,,1,wg-99,Alopecia Areata
+rs3129878,PRM1,1,wg-61,Male Infertility
+rs3129882,CYP2C19,1,wg-2253,Pesticides
+rs3129888,,1,wg-117,UPDATE Sarcoidosis
+rs3129934,,1,wg-69,Multiple Sclerosis (MS)
+rs3131062,,1,wg-2352,Vinegar Preference
+rs3132685,,1,wg-2362,Capers Preference
+rs3135388,,1,wg-69,Multiple Sclerosis (MS)
+rs3135391,,1,wg-69,Multiple Sclerosis (MS)
+rs314277,,1,wg-2305,Hand 2D-to-4D Ratio​
+rs31489,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs3176459,,1,wg-1769,Cataract
+rs3184504,,1,wg-106,UPDATE Hypothyroidism
+rs3197999,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs32041,IKBKAP,1,wg-1714,Agreeableness
+rs3212227,,1,wg-90,UPDATE Psoriasis
+rs321871,MYH7,1,wg-1728,Wolff-Parkinson-White Syndrome
+rs3219487,,1,wg-1959,Hepatitis Virus Infection
+rs322,,1,wg-80,UPDATE Peripheral Artery Disease (PAD)
+rs322458,MC1R,1,wg-1664,Anti-Skin Photoaging Ability
+rs322931,,1,wg-1718,Positive Emotion
+rs324015,STAT6,1,wg-2255,Nuts
+rs324420,,2,wg-1562;wg-1557,Delayed Gratification;Subjective Well-being
+rs333,,1,wg-1966,HIV Infection
+rs33912345,,1,wg-1546,Open-Angle Glaucoma
+rs33914668,,1,wg-2027,Familial erythrocytosis
+rs33971440,,1,wg-2027,Familial erythrocytosis
+rs33972,SLC23A,1,wg-1700,Vitamin C Nutritional Requirement
+rs34004019,,1,wg-57,Allergic Rhinitis
+rs34141382,,1,wg-1973,Spontaneous Urticaria
+rs34240317,,1,wg-1554,Osteoporosis
+rs34282684,,1,wg-2027,Familial erythrocytosis
+rs34311866,,1,wg-47,Parkinson's Disease (PD)
+rs34443974,,1,wg-120,UPDATE Selective IgA Deficiency
+rs34465541,,1,wg-1770,UPDATE Post-Traumatic Stress Disorder (PTSD)
+rs34517852,,1,wg-1770,UPDATE Post-Traumatic Stress Disorder (PTSD)
+rs34593439,,1,wg-114,UPDATE Narcolepsy
+rs34690,HBB,1,wg-2027,Familial erythrocytosis
+rs34783010,,1,wg-2404,Cheesecake Preference
+rs34858,,1,wg-2278,Sedentary Preference​​
+rs34864022,,1,wg-2285,Leisure Screen Time
+rs34967813,,1,wg-2384,Drinking Water Preference
+rs35039,,1,wg-2280,Nap Preference​
+rs35063026,,1,wg-1565,Ability To Resist Sunburn
+rs35225200,,1,wg-2352,Vinegar Preference
+rs35260863,TRIM66,3,wg-2317;wg-2311;wg-2314,Cherries Preference;Dried Fruit Preference;Plums Preference
+rs35318931,,1,wg-1936,Haemorrhoids
+rs35407,,1,wg-68,Melanoma
+rs35563099,PPARGC1B,1,wg-1556,Ability To Resist Senile Plaques
+rs35576928,PRM1,1,wg-61,Male Infertility
+rs35652124,,1,wg-1523,Antioxidant Ability
+rs35656642,,1,wg-117,UPDATE Sarcoidosis
+rs35677470,,1,wg-51,UPDATE Scleroderma
+rs35741362,FGF21,1,wg-2346,Cake Preference
+rs35773951,,1,wg-2329,Bell Pepper Preference
+rs35805189,CDH13,1,wg-2383,Green Olives Preference
+rs35829419,,2,wg-1966;wg-1961,HIV Infection;M. leprae Infection
+rs36015125,,1,wg-2277,Unibrow Tendency
+rs36071027,PON1,2,wg-1942;wg-1950,Drinking x CHD;Smoking x CHD
+rs36212066,,1,wg-196,Hypertrophic Cardiomyopathy
+rs367543005,ASL,1,wg-1541,Argininosuccinate Lyase Deficiency
+rs367543006,ASL,1,wg-1541,Argininosuccinate Lyase Deficiency
+rs367543012,,1,wg-2162,Bloom Syndrome (BLM)
+rs367543024,,1,wg-2162,Bloom Syndrome (BLM)
+rs368433,,1,wg-1971,H. pylori Infection
+rs369721476,ARMC5,1,wg-1987,Acth-independent Macronodular Adrenal Hyperplasia (AIMAH)
+rs370596113,,1,wg-2035,Methylmalonic Acidemia with Homocystinuria
+rs370686447,,1,wg-2045,Tyrosinemia
+rs37079,AGL,1,wg-2085,Glycogen Storage Disease (GSD)
+rs371295780,,1,wg-2055,Pontocerebellar Hypoplasia (PCH)
+rs372000714,,1,wg-2017,Spinal Muscular Atrophy (SMA)
+rs372091,,1,wg-1964,Plasmodium Infection
+rs373145711,ASXL1,1,wg-2163,Bohring-Opitz Syndrome (BOS)
+rs373227647,,1,wg-2175,De Sanctis-Cacchione Syndrome (DSC)
+rs3732760,,1,wg-1555,UPDATE Diverticulosis
+rs3736228,,1,wg-1554,Osteoporosis
+rs3736309,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs373780305,,1,wg-1573,Usher Syndrome
+rs3740304,,1,wg-1587,Autism
+rs3741368,,1,wg-2298,Occupational Attainment
+rs3742721,,1,wg-2415,Hyperthyroidism
+rs374480381,ATP6V0A2,1,wg-2151,Wrinkly Skin Syndrome (WSS)
+rs3745516,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs3748079,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs3748816,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs3749171,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs374952396,TLR1,1,wg-2334,Turnip Preference
+rs3750846,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs3750848,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs3754777,,1,wg-104,UPDATE Hypertension
+rs3756290,,1,wg-1557,Subjective Well-being
+rs37564,,1,wg-1562,Delayed Gratification
+rs3757247,,1,wg-1749,UPDATE Primary Adrenal Insufficiency
+rs3757387,,1,wg-65,UPDATE Sjögren's Syndrome
+rs375761361,ACO2,1,wg-2132,Infantile Cerebellar-Retinal Degeneration (ICRD)
+rs3758947,,1,wg-1953,Physical Activity x T2D Slightly strong protective role
+rs376048533,,1,wg-2155,Aicardi-Goutieres Syndrome (AGS)
+rs37611,HTR1A,1,wg-1709,Social Communication Ability
+rs3761418,,1,wg-242,Depression
+rs3764147,,1,wg-1961,M. leprae Infection
+rs376493409,,1,wg-2227,Senior-Loken Syndrome (SLSN)
+rs3765502,,1,wg-131,Developmental Dyslexia
+rs3768716,,1,wg-76,Neuroblastoma
+rs3770748,,1,wg-1554,Osteoporosis
+rs3771033,,1,wg-2284,Dense Hair Tendency
+rs3772622,,1,wg-136,Non-Alcoholic Fatty Liver Disease (NAFLD)
+rs37736,DRD3,1,wg-1562,Delayed Gratification
+rs377656387,,1,wg-2096,Glutaric Acidemia (GA)
+rs377686388,,1,wg-2096,Glutaric Acidemia (GA)
+rs37776,SMAD4,1,wg-2134,Juvenile Polyposis Syndrome (JPS)
+rs3782179,,1,wg-82,Testicular Cancer
+rs3782886,,2,wg-87;wg-59,Coronary Heart Disease (CHD);UPDATE Kidney Diseases
+rs3783799,,1,wg-121,UPDATE Stroke
+rs3784730,,1,wg-1587,Autism
+rs3790565,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs3790844,,1,wg-79,Pancreatic Cancer
+rs3791203,FUT2,1,wg-2312,Pizza Preference
+rs3793917,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs3794991,,1,wg-1646,UPDATE Liver Cancer
+rs37966,,1,wg-2288,Morningness Preference​​
+rs3800373,,1,wg-1719,Stress Handling Ability
+rs3800872,,1,wg-1770,UPDATE Post-Traumatic Stress Disorder (PTSD)
+rs3802177,,1,wg-66,Type 2 Diabetes (T2D)
+rs3803662,,1,wg-113,Male Breast Cancer
+rs3804100,,2,wg-53;wg-70,Asthma;Type 1 Diabetes (T1D)
+rs3805322,,1,wg-1938,Drinking x Esophagus Cancer
+rs38055,,1,wg-1527,Ability To Resist Acne
+rs3807688,,1,wg-2344,Mushroom Preference
+rs3811046,,1,wg-1549,Periodontitis
+rs3813867,,1,wg-1948,Smoking x Prostate Cancer
+rs3815556,,1,wg-114,UPDATE Narcolepsy
+rs3821236,,1,wg-51,UPDATE Scleroderma
+rs3821845,,1,wg-104,UPDATE Hypertension
+rs3824968,,1,wg-1717,Spatial Memory Ability
+rs3825942,,1,wg-67,UPDATE Exfoliative Glaucoma
+rs3826782,,1,wg-1549,Periodontitis
+rs3827760,,3,wg-2281;wg-2291;wg-2286,Curly Hair Tendency;Free Earlobe Tendency;Stool Frequency​​
+rs3846449,,1,wg-1648,UPDATE Oral Cancer
+rs3853445,,1,wg-39,Atrial Fibrillation
+rs38613,LMNA,2,wg-2028;wg-2097,Familial Amyotrophic Lateral Sclerosis (FALS);Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs386231,,1,wg-1770,UPDATE Post-Traumatic Stress Disorder (PTSD)
+rs38683,RD3,1,wg-2198,Leber Congenital Amaurosis (LCA)
+rs386833420,,1,wg-2087,Aspartylglucosaminuria (AGU)
+rs386833844,RECQL4,1,wg-2213,Rapadilino Syndrome
+rs386833851,RECQL4,1,wg-2220,Rothmund-Thomson Syndrome (RTS)
+rs386833990,,1,wg-2223,Salla Disease (SD)
+rs386834158,,1,wg-2227,Senior-Loken Syndrome (SLSN)
+rs38790,SERAC1;SMAD3;WDR19,3,wg-2154;wg-1727;wg-2227,3-Methylglutaconic Aciduria (MGA);Loeys Dietz Syndrome;Senior-Loken Syndrome (SLSN)
+rs387906,CDON;HSD3B7,2,wg-2099;wg-2066,Congenital Bile Acid Synthesis Defect (CBAS);Holoprosencephaly (HPE)
+rs387906225,ALDOB,1,wg-195,Hereditary Fructose Intolerance
+rs387906592,ACTA2,1,wg-1997,Multisystemic Smooth Muscle Dysfunction Syndrome (MSMDS)
+rs387906622,FBN1,1,wg-2187,Geleophysic Dysplasia
+rs387906623,FBN1,1,wg-2187,Geleophysic Dysplasia
+rs387906862,,1,wg-2104,Congenital Stationary Night Blindness (CSNB)
+rs387906904,TRPV4,1,wg-2020,Spondylometaphyseal Dysplasia (SMD)
+rs387906960,,1,wg-2165,Bruck Syndrome (BS)
+rs387907,ETFDH,1,wg-2096,Glutaric Acidemia (GA)
+rs387907037,,1,wg-2043,Focal Segmental Glomerulosclerosis (FSGS)
+rs387907053,,1,wg-1978,Megalencephalic Leukoencephalopathy with Subcortical Cysts (MLC)
+rs387907360,,1,wg-2184,FG Syndrome
+rs387907377,,1,wg-2119,Hemochromatosis
+rs387907576,,1,wg-2011,Osteopetrosis
+rs3887138,,1,wg-2402,Red Wine Preference
+rs3891175,SYNPR,1,wg-1752,UPDATE Autoimmune Hepatitis
+rs3903239,,1,wg-39,Atrial Fibrillation
+rs3918242,,2,wg-1547;wg-1695,Gingivitis;Collagen Retention Ability
+rs3918396,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs3923809,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs3925584,,1,wg-1707,Magnesium Nutritional Requirement
+rs39375,,1,wg-1485,UPDATE Otosclerosis
+rs3959554,,1,wg-2301,Frailty Tendency
+rs39750,BRAF;CFTR,3,wg-2117;wg-2053;wg-2126,Cardiofaciocutaneous Syndrome (CFC);Cystic Fibrosis (CF);Hereditary Pancreatitis (HP)
+rs397509390,STAMBP,1,wg-2116,Microcephaly-Capillary Malformation Syndrome (MICCAP)
+rs39751,APC;PRKG1;SLC26A,5,wg-2154;wg-2080;wg-1732;wg-2127;wg-1576,3-Methylglutaconic Aciduria (MGA);Biotinidase Deficiency (BTD);Familial Thoracic Aortic Aneurysm;Hereditary Desmoid Disease (HDD);Large Vestibular Aqueduct Syndrome
+rs397514456,GNAS,1,wg-2037,Pseudohypoparathyroidism (PHP)
+rs397515401,ASXL1,1,wg-2163,Bohring-Opitz Syndrome (BOS)
+rs397516335,POU3F4,1,wg-1575,X-Linked Non-Syndromic Hereditary Deafness
+rs397516430,,1,wg-1571,Pendred Syndrome
+rs397517,EYA1,1,wg-1582,Branchiootorenal Spectrum Disorder
+rs397517196,,1,wg-1577,Autosomal Dominant Non-Syndromic Deafness
+rs397517436,,1,wg-1573,Usher Syndrome
+rs397517974,,1,wg-2083,Cone-Rod Dystrophy (CRD)
+rs39812,BCKDH;BTD;DMD;GALNS;GBA;GNPTA;PYGM;SEC23B;USH2A,10,wg-2161;wg-2080;wg-2102;wg-2186;wg-2085;wg-2001;wg-2204;wg-2057;wg-2056;wg-1573,Becker Muscular Dystrophy (BMD);Biotinidase Deficiency (BTD);Congenital Dyserythropoietic Anemia (CDA);Gaucher Disease (GD);Glycogen Storage Disease (GSD);Maple Syrup Urine Disease (MSUD);Miyoshi Muscular Dystrophy (MMD);Mucolipidosis;Mucopolysaccharidosis (MPS);Usher Syndrome
+rs398122844,,1,wg-2184,FG Syndrome
+rs398122877,,1,wg-1979,Osteopathia Striata with Cranial Sclerosis (OSCS)
+rs398122929,,1,wg-2009,Kabuki Syndrome (KS)
+rs398122992,,1,wg-2156,Alstrom Syndrome (AS)
+rs398122994,,1,wg-2156,Alstrom Syndrome (AS)
+rs398122995,,1,wg-2156,Alstrom Syndrome (AS)
+rs398123414,,1,wg-2129,Metachromatic Leukodystrophy (MLD)
+rs398123425,ATRX,1,wg-2147,Intellectual Disability-Hypotonic Facies Syndrome
+rs398123443,,1,wg-2224,Sandhoff Disease
+rs398123546,G6PD,1,wg-190,Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD)
+rs398123704,,1,wg-2009,Kabuki Syndrome (KS)
+rs398123773,DYSF,1,wg-2137,Distal Myopathy with Anterior Tibial Onset (DMAT)
+rs398124117,RECQL4,1,wg-2220,Rothmund-Thomson Syndrome (RTS)
+rs398124167,,1,wg-2003,Nemaline Myopathy (NM)
+rs398124172,,1,wg-2003,Nemaline Myopathy (NM)
+rs398124177,RPS6KA3,1,wg-2168,Coffin-Lowry Syndrome (CLS)
+rs398124295,,1,wg-2035,Methylmalonic Acidemia with Homocystinuria
+rs398124378,,1,wg-2231,Sotos Syndrome
+rs401775,,1,wg-1648,UPDATE Oral Cancer
+rs402007,,1,wg-1951,Smoking x Hypertension
+rs4027132,,1,wg-96,UPDATE Bipolar Disorder
+rs40720,MUC1,1,wg-1707,Magnesium Nutritional Requirement
+rs4075094,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs4077515,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs41012,,1,wg-131,Developmental Dyslexia
+rs41281112,,1,wg-253,Vitamin B12 Nutritional Requirement
+rs4140564,,1,wg-116,Osteoarthritis (OA)
+rs4142110,,1,wg-75,UPDATE Renal Calculi
+rs4143094,GATA3,1,wg-2263,Processed Meat
+rs4147707,,1,wg-2322,Ham Preference
+rs41851,ADH1B,1,wg-2396,Lager Preference
+rs4240637,,1,wg-2331,Tomatoes Preference
+rs4240897,,1,wg-1960,M. tuberculosis Infection
+rs4244285,CYP2C19,1,wg-2253,Pesticides
+rs4268071,,1,wg-91,UPDATE Lung Cancer
+rs4282438,,1,wg-65,UPDATE Sjögren's Syndrome
+rs428549,,1,wg-1958,Vertigo
+rs42935,APOE,4,wg-2322;wg-2333;wg-2328;wg-2313,Ham Preference;Lamb Preference;Pork Preference;Prawns Preference
+rs429358,APOE,11,wg-1763;wg-348;wg-2398;wg-2308;wg-2327;wg-2358;wg-2324;wg-2323;wg-2325;wg-2411;wg-2353,Vascular Dementia;APOE Genotype;BBQ Grilled Meat Preference;Bacon Preference;Beef Preference;Eggs Preference;Fried Chicken Preference;Fried Fish Preference;Roast Chicken Preference;Salami Preference;Sausages Preference
+rs4310746,,1,wg-2340,Cauliflower Preference
+rs4324715,,1,wg-82,Testicular Cancer
+rs43314,,1,wg-1960,M. tuberculosis Infection
+rs434182,,1,wg-109,UPDATE Abdominal Aortic Aneurysm (AAA)
+rs4345978,,1,wg-1936,Haemorrhoids
+rs4368253,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs4400143,,1,wg-2333,Lamb Preference
+rs4406737,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs44206,APOC1,1,wg-1724,Verbal Memory Ability
+rs443198,,1,wg-51,UPDATE Scleroderma
+rs44537,HTR1A,1,wg-1709,Social Communication Ability
+rs4464148,,1,wg-44,Colorectal Cancer
+rs4474514,,1,wg-82,Testicular Cancer
+rs4487645,,1,wg-135,Myeloproliferative Neoplasm (MPN)
+rs4491709,,1,wg-1550,Dental Retardation
+rs4506565,,1,wg-66,Type 2 Diabetes (T2D)
+rs4518438,,1,wg-2278,Sedentary Preference​​
+rs4528931,,1,wg-2356,Mackerel Preference
+rs453755,,1,wg-1973,Spontaneous Urticaria
+rs454692,TSC2,1,wg-1758,Pulmonary Lymphangioleiomyomatosis (PLAM)
+rs454833,TSC2,1,wg-1758,Pulmonary Lymphangioleiomyomatosis (PLAM)
+rs4551304,,1,wg-1943,Drinking x Hypertension
+rs45544231,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs45560,MUC12,1,wg-2286,Stool Frequency​​
+rs4565946,,1,wg-85,UPDATE Obsessive-Compulsive Disorder (OCD)
+rs4580876,,1,wg-2306,Croissant Preference
+rs4596363,,1,wg-2278,Sedentary Preference​​
+rs4646903,,3,wg-1938;wg-1946;wg-1945,Drinking x Esophagus Cancer;Smoking x Esophagus Cancer;Smoking x Stomach Cancer
+rs4647924,FGFR3,1,wg-2145,Thanatophoric Dysplasia
+rs4648317,,1,wg-77,Nicotine Dependence
+rs46536,,1,wg-1563,Anti-Anxiety Ability
+rs4653728,GDF15,1,wg-2407,Dark Chocolate Preference
+rs4654388,,1,wg-1551,Mandibular Protrusion
+rs4654748,,1,wg-1702,Vitamin B6 Nutritional Requirement
+rs4654903,,1,wg-94,Ulcerative Colitis
+rs4662344,,1,wg-1555,UPDATE Diverticulosis
+rs4664308,,1,wg-59,UPDATE Kidney Diseases
+rs4665058,BAZ2B,1,wg-216,Sudden Cardiac Death (SCD)
+rs46666,,1,wg-2288,Morningness Preference​​
+rs4672566,,1,wg-2283,Large Nail Plate Tendency
+rs4676410,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs4680,,3,wg-1562;wg-1557;wg-1944,Delayed Gratification;Subjective Well-being;Drinking x Lung Cancer
+rs4702,,1,wg-85,UPDATE Obsessive-Compulsive Disorder (OCD)
+rs4708876,,1,wg-87,Coronary Heart Disease (CHD)
+rs4713581,,1,wg-93,Rheumatoid Arthritis (RA)
+rs4713902,,1,wg-96,UPDATE Bipolar Disorder
+rs4730775,,1,wg-103,UPDATE Dupuytren's Disease
+rs4779584,,1,wg-44,Colorectal Cancer
+rs478304,,1,wg-1527,Ability To Resist Acne
+rs4785763,,1,wg-68,Melanoma
+rs4794067,,1,wg-53,Asthma
+rs4795218,,1,wg-79,Pancreatic Cancer
+rs479844,,1,wg-101,UPDATE Atopic Dermatitis
+rs4800011,,1,wg-2300,Occupational Artistic Creativity
+rs482012,,1,wg-119,Scoliosis
+rs4820268,,1,wg-251,Iron Nutritional Requirement
+rs48335,LMNA,1,wg-2097,Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs483352872,GHRHR,1,wg-2086,Isolated Growth Hormone Deficiency (IGHD)
+rs4845320,LCE4A,1,wg-1963,Candida Infection
+rs484959,OPTN,1,wg-64,Paget's Disease of Bone
+rs4877080,,1,wg-1485,UPDATE Otosclerosis
+rs4880,,1,wg-1523,Antioxidant Ability
+rs48862,,1,wg-2303,Non-Cognitive Educational Attainment
+rs4889530,,1,wg-2285,Leisure Screen Time
+rs4904738,,1,wg-85,UPDATE Obsessive-Compulsive Disorder (OCD)
+rs4908972,,1,wg-2328,Pork Preference
+rs4909561,,1,wg-2303,Non-Cognitive Educational Attainment
+rs4911414,,1,wg-1525,Anti-Freckle Ability
+rs4911442,,1,wg-1525,Anti-Freckle Ability
+rs4921542,,1,wg-1969,Prion Infection
+rs492602,,2,wg-52;wg-90,Alcohol Dependence;UPDATE Psoriasis
+rs4926244,,1,wg-67,UPDATE Exfoliative Glaucoma
+rs4927012,,1,wg-2305,Hand 2D-to-4D Ratio​
+rs4929925,,1,wg-2317,Cherries Preference
+rs4938573,,1,wg-73,Follicular Lymphoma
+rs4939827,,1,wg-44,Colorectal Cancer
+rs4940994,,1,wg-2377,Ketchup Preference
+rs494157,HTR2A,1,wg-1717,Spatial Memory Ability
+rs4947336,,1,wg-2380,Aniseed Preference
+rs4953148,,1,wg-2316,Pears Preference
+rs4959669,,1,wg-2297,Widow's Peak Tendency
+rs4961,,1,wg-104,UPDATE Hypertension
+rs4968451,,1,wg-62,Meningioma
+rs4975616,,1,wg-1649,UPDATE Laryngocarcinoma
+rs4977839,,1,wg-2304,Leadership Ability​​
+rs4979462,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs4980379,,1,wg-104,UPDATE Hypertension
+rs498422,PRM1,1,wg-61,Male Infertility
+rs4987855,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs4988235,MCM6,2,wg-5;wg-2345,Lactose Metabolism;Broad Beans Preference
+rs4988321,,1,wg-1554,Osteoporosis
+rs50308,VHL,1,wg-1760,Pheochromocytoma
+rs503464,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs505922,,2,wg-79;wg-80,Pancreatic Cancer;UPDATE Peripheral Artery Disease (PAD)
+rs5067,,1,wg-53,Asthma
+rs506863,,1,wg-2281,Curly Hair Tendency
+rs507711,,1,wg-2345,Broad Beans Preference
+rs512445,,1,wg-2345,Broad Beans Preference
+rs514659,ABO,1,wg-2369,Marzipan Preference
+rs516732,,1,wg-2266,Gases and Fumes
+rs52723,PRPH2;SCN4A,2,wg-1990;wg-2232,Hypokalemic Periodic Paralysis (HKOPP);Stargardt Disease
+rs528301,,2,wg-2350;wg-2307,Chilli Pepper Preference;Curry Preference
+rs528301822,,1,wg-2280,Nap Preference​
+rs53576,OXTR,3,wg-1708;wg-1715;wg-1560,Anti-Aggression;Anti-Loneliness;Empathy
+rs538543007,,1,wg-2177,Desbuquois Dysplasia
+rs5404,SLC2A2,1,wg-1953,Physical Activity x T2D Slightly strong protective role
+rs54376,,1,wg-2412,Salty Pretzels Preference
+rs543760,TAS2R38,1,wg-2348,Grapefruit Preference
+rs5498,,1,wg-70,Type 1 Diabetes (T1D)
+rs553450800,,1,wg-2318,Oranges Preference
+rs553652,,1,wg-1485,UPDATE Otosclerosis
+rs55730499,,1,wg-2273,Myocardial Infarction (MI)
+rs55766194,,1,wg-2273,Myocardial Infarction (MI)
+rs55777621,,1,wg-1974,Insomnia
+rs55798953,,1,wg-2386,Haddock Preference
+rs55872,,2,wg-2405;wg-2372,Blue Cheese Preference;Porridge Preference
+rs55872725,,1,wg-2392,Butternut Squash Preference
+rs55985303,FGF21,3,wg-2357;wg-2370;wg-2326,Herring Preference;Sardines Preference;Smoked Fish Preference
+rs56019088,,1,wg-107,Migraines
+rs560887,G6PC2,1,wg-17,Fasting Plasma Glucose Levels
+rs56094641,FGF21,2,wg-2358;wg-2410,Eggs Preference;Tinned Tuna Preference
+rs56131196,,1,wg-2391,Savory Biscuits Preference
+rs56246068,,1,wg-2336,Asparagus Preference
+rs57224,PCCB,1,wg-1981,Propionic Acidemia (PA)
+rs574087,,1,wg-99,Alopecia Areata
+rs5743604,TLR1,1,wg-1970,Cryptococcus Infection
+rs5743618,TLR1,2,wg-1521;wg-2334,Allergic Diseases;Turnip Preference
+rs574808,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs57744491,,1,wg-2290,Thick Eyebrow Tendency
+rs583911,,1,wg-65,UPDATE Sjögren's Syndrome
+rs5848,,1,wg-38,Late-Onset Alzheimer's Disease
+rs58542926,,4,wg-1647;wg-2275;wg-136;wg-1646,Alcoholic Fatty Liver Disease (AFLD);Cirrhosis;Non-Alcoholic Fatty Liver Disease (NAFLD);UPDATE Liver Cancer
+rs58777,CLP1;IL7R,4,wg-2144;wg-2052;wg-2113;wg-2055,Acromicric Dysplasia;Immunodeficiency;Mitochondrial DNA Depletion Syndrome (MDS);Pontocerebellar Hypoplasia (PCH)
+rs587776897,,1,wg-2177,Desbuquois Dysplasia
+rs587776982,,1,wg-2105,Congenital Disorder of Deglycosylation (CDDG)
+rs587777011,FAM111A,1,wg-2195,Kenny-Caffey Syndrome (KCS)
+rs587777446,,1,wg-2155,Aicardi-Goutieres Syndrome (AGS)
+rs587778515,,1,wg-2108,Congenital Amegakaryocytic Thrombocytopenia (CAMT)
+rs587779770,,1,wg-2158,Baraitser-Winter Syndrome (BRWS)
+rs58778,CREBBP;PAFAH1,2,wg-2064;wg-2221,Lissencephaly;Rubinstein-Taybi Syndrome (RSTS)
+rs587780275,,1,wg-2158,Baraitser-Winter Syndrome (BRWS)
+rs587780563,NAA10,1,wg-2211,Ogden Syndrome
+rs587780564,,1,wg-2128,Hereditary Motor and Sensory Neuropathy (HMSN)
+rs587780570,,1,wg-1975,Angelman Syndrome (AS)
+rs587780577,,1,wg-1975,Angelman Syndrome (AS)
+rs587781204,,1,wg-1975,Angelman Syndrome (AS)
+rs587782077,,1,wg-2114,Mitochondrial Complex II Deficiency (MC2D)
+rs587783343,BIN1,1,wg-2148,Centronuclear Myopathy (CNM)
+rs587783713,,1,wg-2009,Kabuki Syndrome (KS)
+rs587784198,,1,wg-2231,Sotos Syndrome
+rs587784343,,1,wg-2074,Neurodegeneration with Brain Iron Accumulation (NBIA)
+rs587784444,SRCAP,1,wg-2185,Floating-Harbor Syndrome (FHS)
+rs5888,,1,wg-42,Age-related Macular Degeneration (AMD)
+rs589085,,1,wg-2412,Salty Pretzels Preference
+rs58994923,,1,wg-1962,Entamoeba Infection
+rs5912838,,1,wg-133,UPDATE Hashimoto's Thyroiditis
+rs59325236,,1,wg-2265,Wheat Products
+rs5936487,,1,wg-1550,Dental Retardation
+rs5953210,,1,wg-1648,UPDATE Oral Cancer
+rs59661306,,1,wg-1968,Male HPV Infection
+rs59682,,1,wg-1966,HIV Infection
+rs6000782,SYNPR,1,wg-1752,UPDATE Autoimmune Hepatitis
+rs601338,FUT2,3,wg-92;wg-1965;wg-2323,UPDATE Gallstones;Norovirus Infection;Fried Fish Preference
+rs6025,,2,wg-80;wg-89,UPDATE Peripheral Artery Disease (PAD);Venous Thromboembolism (VTE)
+rs602633,,1,wg-2302,Long Lifespan Tendency
+rs602662,,1,wg-1751,UPDATE Primary Sclerosing Cholangitis (PSC)
+rs6048,,1,wg-89,Venous Thromboembolism (VTE)
+rs604912,,1,wg-2415,Hyperthyroidism
+rs6053005,,1,wg-1700,Vitamin C Nutritional Requirement
+rs606231193,,1,wg-2215,Renpenning Syndrome (RENS)
+rs606231410,,1,wg-1578,Autosomal Recessive Non-Syndromic Deafness
+rs60652225,LMNA,1,wg-2191,Hutchinson-Gilford Progeria Syndrom (HGPS)
+rs6107516,,1,wg-1969,Prion Infection
+rs6113492,,1,wg-1585,Male Baldness
+rs61140,TGM6,1,wg-1960,M. tuberculosis Infection
+rs611744,,1,wg-103,UPDATE Dupuytren's Disease
+rs61195,LMNA,1,wg-2097,Mandibuloacral Dysplasia with Type A Lipodystrophy (MADA)
+rs612969,,1,wg-1958,Vertigo
+rs6133175,,1,wg-1700,Vitamin C Nutritional Requirement
+rs613872,,1,wg-1715,Anti-Loneliness
+rs61748,MECP2,1,wg-2216,Rett Syndrome (RTT)
+rs61750,,1,wg-2216,Rett Syndrome (RTT)
+rs61750420,PEX1,1,wg-214,Zellweger Syndrome Spectrum
+rs61750427,,1,wg-1581,Peroxisome Biosynthesis Disorder
+rs61751286,,1,wg-2120,Thrombocytopenia
+rs61751407,,1,wg-2083,Cone-Rod Dystrophy (CRD)
+rs61762,RPS19,1,wg-2178,Diamond-Blackfan Anemia (DBA)
+rs617999,,1,wg-2363,Tea with Sugar Preference
+rs61816761,,1,wg-1526,Skin Moisturizing Ability
+rs61866017,PPARGC1B,1,wg-1556,Ability To Resist Senile Plaques
+rs61912110,TAS2R38,1,wg-2348,Grapefruit Preference
+rs62004866,,1,wg-129,UPDATE Back Pain
+rs62033400,,2,wg-2397;wg-2401,Coffee without Sugar Preference;Fizzy Drinks Preference
+rs62033405,FGF21,1,wg-2326,Smoked Fish Preference
+rs62084752,,1,wg-80,UPDATE Peripheral Artery Disease (PAD)
+rs62090520,,1,wg-2359,Cucumber Preference
+rs62100776,,1,wg-1563,Anti-Anxiety Ability
+rs62148582,,3,wg-2386;wg-2357;wg-2313,Haddock Preference;Herring Preference;Prawns Preference
+rs62148585,CDH13,1,wg-2360,Salmon Preference
+rs62171962,,1,wg-2356,Mackerel Preference
+rs62244,,1,wg-2411,Salami Preference
+rs62244860,,1,wg-2362,Capers Preference
+rs62244888,,1,wg-2402,Red Wine Preference
+rs62250717,APOE,2,wg-2327;wg-2328,Beef Preference;Pork Preference
+rs62353,,1,wg-1563,Anti-Anxiety Ability
+rs62379,,1,wg-2293,Leisure TV Watching Preference​
+rs62508,PAH,1,wg-1980,Phenylketonuria (PKU)
+rs62516550,BOLL,1,wg-54,Brain Aneurysm
+rs625435,,1,wg-1565,Ability To Resist Sunburn
+rs626283,,1,wg-1647,Alcoholic Fatty Liver Disease (AFLD)
+rs62638191,,1,wg-2122,Fundus Albipunctatus (FA)
+rs62640,RPGR,1,wg-2082,Retinitis Pigmentosa (RP)
+rs62645,TYR,1,wg-2123,Oculocutaneous Albinism (OCA)
+rs6265,BDNF,3,wg-1561;wg-1717;wg-1724,Resistance to Job Burnout;Spatial Memory Ability;Verbal Memory Ability
+rs6295,HTR1A,1,wg-1709,Social Communication Ability
+rs631312,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs63749824,,1,wg-1588,Early-Onset Alzheimer's Disease
+rs63749885,,1,wg-1588,Early-Onset Alzheimer's Disease
+rs63750666,,1,wg-1588,Early-Onset Alzheimer's Disease
+rs63751,PSEN1,1,wg-1588,Early-Onset Alzheimer's Disease
+rs6420424,,1,wg-256,Vitamin A Nutritional Requirement
+rs6424510,,1,wg-2398,BBQ Grilled Meat Preference
+rs6425817,,1,wg-2328,Pork Preference
+rs6435326,,1,wg-2333,Lamb Preference
+rs6435862,,1,wg-76,Neuroblastoma
+rs64398,CLSTN2,1,wg-1724,Verbal Memory Ability
+rs6441286,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs6441961,,1,wg-1483,Celiac Disease
+rs6444305,,1,wg-73,Follicular Lymphoma
+rs6449137,,1,wg-88,UPDATE Gout
+rs6455893,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs6457327,,1,wg-73,Follicular Lymphoma
+rs6457617,,1,wg-93,Rheumatoid Arthritis (RA)
+rs6478972,,1,wg-1937,Smoking x Colorectal Cancer
+rs6482359,,1,wg-1936,Haemorrhoids
+rs6495308,,1,wg-1951,Smoking x Hypertension
+rs6495446,,1,wg-59,UPDATE Kidney Diseases
+rs6499632,,1,wg-2282,Double Eyelid Tendency
+rs6519955,,1,wg-103,UPDATE Dupuytren's Disease
+rs653178,,1,wg-1483,Celiac Disease
+rs6539137,,1,wg-60,Amyotrophic Lateral Sclerosis (ALS)
+rs6541139,,1,wg-2384,Drinking Water Preference
+rs6547741,,1,wg-1648,UPDATE Oral Cancer
+rs6564851,,1,wg-256,Vitamin A Nutritional Requirement
+rs6574611,,1,wg-2415,Hyperthyroidism
+rs6579837,,1,wg-65,UPDATE Sjögren's Syndrome
+rs6583048,,1,wg-106,UPDATE Hypothyroidism
+rs6596473,,1,wg-1549,Periodontitis
+rs66067,MYO1H,1,wg-1559,Emotional Stability
+rs660895,,1,wg-93,Rheumatoid Arthritis (RA)
+rs662,,1,wg-87,Coronary Heart Disease (CHD)
+rs664143,,1,wg-91,UPDATE Lung Cancer
+rs6651255,,2,wg-129;wg-1650,UPDATE Back Pain;UPDATE Lumbar Disc Herniation
+rs6666258,,1,wg-39,Atrial Fibrillation
+rs6675281,,1,wg-38,Late-Onset Alzheimer's Disease
+rs6686722,,1,wg-128,UPDATE Attention Deficit Hyperactivity Disorder (ADHD)
+rs6687758,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs670676,,1,wg-75,UPDATE Renal Calculi
+rs671,ALDH2,7,wg-249;wg-2275;wg-1;wg-1940;wg-1941;wg-1938;wg-1946,Alcohol Metabolism;Cirrhosis;Alcohol Flushing;Drinking x Bladder Cancer;Drinking x Colorectal Cancer;Drinking x Esophagus Cancer;Smoking x Esophagus Cancer
+rs6718656,APOE,1,wg-2308,Bacon Preference
+rs6727752,,1,wg-2288,Morningness Preference​​
+rs6732655,,1,wg-1748,UPDATE Epilepsy
+rs6742078,,1,wg-92,UPDATE Gallstones
+rs6747171,,1,wg-2387,Black Pepper Preference
+rs6751993,,1,wg-2301,Frailty Tendency
+rs6753393,,1,wg-1958,Vertigo
+rs6756973,,2,wg-2291;wg-2286,Free Earlobe Tendency;Stool Frequency​​
+rs67588220,,1,wg-1974,Insomnia
+rs6759298,,1,wg-100,UPDATE Ankylosing Spondylitis (AS)
+rs6761276,,1,wg-2273,Myocardial Infarction (MI)
+rs676996,,1,wg-1936,Haemorrhoids
+rs67703,,1,wg-1722,Openness
+rs6770476,,1,wg-2276,Multisite Chronic Pain
+rs67706,,1,wg-1708,Anti-Aggression
+rs6789291,,1,wg-2370,Sardines Preference
+rs6793295,,1,wg-81,Idiopathic Pulmonary Fibrosis (IPF)
+rs6798507,FOXP1,1,wg-2375,Cornflakes Preference
+rs6799195,,2,wg-2350;wg-2307,Chilli Pepper Preference;Curry Preference
+rs6804842,,1,wg-2344,Mushroom Preference
+rs6808586,,1,wg-2343,Crisps Preference
+rs6809477,SYNPR,1,wg-1752,UPDATE Autoimmune Hepatitis
+rs68327,IKBKAP,1,wg-1714,Agreeableness
+rs68355,,1,wg-1557,Subjective Well-being
+rs6871626,,1,wg-1961,M. leprae Infection
+rs687289,,1,wg-89,Venous Thromboembolism (VTE)
+rs68820,,1,wg-1559,Emotional Stability
+rs6882046,,2,wg-2350;wg-2307,Chilli Pepper Preference;Curry Preference
+rs6891174,,1,wg-121,UPDATE Stroke
+rs6897876,,1,wg-82,Testicular Cancer
+rs68979932,,1,wg-69,Multiple Sclerosis (MS)
+rs6903956,,1,wg-87,Coronary Heart Disease (CHD)
+rs6905544,,1,wg-2292,Leisure Computer Use Preference​
+rs6910516,,1,wg-71,UPDATE Behçet’s Syndrome
+rs6912493,,1,wg-2373,Avocados Preference
+rs6926377,,1,wg-2276,Multisite Chronic Pain
+rs6932730,SYNPR,1,wg-1752,UPDATE Autoimmune Hepatitis
+rs6939340,,1,wg-76,Neuroblastoma
+rs6951643,,1,wg-1969,Prion Infection
+rs6952464,,1,wg-1546,Open-Angle Glaucoma
+rs69685,,1,wg-2295,Telomere Length
+rs6968865,,1,wg-2397,Coffee without Sugar Preference
+rs699407,,1,wg-250,Vitamin E Nutritional Requirement
+rs699947,,2,wg-74;wg-83,Renal Cancer;Thyroid Cancer
+rs700651,BOLL,1,wg-54,Brain Aneurysm
+rs7017252,,1,wg-130,Cleft Lip and Cleft Palate
+rs7025486,,1,wg-109,UPDATE Abdominal Aortic Aneurysm (AAA)
+rs703848,,1,wg-1974,Insomnia
+rs7042950,,1,wg-1766,Myopia
+rs70671,PJA1,1,wg-2285,Leisure Screen Time
+rs708686,,1,wg-92,UPDATE Gallstones
+rs708777,,1,wg-1973,Spontaneous Urticaria
+rs7101429,,1,wg-38,Late-Onset Alzheimer's Disease
+rs7105934,,1,wg-74,Renal Cancer
+rs7130190,,1,wg-1958,Vertigo
+rs71328455,,1,wg-2403,Gherkins Preference
+rs71359,TAS2R3,1,wg-2335,Wasabi Preference
+rs713598,TAS2R38,2,wg-2;wg-2365,Bitter Sensitivity;Whisky Preference
+rs7137828,,2,wg-133;wg-1749,UPDATE Hashimoto's Thyroiditis;UPDATE Primary Adrenal Insufficiency
+rs71393921,,1,wg-2338,Aubergine Preference
+rs715280,,1,wg-2313,Prawns Preference
+rs7176508,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs7178051,,1,wg-1950,Smoking x CHD
+rs7188250,,1,wg-2379,Apple Juice Preference
+rs7192,DRA,1,wg-2259,Peanuts
+rs720066,,1,wg-2294,Occupational Scientific Creativity
+rs7216389,GSDMB,2,wg-53;wg-2249,Asthma;Cats
+rs72415,MFSD8,1,wg-2075,Neuronal Ceroid Lipofuscinosis (NCL)
+rs7241775,,1,wg-2355,Banana Preference
+rs72549402,,1,wg-1989,Cholestasis
+rs72549407,,1,wg-2084,Hypomyelination and Congenital Cataract (HCC)
+rs72551348,,1,wg-2172,Crigler-Najjar Syndrome (CNS)
+rs72551362,PPARG,1,wg-2024,Familial Partial Lipodystrophy (FPL)
+rs72554,G6PD,1,wg-190,Glucose-6-Phosphate Dehydrogenase Deficiency (G6PD)
+rs7255613,,1,wg-70,Type 1 Diabetes (T1D)
+rs725613,,2,wg-69;wg-70,Multiple Sclerosis (MS);Type 1 Diabetes (T1D)
+rs72622646,PSCA,1,wg-2406,Cake Icing Preference
+rs72629670,,1,wg-1768,Astigmatism
+rs72658,COL1A2,1,wg-1986,Osteogenesis Imperfecta (OI)
+rs726857,,1,wg-2335,Wasabi Preference
+rs72700118,,1,wg-39,Atrial Fibrillation
+rs72750,LOXHD,2,wg-1578;wg-2056,Autosomal Recessive Non-Syndromic Deafness;Mucopolysaccharidosis (MPS)
+rs727503093,HRAS,1,wg-2171,Costello Syndrome
+rs727503818,,1,wg-2159,Bardet-Biedl Syndrome (BBS)
+rs727504156,,1,wg-2223,Salla Disease (SD)
+rs727504494,EYA1,1,wg-1582,Branchiootorenal Spectrum Disorder
+rs72817,,1,wg-2291,Free Earlobe Tendency
+rs72839449,APOE,1,wg-2353,Sausages Preference
+rs7291412,,1,wg-103,UPDATE Dupuytren's Disease
+rs72929257,SYNPR,1,wg-1752,UPDATE Autoimmune Hepatitis
+rs7294636,,1,wg-116,Osteoarthritis (OA)
+rs7297246,,1,wg-58,UPDATE Keloid
+rs729761,,1,wg-75,UPDATE Renal Calculi
+rs73034263,SEMA3F,1,wg-2376,Beetroot Preference
+rs73088,MYBPC;SMAD3,2,wg-196;wg-1727,Hypertrophic Cardiomyopathy;Loeys Dietz Syndrome
+rs730880460,HRAS,1,wg-2171,Costello Syndrome
+rs730882198,,1,wg-2235,Troyer Syndrome
+rs730882246,,1,wg-2081,Optic Atrophy (OA)
+rs731823,,1,wg-2290,Thick Eyebrow Tendency
+rs7326018,,1,wg-69,Multiple Sclerosis (MS)
+rs7334317,,1,wg-2336,Asparagus Preference
+rs735665,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs73598374,ADA,1,wg-1440,Deep Sleep
+rs7366355,,1,wg-1769,Cataract
+rs738409,,2,wg-1647;wg-2275,Alcoholic Fatty Liver Disease (AFLD);Cirrhosis
+rs739846,,1,wg-2275,Cirrhosis
+rs74030209,,2,wg-2291;wg-2286,Free Earlobe Tendency;Stool Frequency​​
+rs7412,APOE,2,wg-38;wg-348,Late-Onset Alzheimer's Disease;APOE Genotype
+rs74315,GJB3,1,wg-1577,Autosomal Dominant Non-Syndromic Deafness
+rs74333950,,1,wg-2281,Curly Hair Tendency
+rs743572,CYP17A1,1,wg-1566,Skin Oil Control Ability
+rs7439293,,1,wg-87,Coronary Heart Disease (CHD)
+rs7452960,,1,wg-80,UPDATE Peripheral Artery Disease (PAD)
+rs745772,,1,wg-1968,Male HPV Infection
+rs74597329,,1,wg-1959,Hepatitis Virus Infection
+rs746709222,AGK,1,wg-2226,Sengers Syndrome
+rs74696461,CDH13,2,wg-2385;wg-2383,Black Olives Preference;Green Olives Preference
+rs747291494,GAN,1,wg-2044,Giant Axonal Neuropathy (GAN)
+rs747650,,1,wg-1527,Ability To Resist Acne
+rs747680111,,1,wg-2225,Seckel Syndrome
+rs749272546,,1,wg-2033,Methylmalonic Aciduria and Homocystinuria
+rs74995702,,1,wg-2251,Shrimps
+rs750396637,,1,wg-2181,Ellis-van Creveld Syndrome (EVC)
+rs75051825,,1,wg-2380,Aniseed Preference
+rs7511986,FGF21,1,wg-2320,Onion Preference
+rs75120545,,1,wg-2288,Morningness Preference​​
+rs751356206,,1,wg-2181,Ellis-van Creveld Syndrome (EVC)
+rs751838040,,1,wg-2175,De Sanctis-Cacchione Syndrome (DSC)
+rs751881962,,1,wg-2011,Osteopetrosis
+rs7531806,,1,wg-1527,Ability To Resist Acne
+rs75323,ATP7B,1,wg-2239,Wilson Disease
+rs75344,,1,wg-2298,Occupational Attainment
+rs753611141,,1,wg-2081,Optic Atrophy (OA)
+rs754279998,,1,wg-2193,Joubert Syndrome (JS)
+rs7543472,,1,wg-1769,Cataract
+rs7548209,,1,wg-1769,Cataract
+rs7549180,,1,wg-2282,Double Eyelid Tendency
+rs7553711,,1,wg-114,UPDATE Narcolepsy
+rs755377592,F7,1,wg-2060,Factor VII Deficiency
+rs755383,,1,wg-82,Testicular Cancer
+rs75545,TMEM2,1,wg-2202,Meckel Syndrome (MKS)
+rs7555082,,1,wg-2415,Hyperthyroidism
+rs755622,,1,wg-1940,Drinking x Bladder Cancer
+rs7565213,,1,wg-1749,UPDATE Primary Adrenal Insufficiency
+rs75659,,1,wg-1969,Prion Infection
+rs7568987,,1,wg-2387,Black Pepper Preference
+rs7574865,,4,wg-50;wg-70;wg-1646;wg-65,Primary Biliary Cholangitis (PBC);Type 1 Diabetes (T1D);UPDATE Liver Cancer;UPDATE Sjögren's Syndrome
+rs75800,,1,wg-2032,Methylmalonic Aciduria
+rs758069019,,1,wg-1989,Cholestasis
+rs7585356,,1,wg-76,Neuroblastoma
+rs75875,,1,wg-2111,Acyl-Coenzyme A Dehydrogenase Deficiency
+rs7588395,,1,wg-2270,Metal Dust
+rs7590720,,1,wg-52,Alcohol Dependence
+rs7591518,,1,wg-2332,Salt Preference
+rs7594645,,1,wg-1723,Episodic Memory Ability
+rs7600261,,1,wg-1957,Gastroesophageal reflux disease
+rs760256854,,1,wg-2076,Nephropathic Cystinosis
+rs760805,,1,wg-1521,Allergic Diseases
+rs76084961,ADH1B,1,wg-2396,Lager Preference
+rs7610856,,1,wg-2338,Aubergine Preference
+rs761100,,1,wg-131,Developmental Dyslexia
+rs76112426,,1,wg-2289,Sun-Seeking Preference
+rs7613360,,1,wg-2303,Non-Cognitive Educational Attainment
+rs76135,ATF6,1,wg-2068,Achromatopsia
+rs7615568,,1,wg-1769,Cataract
+rs76167968,,1,wg-1521,Allergic Diseases
+rs7618456,,1,wg-2311,Dried Fruit Preference
+rs7625384,,1,wg-2337,Apples Preference
+rs762551,CYP1A2,1,wg-22,Caffeine Metabolism
+rs76267,,1,wg-2285,Leisure Screen Time
+rs7627468,,1,wg-75,UPDATE Renal Calculi
+rs7627615,,1,wg-2352,Vinegar Preference
+rs762826555,,1,wg-2077,Renal-Hepatic-Pancreatic Dysplasia (RHPD)
+rs763035,,1,wg-1567,Ability To Resist Rosacea
+rs763300393,,1,wg-2077,Renal-Hepatic-Pancreatic Dysplasia (RHPD)
+rs763317,,1,wg-91,UPDATE Lung Cancer
+rs76340,,1,wg-2298,Occupational Attainment
+rs763721044,,1,wg-1578,Autosomal Recessive Non-Syndromic Deafness
+rs7638932,,1,wg-2332,Salt Preference
+rs76395182,,2,wg-2398;wg-2333,BBQ Grilled Meat Preference;Lamb Preference
+rs7639618,,1,wg-116,Osteoarthritis (OA)
+rs7652331,,1,wg-40,Prostate Cancer
+rs76601,DYSF,1,wg-2204,Miyoshi Muscular Dystrophy (MMD)
+rs766413410,AGK,1,wg-2226,Sengers Syndrome
+rs76642637,,1,wg-2155,Aicardi-Goutieres Syndrome (AGS)
+rs766629205,,1,wg-2236,Warburg Micro Syndrome (WARBM)
+rs7671167,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs7671261,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs76774,SPATA7,1,wg-2082,Retinitis Pigmentosa (RP)
+rs7677751,,1,wg-1768,Astigmatism
+rs768643552,,1,wg-2081,Optic Atrophy (OA)
+rs76891664,,1,wg-1560,Empathy
+rs769068305,IRF6,1,wg-2013,Popliteal Pterygium Syndrome (PPS)
+rs76992529,TTR,1,wg-209,TTR-Related Cardiac Amyloidosis
+rs770241913,,1,wg-1994,Multiple Sulfatase Deficiency (MSD)
+rs770591449,,1,wg-2006,Hyperphosphatasia with Intellectual Disability Syndrome
+rs77061,,1,wg-1961,M. leprae Infection
+rs7708343,,1,wg-2287,Educational Attainment
+rs7709884,,1,wg-2385,Black Olives Preference
+rs77255,MUT,1,wg-2032,Methylmalonic Aciduria
+rs773306994,ABCC8,1,wg-2047,Leucine-Induced Hypoglycemia (LIH)
+rs77337,CNGB3,1,wg-2198,Leber Congenital Amaurosis (LCA)
+rs7741058,,1,wg-2371,Salad Dressing Preference
+rs774122562,,1,wg-2122,Fundus Albipunctatus (FA)
+rs77492,,1,wg-2010,Ataxia-Telangiectasia (AT)
+rs77503,,1,wg-2010,Ataxia-Telangiectasia (AT)
+rs775414124,DYM,1,wg-2230,Smith-McCort Dysplasia (SMC)
+rs7754251,,1,wg-106,UPDATE Hypothyroidism
+rs7758025,,1,wg-2272,Non-aromatic Solvents
+rs7773987,,1,wg-120,UPDATE Selective IgA Deficiency
+rs7775228,,1,wg-57,Allergic Rhinitis
+rs777893196,,1,wg-2225,Seckel Syndrome
+rs77791,CBS,1,wg-2005,Homocystinuria (HCU)
+rs77822,CBS,1,wg-2005,Homocystinuria (HCU)
+rs778390089,,1,wg-2104,Congenital Stationary Night Blindness (CSNB)
+rs7788008,,1,wg-2293,Leisure TV Watching Preference​
+rs781050795,ACP5,1,wg-2152,Spondyloenchondrodysplasia with Immune Dysregulation (SPENCDI)
+rs78218,TREX1,1,wg-2155,Aicardi-Goutieres Syndrome (AGS)
+rs78219,SURF1,1,wg-2199,Leigh Syndrome
+rs7833174,,1,wg-129,UPDATE Back Pain
+rs78340951,ALDOB,1,wg-195,Hereditary Fructose Intolerance
+rs7834364,,1,wg-2303,Non-Cognitive Educational Attainment
+rs7844965,,1,wg-2302,Long Lifespan Tendency
+rs7856850,,1,wg-85,UPDATE Obsessive-Compulsive Disorder (OCD)
+rs78620,ATM;GALT,3,wg-1739;wg-2010;wg-1977,Arrhythmogenic Right Ventricular Cardiomyopathy;Ataxia-Telangiectasia (AT);Galactosemia (GALAC)
+rs786200859,CTSA,1,wg-1976,Galactosialidosis (GSL)
+rs786200881,,1,wg-2016,Diastrophic Dysplasia
+rs786200937,,1,wg-2242,Yunis-Varon Syndrome (YVS)
+rs786204039,,1,wg-2023,Spondylocostal Dysostosis (SCDO)
+rs786204040,,1,wg-2023,Spondylocostal Dysostosis (SCDO)
+rs786204108,,1,wg-2119,Hemochromatosis
+rs786204426,,1,wg-1571,Pendred Syndrome
+rs786204501,,1,wg-2076,Nephropathic Cystinosis
+rs786204613,,1,wg-2130,Isovaleric Acidemia (IVA)
+rs786204684,RMRP,1,wg-2004,Metaphyseal Dysplasia without Hypotrichosis (MDWH)
+rs786204739,,1,wg-1576,Large Vestibular Aqueduct Syndrome
+rs786204778,,1,wg-1583,Jervell-Lange-Nielsen Syndrome
+rs786205166,,1,wg-2167,Cockayne Syndrome (CS)
+rs786205167,,1,wg-2167,Cockayne Syndrome (CS)
+rs786205519,,1,wg-2023,Spondylocostal Dysostosis (SCDO)
+rs786205551,MLPH,1,wg-2188,Griscelli Syndrome (GS)
+rs786205567,IFT122,1,wg-2049,Cranioectodermal Dysplasia (CED)
+rs786272,,1,wg-2315,Lemons Preference
+rs78802,CFTR,1,wg-2126,Hereditary Pancreatitis (HP)
+rs789731,GBA,1,wg-1762,Dementia with Lewy Body (DLB)
+rs791903,,1,wg-1485,UPDATE Otosclerosis
+rs79220,CRTAC1,1,wg-1712,Extraversion
+rs7927894,,1,wg-101,UPDATE Atopic Dermatitis
+rs79288427,,1,wg-2323,Fried Fish Preference
+rs793888524,,1,wg-2146,Lethal Congenital Contracture Syndrome (LCCS)
+rs793888525,,1,wg-2146,Lethal Congenital Contracture Syndrome (LCCS)
+rs793888540,TFAP2A,1,wg-2071,Branchiooculofacial Syndrome (BOFS)
+rs793888541,TFAP2A,1,wg-2071,Branchiooculofacial Syndrome (BOFS)
+rs7944004,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs79472,COL1A2;COL4A5;KMT2D,3,wg-1570;wg-2009;wg-1986,Alport Syndrome;Kabuki Syndrome (KS);Osteogenesis Imperfecta (OI)
+rs794726665,,1,wg-2181,Ellis-van Creveld Syndrome (EVC)
+rs794727182,OCRL,1,wg-2201,Lowe Syndrome
+rs794727261,COL2A1,1,wg-2018,Spondyloperipheral Dysplasia (SPD)
+rs794727316,KIF7,1,wg-2141,Acrocallosal Syndrome (ACLS)
+rs794727333,OCRL,1,wg-2201,Lowe Syndrome
+rs794727669,,1,wg-2165,Bruck Syndrome (BS)
+rs794727748,COL2A1,1,wg-1572,Stickler Syndrome
+rs794727774,FUCA1,1,wg-2121,Fucosidosis
+rs794727884,,1,wg-2138,Akinesia Deformation Sequence (ADS)
+rs794729652,,1,wg-1581,Peroxisome Biosynthesis Disorder
+rs79499,,1,wg-2262,Cleaning Agents
+rs79605,CLN3;KIAA05;PCCA;SCN2A,4,wg-2000;wg-2193;wg-2075;wg-1981,Developmental and Epileptic Encephalopathy (DEE);Joubert Syndrome (JS);Neuronal Ceroid Lipofuscinosis (NCL);Propionic Acidemia (PA)
+rs796051881,,1,wg-2142,Rhizomelic Chondrodysplasia Punctata (RCDP)
+rs796051901,,1,wg-2111,Acyl-Coenzyme A Dehydrogenase Deficiency
+rs796051938,,1,wg-2001,Maple Syrup Urine Disease (MSUD)
+rs796052002,,1,wg-2034,Methylmalonic Acidemia
+rs79693059,,1,wg-1974,Insomnia
+rs79704,MKS1;TYR,8,wg-2068;wg-1975;wg-2117;wg-2025;wg-2202;wg-2057;wg-2074;wg-2123,Achromatopsia;Angelman Syndrome (AS);Cardiofaciocutaneous Syndrome (CFC);Hypobetalipoproteinemia (HBL);Meckel Syndrome (MKS);Mucolipidosis;Neurodegeneration with Brain Iron Accumulation (NBIA);Oculocutaneous Albinism (OCA)
+rs797044787,L1CAM,1,wg-2054,Hydrocephalus Syndrome
+rs797044834,,1,wg-2219,Robinow Syndrome
+rs797044836,,1,wg-2219,Robinow Syndrome
+rs797044837,,1,wg-2219,Robinow Syndrome
+rs797044868,NAA10,1,wg-2211,Ogden Syndrome
+rs797044890,,1,wg-2194,KBG Syndrome
+rs797045044,,1,wg-1998,Frontometaphyseal Dysplasia (FMD)
+rs797045046,GNAS,1,wg-2038,Pseudopseudohypoparathyroidism (PPHP)
+rs797045071,SPTLC1,1,wg-2125,Hereditary Sensory and Autonomic Neuropathy (HSAN)
+rs797045099,,1,wg-2022,Spondyloepimetaphyseal Dysplasia (SEMD)
+rs797045101,,1,wg-1995,Polycystic Kidney Disease (PKD)
+rs797045112,UBR1,1,wg-2192,Johanson-Blizzard Syndrome (JBS)
+rs797045222,,1,wg-2106,Congenital Generalized Lipodystrophy (CGL)
+rs797045447,,1,wg-2225,Seckel Syndrome
+rs797045506,,1,wg-2174,D-2-hydroxyglutaric Aciduria (D2HGA)
+rs797045507,II,1,wg-2174,D-2-hydroxyglutaric Aciduria (D2HGA)
+rs797045673,L1CAM,1,wg-2197,L1 Syndrome
+rs797045905,,1,wg-2236,Warburg Micro Syndrome (WARBM)
+rs797045974,,1,wg-2209,Nicolaides-Baraitser Syndrome (NCBRS)
+rs797045976,,1,wg-2209,Nicolaides-Baraitser Syndrome (NCBRS)
+rs797046015,STAMBP,1,wg-2116,Microcephaly-Capillary Malformation Syndrome (MICCAP)
+rs797046091,,1,wg-2172,Crigler-Najjar Syndrome (CNS)
+rs7973260,,1,wg-1563,Anti-Anxiety Ability
+rs79831785,,1,wg-71,UPDATE Behçet’s Syndrome
+rs79852633,,1,wg-2282,Double Eyelid Tendency
+rs798766,,1,wg-1956,Bladder Cancer
+rs7994761,,1,wg-109,UPDATE Abdominal Aortic Aneurysm (AAA)
+rs8022678,,1,wg-2271,Dietary Sodium
+rs802734,,1,wg-1483,Celiac Disease
+rs80319144,,1,wg-46,UPDATE Restless Leg Syndrome (RLS)
+rs8032158,,1,wg-58,UPDATE Keloid
+rs80338,SMAD4;USH2A,2,wg-2134;wg-1573,Juvenile Polyposis Syndrome (JPS);Usher Syndrome
+rs80338642,,1,wg-2098,Chediak-Higashi Syndrome (CHS)
+rs80338643,,1,wg-2098,Chediak-Higashi Syndrome (CHS)
+rs80339979,,1,wg-1485,UPDATE Otosclerosis
+rs8034191,,1,wg-72,Chronic Obstructive Pulmonary Disease (COPD)
+rs803565,,1,wg-2081,Optic Atrophy (OA)
+rs80356517,,1,wg-2019,Spondylocarpotarsal Synostosis Syndrome (SCT)
+rs80356560,TIMM8A,1,wg-1584,Mohr-Tranebjaerg Syndrome
+rs80356586,OTOF,1,wg-2089,Auditory Neuropathy (AN)
+rs80356602,OTOF,1,wg-2089,Auditory Neuropathy (AN)
+rs80356661,PDX1,1,wg-2124,Pancreatic Agenesis (PAGEN)
+rs803567,GBA,1,wg-1762,Dementia with Lewy Body (DLB)
+rs80358,NPC2,1,wg-2210,Niemann-Pick Disease (NPD)
+rs80358233,,1,wg-211,Torsion Dystonia
+rs80358284,FZD4,1,wg-2029,Familial Exudative Vitreoretinopathy (FEVR)
+rs8043085,,1,wg-2415,Hyperthyroidism
+rs8050478,,1,wg-2279,Long Sleep Preference​
+rs806368,,1,wg-77,Nicotine Dependence
+rs80833,,1,wg-2328,Pork Preference
+rs8083301,APOE,3,wg-2322;wg-2325;wg-2411,Ham Preference;Roast Chicken Preference;Salami Preference
+rs8087252,,1,wg-93,Rheumatoid Arthritis (RA)
+rs8097318,,1,wg-2315,Lemons Preference
+rs8102137,,1,wg-1956,Bladder Cancer
+rs8107974,,1,wg-136,Non-Alcoholic Fatty Liver Disease (NAFLD)
+rs8176318,,1,wg-1769,Cataract
+rs8176719,,2,wg-262;wg-1964,ABO Blood Group;Plasmodium Infection
+rs8176746,,1,wg-262,ABO Blood Group
+rs8176747,,1,wg-262,ABO Blood Group
+rs8181047,,1,wg-1648,UPDATE Oral Cancer
+rs823128,,1,wg-47,Parkinson's Disease (PD)
+rs834828,CDH13,1,wg-2383,Green Olives Preference
+rs83813,FGF21,6,wg-2346;wg-2357;wg-2344;wg-2313;wg-2326;wg-2335,Cake Preference;Herring Preference;Mushroom Preference;Prawns Preference;Smoked Fish Preference;Wasabi Preference
+rs838133,FGF21,3,wg-2358;wg-2320;wg-2410,Eggs Preference;Onion Preference;Tinned Tuna Preference
+rs8450,,1,wg-2278,Sedentary Preference​​
+rs848,,1,wg-101,UPDATE Atopic Dermatitis
+rs852787,,1,wg-87,Coronary Heart Disease (CHD)
+rs854560,PON1,1,wg-1942,Drinking x CHD
+rs855791,,1,wg-251,Iron Nutritional Requirement
+rs861020,,1,wg-130,Cleft Lip and Cleft Palate
+rs86322,BBS9;CRX;DMD,4,wg-2159;wg-1755;wg-2103;wg-2198,Bardet-Biedl Syndrome (BBS);Duchenne Muscular Dystrophy (DMD);Dyskeratosis Congenita (DC);Leber Congenital Amaurosis (LCA)
+rs863223630,,1,wg-1998,Frontometaphyseal Dysplasia (FMD)
+rs863225015,,1,wg-2161,Becker Muscular Dystrophy (BMD)
+rs864321715,,1,wg-2109,Congenital Fibrosis of Extraocular Muscles (CFEOM)
+rs864621969,LMX1B,1,wg-2031,Nail-patella Syndrome (NPS)
+rs864621973,COL2A1,1,wg-2021,Spondyloepiphyseal Dysplasia (SED)
+rs86902,DSP,1,wg-1739,Arrhythmogenic Right Ventricular Cardiomyopathy
+rs86931,GLA,1,wg-2182,Fabry Disease
+rs869312907,COL2A1,1,wg-2021,Spondyloepiphyseal Dysplasia (SED)
+rs869320752,,1,wg-2165,Bruck Syndrome (BS)
+rs872071,,1,wg-102,Chronic Lymphocytic Leukemia (CLL)
+rs872863,,1,wg-93,Rheumatoid Arthritis (RA)
+rs873549,,2,wg-58;wg-59,UPDATE Keloid;UPDATE Kidney Diseases
+rs875107,,1,wg-1555,UPDATE Diverticulosis
+rs87885,APOB,1,wg-2025,Hypobetalipoproteinemia (HBL)
+rs878853263,NAA10,1,wg-2211,Ogden Syndrome
+rs879255275,,1,wg-2179,Duane Syndrome (DS)
+rs879255277,,1,wg-2179,Duane Syndrome (DS)
+rs88603,RYR2,1,wg-1731,Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+rs886039303,ACTA2,1,wg-1997,Multisystemic Smooth Muscle Dysfunction Syndrome (MSMDS)
+rs886039568,FOXC1,1,wg-2157,Axenfeld-Rieger Syndrome (ARS)
+rs886039734,,1,wg-2194,KBG Syndrome
+rs88604,SLC25A,2,wg-2113;wg-2210,Mitochondrial DNA Depletion Syndrome (MDS);Niemann-Pick Disease (NPD)
+rs886041791,,1,wg-2194,KBG Syndrome
+rs88605,,1,wg-1988,Epidermolysis Bullosa (EB)
+rs891511,,1,wg-104,UPDATE Hypertension
+rs892086,,1,wg-38,Late-Onset Alzheimer's Disease
+rs908832,,1,wg-38,Late-Onset Alzheimer's Disease
+rs909757,,1,wg-2288,Morningness Preference​​
+rs910083,,1,wg-77,Nicotine Dependence
+rs910873,,1,wg-68,Melanoma
+rs917997,,1,wg-1483,Celiac Disease
+rs9257616,HTR1A,1,wg-1709,Social Communication Ability
+rs9260734,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs9266406,,1,wg-71,UPDATE Behçet’s Syndrome
+rs9267673,,1,wg-1646,UPDATE Liver Cancer
+rs9268614,,1,wg-93,Rheumatoid Arthritis (RA)
+rs9268644,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs9269233,,1,wg-117,UPDATE Sarcoidosis
+rs9270970,,1,wg-98,Systemic Lupus Erythematosus (SLE)
+rs9271346,,1,wg-117,UPDATE Sarcoidosis
+rs9271365,,2,wg-133;wg-106,UPDATE Hashimoto's Thyroiditis;UPDATE Hypothyroidism
+rs9271366,,2,wg-120;wg-94,UPDATE Selective IgA Deficiency;Ulcerative Colitis
+rs9271588,,1,wg-2265,Wheat Products
+rs9272346,,1,wg-70,Type 1 Diabetes (T1D)
+rs9273363,,1,wg-70,Type 1 Diabetes (T1D)
+rs9273440,DRA,1,wg-2259,Peanuts
+rs9275319,,1,wg-1646,UPDATE Liver Cancer
+rs9275524,,1,wg-99,Alopecia Areata
+rs9275572,,1,wg-99,Alopecia Areata
+rs9275596,DRA,2,wg-2259;wg-2251,Peanuts;Shrimps
+rs9277724,,1,wg-71,UPDATE Behçet’s Syndrome
+rs9286060,,1,wg-1943,Drinking x Hypertension
+rs928674,,1,wg-1648,UPDATE Oral Cancer
+rs929626,,1,wg-1585,Male Baldness
+rs9298506,BOLL,1,wg-54,Brain Aneurysm
+rs9300002,,1,wg-2404,Cheesecake Preference
+rs9303277,,1,wg-50,Primary Biliary Cholangitis (PBC)
+rs931127,,1,wg-2262,Cleaning Agents
+rs9316871,,1,wg-1746,UPDATE Aortic Dissection
+rs9321402,EYA4,1,wg-2254,Noises
+rs9349379,,2,wg-87;wg-107,Coronary Heart Disease (CHD);Migraines
+rs9357152,,1,wg-1968,Male HPV Infection
+rs93726,,1,wg-2292,Leisure Computer Use Preference​
+rs9375188,,1,wg-2298,Occupational Attainment
+rs9379971,,1,wg-1558,Risk Tolerance
+rs9387963,,1,wg-2294,Occupational Scientific Creativity
+rs9389556,,1,wg-2280,Nap Preference​
+rs9389985,,1,wg-119,Scoliosis
+rs939834,TEX41,1,wg-2274,Arterial Stiffness
+rs940187,,1,wg-58,UPDATE Keloid
+rs9406328,,1,wg-1650,UPDATE Lumbar Disc Herniation
+rs944289,,1,wg-83,Thyroid Cancer
+rs9450607,,1,wg-1650,UPDATE Lumbar Disc Herniation
+rs94615,,1,wg-2287,Educational Attainment
+rs9465871,,1,wg-66,Type 2 Diabetes (T2D)
+rs9468,,1,wg-108,UPDATE Progressive Supranuclear Palsy (PSP)
+rs9468925,,1,wg-56,UPDATE Vitiligo
+rs9472137,,1,wg-106,UPDATE Hypothyroidism
+rs9482094,,1,wg-1555,UPDATE Diverticulosis
+rs9490002,,1,wg-2408,Whole Grain Cereals Preference
+rs9510787,,1,wg-63,UPDATE Nasopharyngeal Carcinoma
+rs9514089,,1,wg-92,UPDATE Gallstones
+rs9526240,,1,wg-1765,UPDATE Obstructive Sleep Apnea
+rs9532931,,1,wg-1587,Autism
+rs9543325,,1,wg-79,Pancreatic Cancer
+rs95615,DCT,1,wg-1522,Anti-Tanning Reaction Ability
+rs9569324,,1,wg-2372,Porridge Preference
+rs96118,ADH1B;GDF15,2,wg-2414;wg-2407,Bitter Ale Preference;Dark Chocolate Preference
+rs9619311,,1,wg-1951,Smoking x Hypertension
+rs9626908,,1,wg-103,UPDATE Dupuytren's Disease
+rs964184,ZPR1,2,wg-250;wg-134,Vitamin E Nutritional Requirement;Hypertriglyceridemia
+rs9642880,,1,wg-1956,Bladder Cancer
+rs9652490,,1,wg-47,Parkinson's Disease (PD)
+rs965513,,1,wg-83,Thyroid Cancer
+rs966221,,1,wg-121,UPDATE Stroke
+rs967168,CDH13,1,wg-2360,Salmon Preference
+rs9686661,,1,wg-134,Hypertriglyceridemia
+rs9694306,,1,wg-2361,Ice Cream Preference
+rs9821797,,1,wg-1699,Anorexia Nervosa
+rs9831894,,1,wg-120,UPDATE Selective IgA Deficiency
+rs9843304,,1,wg-92,UPDATE Gallstones
+rs984849,,1,wg-2304,Leadership Ability​​
+rs9851967,,1,wg-1483,Celiac Disease
+rs9858542,,1,wg-94,Ulcerative Colitis
+rs9862451,,1,wg-2357,Herring Preference
+rs987525,,1,wg-130,Cleft Lip and Cleft Palate
+rs9923231,,1,wg-1701,Vitamin K Nutritional Requirement
+rs99280,,1,wg-1943,Drinking x Hypertension
+rs9940128,,1,wg-1957,Gastroesophageal reflux disease
+rs99532,,1,wg-2301,Frailty Tendency
+rs9959497,FGF21,1,wg-2320,Onion Preference
+rs997154,,1,wg-1550,Dental Retardation
+rs99726,,2,wg-2399;wg-2363,Raw Carrots Preference;Tea with Sugar Preference
+rs9972653,,1,wg-2342,Chips Preference
+rs9982601,,1,wg-2273,Myocardial Infarction (MI)
