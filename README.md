@@ -1,6 +1,6 @@
 # Multipanel
 
-[View site](index.html)
+[View site](https://toki-bio.github.io/multipanel/)
 
 WeGene-derived trait/SNP panel work and related array design materials, plus other panels as the project expands.
 
